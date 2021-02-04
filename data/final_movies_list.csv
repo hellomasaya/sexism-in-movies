@@ -1,4 +1,4 @@
-Movie	Genre	Writer	Title	Path	Years
+Movie	Genre	Writer	Title	Path	Year
 10 Things I Hate About You	['Comedy', 'Romance']	['Karen McCullah Lutz', 'Kirsten Smith', 'William Shakespeare']	10_Things_I_Hate_About_You	../data/scraping/texts/10_Things_I_Hate_About_You.txt	1999
 12	['Comedy']	['Lawrence Bridges']	12	../data/scraping/texts/12.txt	2010
 12 and Holding	['Drama']	['Anthony Cipriano']	12_and_Holding	../data/scraping/texts/12_and_Holding.txt	2005
@@ -89,7 +89,6 @@ Antitrust	['Thriller', 'Crime', 'Drama']	['Howard Franklin']	Antitrust	../data/s
 Antz	['Adventure', 'Animation', 'Comedy', 'Fantasy']	['Todd Alcott', 'Chris Weitz', 'Paul Weitz']	Antz	../data/scraping/texts/Antz.txt	1998
 Apartment, The	['Comedy']	['Billy Wilder', 'I.A.L Diamond']	Apartment	../data/scraping/texts/Apartment.txt	1960
 Apocalypse Now	['Action', 'Drama', 'War']	['Francis Ford Coppola', 'John Milius', 'Joseph Conrad']	Apocalypse_Now	../data/scraping/texts/Apocalypse_Now.txt	1979
-Apollo 13	['Drama', 'Adventure']	['Jim Lovell', 'Jeffrey Kluger', 'William Broyles Jr.', 'Al Reinert']	Apollo_13	../data/scraping/texts/Apollo_13.txt	1995
 April Fool's Day	['Comedy', 'Horror', 'Mystery']	['Danilo Bach']	April_Fool's_Day	../data/scraping/texts/April_Fool's_Day.txt	1986
 Apt Pupil	['Drama', 'Thriller']	['Brandon Boyce']	Apt_Pupil	../data/scraping/texts/Apt_Pupil.txt	1998
 Arbitrage	['Drama', 'Thriller']	['Nicholas Jarecki']	Arbitrage	../data/scraping/texts/Arbitrage.txt	2012
@@ -265,8 +264,6 @@ Collateral	['Action', 'Crime', 'Thriller']	['Stuart Beattie', 'Frank Darabont', 
 Collateral Damage	['Action', 'Thriller']	['Ronald Roose']	Collateral_Damage	../data/scraping/texts/Collateral_Damage.txt	2002
 Colombiana	['Action', 'Crime', 'Drama']	['Robert Mark Kamen', 'Luc Besson']	Colombiana	../data/scraping/texts/Colombiana.txt	2011
 Color of Night	['Mystery', 'Romance', 'Thriller']	['Billy Ray', 'Matthew Chapman']	Color_of_Night	../data/scraping/texts/Color_of_Night.txt	1994
-Commando	['Action', 'Thriller']	['Richard Tuggle']	Commando	../data/scraping/texts/Commando.txt	1985
-Conan the Barbarian	['Action', 'Adventure', 'Fantasy']	['Thomas Dean Donnelly', 'Joshua Oppenheimer']	Conan_the_Barbarian	../data/scraping/texts/Conan_the_Barbarian.txt	1982
 Confessions of a Dangerous Mind	['Crime', 'Drama']	['Charlie Kaufman']	Confessions_of_a_Dangerous_Mind	../data/scraping/texts/Confessions_of_a_Dangerous_Mind.txt	2002
 Confidence	['Crime', 'Drama']	['Doug Jung']	Confidence	../data/scraping/texts/Confidence.txt	2003
 Constantine	['Action', 'Thriller', 'Fantasy', 'Drama', 'Horror']	['Jamie Delano', 'Garth Ennis']	Constantine	../data/scraping/texts/Constantine.txt	2005
@@ -372,7 +369,6 @@ Evil Dead	['Horror', 'Fantasy', 'Comedy']	['Sam Raimi']	Evil_Dead	../data/scrapi
 Evil Dead II: Dead by Dawn	['Horror', 'Fantasy', 'Comedy', 'Action']	['Sam Raimi', 'Scott Spiegel']	Evil_Dead_II:_Dead_by_Dawn	../data/scraping/texts/Evil_Dead_II:_Dead_by_Dawn.txt	2016
 Ex Machina	['Drama', 'Mystery', 'Sci-Fi']	['Alex Garland']	Ex_Machina	../data/scraping/texts/Ex_Machina.txt	2014
 Excalibur	['Adventure', 'Drama', 'Fantasy']	['Rospo Pallenberg', 'John Boorman']	Excalibur	../data/scraping/texts/Excalibur.txt	1981
-eXistenZ	['Adventure', 'Sci-Fi', 'Thriller']	['David Cronenberg']	eXistenZ	../data/scraping/texts/eXistenZ.txt	1999
 Extract	['Comedy', 'Crime', 'Romance']	['Mike Judge']	Extract	../data/scraping/texts/Extract.txt	2009
 Fabulous Baker Boys, The	['Drama', 'Romance']	['Steven Kloves']	Fabulous_Baker_Boys	../data/scraping/texts/Fabulous_Baker_Boys.txt	1989
 Face Off	['Action', 'Crime', 'Drama', 'Thriller']	['Mike Werb', 'Michael Colleary']	Face_Off	../data/scraping/texts/Face_Off.txt	1997
@@ -384,7 +380,7 @@ Fargo	['Comedy', 'Crime', 'Thriller']	['Joel Coen', 'Ethan Coen']	Fargo	../data/
 Fast Times at Ridgemont High	['Comedy', 'Drama']	['Cameron Crowe']	Fast_Times_at_Ridgemont_High	../data/scraping/texts/Fast_Times_at_Ridgemont_High.txt	1982
 Fatal Instinct	['Comedy', 'Crime', 'Thriller']	"[""David O'Malley""]"	Fatal_Instinct	../data/scraping/texts/Fatal_Instinct.txt	1993
 Fault in Our Stars, The	['Drama', 'Romance']	['Scott Neustadter', 'Michael H. Weber']	Fault_in_Our_Stars	../data/scraping/texts/Fault_in_Our_Stars.txt	2014
-Fear and Loathing in Las Vegas	['Comedy', 'Drama', '']	['Terry Gilliam', 'Tony Grisoni']	Fear_and_Loathing_in_Las_Vegas	../data/scraping/texts/Fear_and_Loathing_in_Las_Vegas.txt	1998
+Fear and Loathing in Las Vegas	['Comedy', 'Drama']	['Terry Gilliam', 'Tony Grisoni']	Fear_and_Loathing_in_Las_Vegas	../data/scraping/texts/Fear_and_Loathing_in_Las_Vegas.txt	1998
 Feast	['Action', 'Comedy', 'Horror', 'Thriller']	['Patrick Melton', 'Marcus Dunston']	Feast	../data/scraping/texts/Feast.txt	2005
 Ferris Bueller's Day Off	['Comedy']	['John Hughes']	Ferris_Bueller's_Day_Off	../data/scraping/texts/Ferris_Bueller's_Day_Off.txt	1986
 Field of Dreams	['Drama', 'Family', 'Fantasy']	['Phil Alden Robinson']	Field_of_Dreams	../data/scraping/texts/Field_of_Dreams.txt	1989
@@ -405,8 +401,6 @@ Four Rooms	['Comedy', 'Drama']	['Allison Anders', 'Quentin Tarantino', 'Robert R
 Foxcatcher	['Drama']	['E. Max Frye', 'Dan Futterman']	Foxcatcher	../data/scraping/texts/Foxcatcher.txt	2014
 Fracture	['Crime', 'Drama', 'Thriller']	['Dan Pyne']	Fracture	../data/scraping/texts/Fracture.txt	2007
 Frances	['Drama']	['Eric Bergren', 'Christopher De Vore', 'Nicholas Kazan']	Frances	../data/scraping/texts/Frances.txt	1982
-Frankenstein	['Drama', 'Fantasy', 'Horror', 'Romance', 'Sci-Fi']	['Steph Lady', 'Frank Darabont']	Frankenstein	../data/scraping/texts/Frankenstein.txt	1994
-Frankenweenie	['Animation', 'Comedy', 'Family']	['John August']	Frankenweenie	../data/scraping/texts/Frankenweenie.txt	2012
 Freaked	['Comedy', 'Sci-Fi']	['Tim Burns', 'Tom Stern', 'Alex Winter']	Freaked	../data/scraping/texts/Freaked.txt	1993
 Freddy vs. Jason	['Action', 'Fantasy', 'Horror', 'Thriller']	['Peter Briggs']	Freddy_vs	../data/scraping/texts/Freddy_vs.txt	2003
 French Connection, The	['Action', 'Crime', 'Thriller']	['Ernest Tidyman']	French_Connection	../data/scraping/texts/French_Connection.txt	1971
@@ -894,11 +888,10 @@ Saint, The	['Action', 'Romance', 'Thriller']	['Jonathan Hensleigh']	Saint	../dat
 Salton Sea, The	['Crime', 'Drama', 'Thriller']	['Tony Gayton']	Salton_Sea	../data/scraping/texts/Salton_Sea.txt	2002
 Sandlot Kids, The	['Comedy', 'Drama', 'Family']	['David Mickey Evans', 'Robert Gunter']	Sandlot_Kids	../data/scraping/texts/Sandlot_Kids.txt	1993
 Save the Last Dance	['Drama', 'Romance']	['Duane G. Adler', 'Toni-Ann Johnson', 'Cheryl Edwards']	Save_the_Last_Dance	../data/scraping/texts/Save_the_Last_Dance.txt	2001
-Saving Mr. Banks	[' Comedy', 'Drama']	['Kelly Marcel', 'Sue Smith']	Saving_Mr	../data/scraping/texts/Saving_Mr.txt	2013
+Saving Mr. Banks	['Comedy', 'Drama']	['Kelly Marcel', 'Sue Smith']	Saving_Mr	../data/scraping/texts/Saving_Mr.txt	2013
 Saving Private Ryan	['Action', 'Drama', 'War']	['Robert Rodat']	Saving_Private_Ryan	../data/scraping/texts/Saving_Private_Ryan.txt	1998
 Saw	['Crime', 'Horror', 'Mystery', 'Thriller']	['James Wan', 'Leigh Whannell']	Saw	../data/scraping/texts/Saw.txt	2004
 Scarface	['Action', 'Crime', 'Drama']	['Oliver Stone']	Scarface	../data/scraping/texts/Scarface.txt	1983
-Scary Movie 2	['Comedy', 'Horror', 'Sci-Fi']	['Shawn Wayans', 'Marlon Wayans']	Scary_Movie_2	../data/scraping/texts/Scary_Movie_2.txt	2001
 Schindler's List	['Drama', 'War']	['Steven Zaillian']	Schindler's_List	../data/scraping/texts/Schindler's_List.txt	1993
 Scott Pilgrim vs the World	['Action', 'Comedy', 'Fantasy']	['Edgar Wright', 'Michael Bacall']	Scott_Pilgrim_vs_the_World	../data/scraping/texts/Scott_Pilgrim_vs_the_World.txt	2016
 Scream	['Horror', 'Mystery', 'Thriller']	['Kevin Williamson']	Scream	../data/scraping/texts/Scream.txt	2022
@@ -1029,7 +1022,6 @@ Thing, The	['Action', 'Horror', 'Sci-Fi', 'Thriller']	['John W. Campbell Jr.', '
 Things My Father Never Taught Me, The	['Short', 'Comedy', 'Romance']	['Burleigh Smith']	Things_My_Father_Never_Taught_Me	../data/scraping/texts/Things_My_Father_Never_Taught_Me.txt	2012
 Thirteen Days	['Drama']	['David Self']	Thirteen_Days	../data/scraping/texts/Thirteen_Days.txt	2000
 This Boy's Life	['Drama']	['Robert Getchell']	This_Boy's_Life	../data/scraping/texts/This_Boy's_Life.txt	1993
-This is 40	['Comedy']	['Judd Apatow']	This_is_40	../data/scraping/texts/This_is_40.txt	2012
 Thor	['Action', 'Adventure', 'Fantasy']	['Ashley Miller', 'Zack Stentz']	Thor	../data/scraping/texts/Thor.txt	2011
 Thor Ragnarok	['Action', 'Adventure', 'Comedy']	['Eric Pearson', 'Craig Kyle', 'Christopher L. Yost']	Thor_Ragnarok	../data/scraping/texts/Thor_Ragnarok.txt	2017
 Three Kings	['Action', 'Adventure', 'War']	['David O. Russell', 'John Ridley']	Three_Kings	../data/scraping/texts/Three_Kings.txt	1999
@@ -1099,7 +1091,7 @@ War for the Planet of the Apes	['Action', 'Adventure', 'Drama']	['Mark Bomback',
 War Horse	['Drama', 'War']	['Lee Hall', 'Richard Curtis']	War_Horse	../data/scraping/texts/War_Horse.txt	2011
 War of the Worlds	['Action', 'Adventure', 'Sci-Fi', 'Thriller']	['Josh Friedman', 'David Koepp']	War_of_the_Worlds	../data/scraping/texts/War_of_the_Worlds.txt	2005
 Warm Springs	['Biography', 'Drama']	['Margaret Nagle']	Warm_Springs	../data/scraping/texts/Warm_Springs.txt	2005
-Warrior	[' Action', 'Drama']	"[""Gavin O'Connor"", 'Anthony Tambakis', 'Cliff Dorfman']"	Warrior	../data/scraping/texts/Warrior.txt	2019
+Warrior	['Action', 'Drama']	"[""Gavin O'Connor"", 'Anthony Tambakis', 'Cliff Dorfman']"	Warrior	../data/scraping/texts/Warrior.txt	2019
 Watchmen	['Action', 'Fantasy', 'Sci-Fi', 'Thriller']	['David Hayter', 'Alex Tse']	Watchmen	../data/scraping/texts/Watchmen.txt	2019
 Water for Elephants	['Drama', 'Romance']	['Richard Lagravenese']	Water_for_Elephants	../data/scraping/texts/Water_for_Elephants.txt	2011
 Way Back, The	['Adventure', 'Drama']	['Peter Weir', 'Slavomir Rawicz']	Way_Back	../data/scraping/texts/Way_Back.txt	2020
