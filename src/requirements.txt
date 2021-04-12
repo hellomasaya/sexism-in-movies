@@ -4,3 +4,7 @@ pip3 install IMDbPY
 pip3 install numpy
 pip3 install pandas
 pip3 install seaborn
+pip3 install spacy
+pip3 install lexicalrichness
+pip3 install vaderSentiment
+pip3 install textblob
