@@ -8,3 +8,5 @@ pip3 install spacy
 pip3 install lexicalrichness
 pip3 install vaderSentiment
 pip3 install textblob
+pip3 install progressbar
+pip3 install wordcloud
