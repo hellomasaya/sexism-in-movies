@@ -1,0 +1,73 @@
+Kinship
+wife
+husband
+mother
+father
+daughter
+son
+sister
+brother
+aunt
+uncle
+niece
+spouse
+mommy
+mom
+dad
+daughter-in-law
+daughter in law
+mama
+grandchild
+granddaughter
+grandson
+grandpa
+grandfather
+nana
+brother-in-law
+brother in law
+son-in-law
+son in law
+sister-in-law
+sister in law
+mother-in-law
+mother in law
+father-in-law
+father in law
+uncle
+aunt
+friend
+cousin
+grandmother
+godmother
+godfather
+godchild
+maid
+servant
+master
+former servant
+former maid
+great niece
+great aunt
+kinswoman
+sponsor
+sibling
+confessor
+nephew
+half-sister
+grand-daughter
+grand-son
+sister-in-law
+former employer
+step-mother
+step-daughter
+step-sister
+kinsman
+great uncle
+great grandfather
+ex
+ex-husband
+ex-wife
+mistress
+concuban
+girlfriend
+boyfriend
