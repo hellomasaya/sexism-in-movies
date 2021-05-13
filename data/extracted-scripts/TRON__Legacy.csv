@@ -1,0 +1,740 @@
+Speaker,Dialogue
+agent 1,This is the first time an Intruder has broken into X-Net!
+krod,I got a lock. Coordinate 32937!
+rush,I said WHICH WAY DID HE GO?
+rush,Come on guys! Nobody hacks X-Net. You gonna let him get away?!
+miles,"Rush, I think I found him!"
+miles,Check the old game grid!
+rush,"You get a cookie, Miles!"
+rush,I haven't played this since I was 4. But I was mighty awesome.
+rush,Score an ID on this leech?
+miles,Negative.    He's nobody.
+kelter,"Rush, you've gotta nail him."
+phlegman,Or you know we're all fired.
+miles,"Whoa, Rush! I groked a pattern in his moves! Fake left, go right!"
+miles,"You got him on the run, dude!"
+others,Crash him!   Rush RUSH RUSH.
+rush,Yikes!
+rush,He crashed me!
+nerds,FUBAR!    Bad Thing!   Flame War!
+rush,Miles.    Did you get a trace on him?!
+phlegman,We are so screwed.
+kelter,Who tells the boss?
+rush,Get the system back up!     Now!    Move!
+pr vp,"Weather is holding. Dress rehearsal on for 6PM. In the morning, we let the press in for a 7AM tech set-up, then you go live worldwide 9 AM sharp."
+sinclair,Delay the press until 8:30. I'll taking the stage at 8:50. Force a network break-in. Then it's news.
+sinclair,Play that again.
+video playback,"X-Net deploys radical software design, constructs proprietary white-hot firewalls, unleashes virus killer apps. Creating the most secure data network in history. Your data can never again be hacked, corrupted, stolen or destroyed. X-Net is the final solution, totally guaranteed"
+pr vp,"Um, that would be...    Legal."
+sinclair,"Change it back to the way I wrote it. With the launch of X-Net, this company guarantees one hundred percent secure data transmission. If we can't deliver on that promise, we deserve to be out of business."
+sinclair,"What can't wait, Rush?"
+rush,Um. X-Net was just breached by a hacker.
+rush,"System's back up, no permanent damage, but... But whoever's behind this, they're good, and they're still out there."
+sinclair,Identify the intruder.
+plexor,Identity not captured.
+sinclair,How did he enter X-Net?
+sinclair,How could you let this happen?
+plexor,I do what you programmed me to do. I am constructing X-Net.
+sinclair,New instructions - find and destroy the intruder!
+sinclair,No. We can't delay the opening of X- Net. Disregard my last command. Maintain construction priority.
+rush,"System is stable again, keep you fingers crossed."
+phlegman,Any luck finding the intruder?
+rush,Don't ask.
+rush,What's she doing here?    This is an operations meeting.
+kelter,"You and Meg still, eh...    At it?"
+rush,There was never anything between us.
+rush,She's Advanced Projects.    This has nothing to do with her.
+sinclair,"This company's existence depends on the flawless launch of X-Net in twenty- two hours, fifty-one minutes. Now somebody - some hacker, some competitor, somebody - just proved they're smarter than us. Breaking into X-Net is theoretically impossible."
+rush,"This creep's the best I've ever seen. He crosses platforms, cracks 128 bit encryption, cloaks every move, never leaves a trace."
+sinclair,"When you find him, I'll be sure to hire him."
+sinclair,"Boys and girls, we cannot sell a secure network that is not secure."
+pr vp,We delay the launch.
+sinclair,And the world assumes we've got a faulty product. And they'd be right.
+kelter,We ramp up our encryption schemes -
+phlegman,Thicken all firewalls -
+rush,"We can't win playing defense. And it's a bigger job than just swatting an intruder program. Somewhere, there's a human mind behind this thing. We have to get to that User and shut him - or her - down, or the game never ends."
+sinclair,"What do you need, Rush?"
+rush,20 guys for 20 days -
+sinclair,"We don't have 20 hours. This problem needs to be gone before tomorrow 9AM. Come on people, this company's future is at stake! It's time to think without a box!"
+rudy,"At a time like this, let's seek inspiration in the past. We should ask ourselves: What solution would spring from the inspired mind of our departed leader, Flynn."
+sinclair,Is the QF-401 is operational?
+meg,Um...   Midway into phase one testing.
+sinclair,"If we can't fight this intruder from the outside, then maybe we need to fight him from the inside."
+meg,I'm ready to do my part.
+sinclair,"This company needs a hero. Who among you is the smartest, most resourceful and courageous?"
+meg,Who else could it be?
+rush,Somebody going to tell me what I've been volunteered for?
+sinclair,"Rush, you're the only one I can trust to eliminate the intruder. But you won't be doing it the way you thought. Meg's been working on something down here that's, well... Beyond Top Secret."
+meg,This is where Flynn worked.   And where he died.
+sinclair,Meg has reconstructed Flynn's last project. This time it works.
+rush,You didn't pick this up at Circuit City. What is it?
+meg,"A Quantum Digitizer. Prototype, only one of its kind. Flynn designed it to break down physical objects into high resolution data. Luckily, we salvaged his key components and back-engineered the system."
+rush,That's...   Not possible.
+meg,Flynn was trying to take it one step further. He wanted to transport a human being into cyberspace.
+rush,You mean the urban legends? A computer sucked Flynn into cyberspace a long time ago.
+sinclair,We think it happened.
+sinclair,"It was a fluke. But Flynn worked for years, down here, trying to make it happen again. One day a test went bad. A plasma reaction destroyed this lab. Flynn was reduced to ash."
+rush,"I was never told how he died. It was all just weird, you know, because Flynn's the guy who hired me. But he was strange, kept to himself, I didn't know what job I was supposed to be doing.  Then you came onboard, the company woke up, we had a direction. It was kind of pathetic, because by the time Flynn died, everybody was too busy to care."
+sinclair,"He was brilliant in his way, but genius without discipline leads to nothing. His reckless habits nearly ruined this company... And for sure got him killed."
+meg,That kind of accident can't happen again. We've upgraded the system in ways Flynn never could. The chips didn't exist until now.
+meg,"Hey, Jo-Jo.    Have good trip?"
+rush,You want her to send me into cyberspace to catch that jerk who hacked us?
+sinclair,The future of this company depends on it.
+rush,You can bring me back okay?
+meg,Ask Jo-Jo.
+sinclair,"Destroy the intruder by 9AM tomorrow, Rush. I know if anyone can, it's you. I've had my eye on you for a long time. Score this hit and I'll make you my full partner in this company."
+rush,I won't let you down.   Let's do it.
+meg,I promise I'll get you back safely by 9AM tomorrow. But you have to promise me something too -
+rush,"You're a piece of work. You dumped me because you said I was too much about the company's needs and not enough about yours. Well here we are, the company needs their best guy, and you just can't admit how much to hurts to nominate me."
+meg,"This bigger than us, Rush. Listen to me. I don't know what you're going to find in there, but whatever it is, promise you'll follow your heart and do the right thing."
+rush,Oh.    So you think I have a heart?
+rush, I promise.
+dewey,It's overloading!
+rush,What's happening?!
+meg,System is losing stability!
+sinclair,There's been another breech!
+rush,It's the Intruder again!
+meg,We have to abort!
+sinclair,We might not get another chance!
+rush,DO IT!
+rush,It's YOU!    The intruder!
+rush,You are...    TRON?!?
+rush,ARRRGHH!
+rush,"Uh, well, I'm not exactly -"
+voice,RX23 reboot was not authorized!
+rush,Yow.     I know who programmed you.
+mega,"I am Mega, X-Net Intelligence."
+rush,Mega.     Cool.     I am -
+mega,A spy? Posing as RX23? Under which register were you rebooted?
+rush,I'm a User.
+mega,Detain this impostor.
+rush,"No wait, look. We're on the same side here. I got an ID on the intruder!"
+mega,"""Tron""?"
+mega,Plexor must know of this!
+mega,Plexor.   This is the one.
+rush,"My name is Rush. I'm a - Look, I got an ID on the Intruder. Do you know the program they used to call Tron?"
+plexor,You are in error. Zero match.
+rush,"Exactly. That's how he's getting past you. You don't see him for what he is. He's one of your own, gone bad. Tron was a crude security program from Encom's old days. Strictly low-rez, right? Archived and forgotten. But his source code contains all the architecture of every Encom system, including X-net. "
+plexor,"""User""?"
+rush,People. Like me. From the outside. People who write all of your instructions.
+mega,He displays random instability.
+plexor,Users do not exist.
+rush,How do we contact Sinclair?    He'll explain.
+plexor,"Define ""Sinclair""."
+rush,You don't know? Oh geez. There must be a way to link him into this.
+mega,"Zero match for a ""Sinclair""."
+rush,"He's your boss. Everybody's boss. Outside, in the real world."
+plexor,"Assuming the existence of a world beyond this, is a fatal error."
+mega,Plexor issues all commands.
+rush,"Okay. Sorry. I'm a program, guess I got a piece of my code corrupted. Whatever it is, it's given me power over Tron.  They saw me read his circuits. Can any other program do that?"
+mega,He creates alternative data channels at will.
+plexor,Chaos.
+rush,"Yeah, I'm a little unstable.    But I can find Tron for you."
+plexor,Release him.
+plexor,"Interface with this one. Exploit his ability. Locate the program ""Tron"" and destroy him on sight."
+mega,"Instructions received, Plexor."
+rush,I need to find a program called KROD. He's a specialist in pattern recognition. He snagged the last known position on Tron for me.
+mega,This is a waste of X-Net resources. You're strictly random. We will never find the intruder this way.
+rush,"Plexor ordered us to work together. You can't doubt his instructions, right?"
+mega,Of course not. But I am programmed to predict all possible errors. You contain an infinite quantity.
+rush,Meg for sure programmed you.
+mega,"I have no data on ""Meg""."
+rush,Never mind.    I'm being random.
+rush,X-Net is amazing. It's going to change everything. Unless one rogue program called Tron brings it down. Do you believe he could?
+mega,I calculated the probability.  He could crash it all.
+rush,So we're working together on this?
+mega,"As instructed, I will interface."
+mega,"The program ""KROD"" is over there."
+rush,What a dump.
+rush,Hey.    Interface.
+krod,Three more hub cities have been attacked by viruses!  But X-Net opens soon! You will travel in total security!
+mega,This is the one you seek?
+rush,It's gotta be -
+krod,Krod!
+rush,Krod!
+krod,"Yeah, yeah -     Heeey!"
+rush,The best pattern recognition program ever.  This guy can filter a river of junk data and pull out the good stuff.
+krod,"You know it, dude!"
+krod,Who is this guy?
+rush,"Miles - I mean Krod, you flew the search engine. You ran a trace on a hotshot lightcycle rider. The red guy. Remember?"
+krod,"Well. Eh. I'd like to help you, but truth is, I just got rebooted from a big crash. There's nothing left in my memory from before."
+mega,This will yield zero.
+rush,Hang on.
+rush,"Remember, Krod? You were watching this lightcycle duel, a red guy and a green guy, head-to-head."
+rush,"The green guy faked out the red guy, but the red guy double-faked the green guy."
+krod,Okay! YES! And the green guy splattered big time! It was awesome! How could I forget that?!
+rush,Where did the red guy go after that? You didn't crash right away.
+krod,He escaped out this hidden exit -
+krod,THAT GUY!   The RED GUY!
+rush,Did you jack his coordinate?
+krod,"And the green guy was YOU! You got rebooted?! They called you, um - Don't tell me, I got it, eh -"
+rush,Call me Rush.
+krod,Yeah! Whatever. You're good. How'd you do that thing with your hands?
+rush,It's complicated. You're coming with us to the old game grid. We're going to find Tron and shut him down.
+krod,Beats working.
+krod,Hey babe.   Did I ever know you?
+krod,The old game grid is this way -
+rush,How do I uplink to the real world?
+mega,The real world doesn't exist. Nobody can uplink. These ports were for simulation only.
+rush,Right... But how did those poor misguided fools boot up the link?
+mega,They stood in the center.   Held their disk above their head.
+sinclair,Stay on it!    Nobody sleeps!
+meg,There's a message on your secure link!
+sinclair,Where is this coming from - ?
+meg,It's HIM.
+sinclair,"My God, he's there."
+meg,"Rush, it's Sinclair and Meg."
+rush,I identified the intruder.
+sinclair,Tron? Wasn't Tron one of our programs?
+rush,I have a plan to crash Tron.
+mega,ABORT!
+meg,Rush?
+sinclair,He'd better not fail. 30
+rush,Hey! Double points if you nail me! Bring it on!
+rush,Stop!    End your routine!
+rush,Cease!    Desist! We're on the same team!
+rush,I'm X-Net too!
+rush,"No, hey, hey big guy, don't take it so hard. We all have bad days."
+mega,He was carrying out his programming. All I/O Ports are scheduled for de- rezz.
+krod,"Easy, big guy. No harm, no foul."
+rush,"D-Rezz, we can use a guy with your raw power. You ready to be a hero for X-Net?"
+krod,Cool. Now I've got somebody I can boss around.
+krod,Or not.
+rush,Let's get to the game grid.
+mega, You have a skill for manipulating other programs.
+rush,When do I get a shot at hacking your code?
+mega,Never. Our operating systems are incompatible.
+rush,You act like I've got a virus.
+krod,There it is.
+rush,The place we nail Tron.
+rush,D-rezz.   Cut a path.
+krod,That's good.     Keep doing it.
+rush,"Relax, buddy -"
+krod,"Pound him to bits, D-rezz."
+rush,He's wireless.
+krod,Freaky.
+mega,"Searching data bank. ""I-Beem"". Security Specialist, damaged in service, rated unstable."
+krod,"D-rezz, take out this blip."
+rush,Hang on. I-Beem. We're from X-Net CPU. You're doing a great job out here. Everybody knows it.
+rush,"That's right. Now, have you seen a rogue Program around here? He's red. Super fast. Known as ""Tron""."
+rush,When did he come through last?
+rush,"I-beem, we've got a plan to shut down that red violator. You're going to help us."
+rush,"First, you've got to let us onto the game grid."
+mega,This region is obsolete.
+rush,"There's bits of Tron's code all over. Krod, give D-Rezz and I-beem the escape coordinate Tron used on me."
+rush,"That's where Tron will bail out. We'll make sure he needs to. Go set up the trap.  You only get one shot at this, big guy. Stop him but don't destroy him, right? He's got data I need."
+mega,"If this is Tron's territory, he'll know we're here. He'll hide."
+rush,He can't resist a grudge match. He'll take risks trying to beat me. That's how we trip him up.  Whip it out.
+krod,You didn't bring one?
+mega,I don't have one.
+krod,"Hey, not a problem -"
+krod, - Hop on!
+rush,"Hang on, Krod."
+rush,I upgraded my unit.
+krod,"You are awesome, man.    I hate you."
+mega,Mmmm...   Hack me.
+mega,Resource conflict!    Fatal crash imminent!
+rush,Any sign of him?
+krod,Everything looks the same to me. Everything looks the same. The same. The same.
+rush,"Krod, snap out of it."
+mega,Tron will never expose himself.
+krod,The same...
+mega,Its futile.
+rush,Look.
+rush,"Remember the plan, Krod. Don't bail out until the last millisecond."
+rush,"Hang on tight, Mega."
+krod,Mmmm.
+rush,Wuss!   You call that speed!?
+krod,"Hey, what are you - ??"
+krod,No!   It's ME!
+rush,WHY DID YOU DO THAT?!
+mega,I-    I GOT SCARED!
+krod,There he goes!
+rush,We've got him now.    Let's go!
+krod,I could have done that.
+mega,We can't go any further.
+rush,What is it?
+krod,"Don't ask, dude."
+mega,"It's a memory leak, once it starts, it infects everything."
+mega,I agree.
+krod,Then it's settled.
+rush,"Stop. Listen to me. You might not believe there's a world outside of this one, but let's just say a guy named Sinclair is depending on me. If Tron got through here, then I can too. Who's with me?"
+rush,"Good. I-beem, take D-rezz, see what's up ahead. We'll guard this portal until you come back."
+rush,Better show me how to use mine.
+krod,No problem. It's all in the velocity- vector ratio.
+plexor,Report.
+mega,We interfaced with Tron.   He escaped into a dark zone.
+plexor,The Random One has proven effective?
+mega,He is all glitches and bad data. He virtually got us de-rezzed. I recommend we terminate this mission.
+plexor,"No. Proceed. If you keep Tron on the run, he cannot attack X-Net."
+mega,It's a poor allocation of resources.
+plexor,You have your instructions.
+rush,"""All glitches and bad data."" What's up with you? Ever since I got here, you've been working against me."
+mega,I act as Plexor programs me.
+rush,Blah blah blah. You've got you own processor. I can feel it working overtime. Did Meg program you to mess with me?
+mega,"I have no match for ""Meg"" -"
+rush,"First, you don't want to come with me, then you're all over me on the light cycle - so you can dump us over and blow the plan. We would have nailed Tron by now if it wasn't for you. What's your malfunction?"
+mega,Don't troubleshoot me!
+mega,The most effective alternative is to return to the main CPU and anticipate Tron's next attack.
+krod,You ram hog!
+rush,It's what I'm programmed to do.
+krod,What were you doing with her?
+rush,Nothing. She had a glitch.      I was just pinging her EPROM.
+krod,She let you?
+rush,We've got him now. 44
+rush,Guys!   Go around - behind Tron!
+rush,Ouch!
+rush,Hey!   Pick on somebody your own size!
+rush,You've got no data on me.
+rush,"D-rezz, pull me up!"
+rush,"Hang on, man! HANG ON!"
+rush,NOOOO!
+rush,I know who you are. Encom security program Tr856 - TRON!
+rush,Who is your User??
+rush,Who programmed you?? I know your encryption code. Tell me your User or I shut you down.
+rush,I can shut you down with a nine digit code. WHO IS YOUR USER?? 392 -
+rush,"Tell me, Tron! Who programmed you? Here's your encryption code! 3-6-2- 6-6-8 -"
+rush,ARRGGHHH!    3-6-2-6-6-8-7 -
+rush,362668766!
+krod,You got him!
+krod,"Game over, dude."
+rush,It's more than I wanted. Now I'll never know who his User is.
+krod,We're heroes!
+krod,They'll give us a slot in the main server!
+krod,"Rush, now you can finish pinging Mega's EPROM!"
+rush,Where is Mega?
+krod,Right behind me.
+rush,MEGA??
+rush,Mega...
+krod,I recognize... Trouble.
+rush,"I-beem, go for help.      Zap your butt out of here."
+dark figure,A User shows up.
+rush,"Yeah, I'm a User. A superior being. The first to enter this realm. And you are - ?"
+flynn,The first.
+rush,Flynn.   How can you be here?
+krod,You know this dude?
+rush,"Yeah, he's a lunatic!"
+flynn,Rush Nortebi. I remember hiring you.
+krod,Somebody tipped these guys off about us.
+mega,Not soon enough.
+mega,You weren't supposed to beat Tron. I thought for sure he'd finish you.
+rush,Thanks.
+mega,You destroyed our last hope!
+krod,I detect a pattern in her behavior.
+rush,She's a spy.
+rush,"No wonder I couldn't figure it out. I assumed Tron User was on the outside! If I'd known this, I would blown past him and come straight for you."
+mega,I failed our cause.
+flynn,You did everything you could.
+rush,Flynn never died...  Because your Quantum Digitizer worked. That's how you got here... I know - that's how I got here too.
+flynn,"The day after I hired you, you start sucking up to Sinclair. You thought I didn't know. Bet he offered your a partnership for this, right? You have no idea the damage you've done."
+rush,"I'm only getting started. Man, you were the company joke. Now I see why. You melted down your lab to take this little joyride. You got stuck here so all you can do is wreck other people's hard work."
+flynn,"Open your eyes, geek. My lab was rigged. My ""death"" was no accident. I pushed the button just in time to escape... Almost in time."
+rush,You're paranoid. Who would want you dead?
+flynn,"The same guy I programmed Tron to shut down. Same one you've been sucking up to. Sinclair. And his cyber-henchman, Plexor."
+rush,"Too many of your brain cells have gotten zapped in here, old man."
+flynn,"Rush, you lamer! You've been working for the bad guy."
+fighter one,He got away.
+flynn,Let's move. X-Net goons will soon be all over this place.
+flynn," I hired Sinclair as Encom's business guy, so I could do the dreaming. Right off, he wanted to ""capture the market"" on data transmission. Had this plan called ""X-Net"", based on flawless efficiency, hyperlock security, encryption protocol uniformity. Blah blah. I was the boss, I told him to forget it. I knew it could go bad. But the guy had trouble taking no for an answer. He arranged for my lab to melt down. Sinclair took over my company and put X-Net on a fast-track. And here's where it's brought us."
+rush,What are they doing??
+flynn,Beating the competition.
+mega,They've got us outnumbered.
+flynn,We've got to choose our battles wisely. This way!
+krod,"Rush, why is X-Net doing this?!"
+kid program,No!   Let my daddy go!
+rush,How long has this been going on?
+flynn,For years.
+rush,Sinclair never told us about this. X-Net is creating the very terror that makes people want the security of X-net!
+flynn,"No more glitches, freeze-ups or shut- downs. Once X-Net is open, Plexor will destroy all other systems. All data flow will be controlled by his Master User -"
+rush,Sinclair.
+flynn,"All data flow - Sinclair's to control and abuse. Bank accounts, medical histories, your Blockbuster account, your buying patterns, your e-mail. And to think, Rush - all this time, you've been working 24/7, trying to impress a him."
+gps voice,Turn left now. Turn right now. Left. Right. NOW!
+rush,Sinclair betrayed me.
+flynn,Finally you get it.
+mega,Tron was our late hope.
+rush,We've got to stop this!
+mega,Rush was trying to expose us!
+flynn,They didn't see us.   Keep moving!
+rush,We've got to tell people on the outside -
+flynn,Plexor shut down all the I/O ports. Only HE communicates with the outside. Sinclair holds all the cards.
+flynn,How did you get here?!
+rush,Megan Randall sent me.  Her User. She fixed your lab and sent me here to take out Tron.
+flynn,"Megan Randall? I remember her. Smart, wise beyond her years. I can't believe she'd fall for Sinclair's lies."
+rush,What happened to them?
+mega,"Try to attack Plexor head-on, this is what happens. Because of you, there will be millions more."
+flynn,Lock up these two. We'll hold them for ransom. Or use them for target practice.
+rush,"Flynn. You think I'm Sinclair's flunky, but I'm not."
+rush,I'm sorry about Tron.
+krod,"Yeah, we're - Sorry?"
+rush,"We were just doing a job, we had no way of knowing the truth."
+krod,No way at all.
+rush,"Flynn, I was wrong about you. You've been doing the right thing in here. Plexor has to be shut down. Sinclair has to be exposed."
+krod,Like he said.
+rush,Krod and I are ready to help.
+krod,We are?
+flynn,"Mega, what do you read in him?"
+mega,Independent operating instructions. 
+rush,You don't know me.
+mega,He cannot to be trusted.
+rush,Trust?! You're the one who's been lying to me the whole time!
+flynn,"Mega's been risking her existence for our cause, lamer. That's more than you'll ever do.  Lock them away!"
+krod,"Yo, s'up?     Eh... X-Net rules, man."
+rush,Hey Krod...     Shut down.
+plexor,You are positive Tron was destroyed?
+plexor,"He is but a randomized Program, he got lucky. To our benefit."
+plexor,Flynn??
+plexor,Flynn... is here? He is the one behind this scheme to crash X-Net?
+plexor,And what of Mega?
+plexor,"Tron is gone, but his User lives?"
+plexor,Good work does not go unrewarded at X-Net. Would you like to be upgraded?
+marketing vp,You're not going to believe this!
+sinclair,Convince me.
+marketing vp,"Sales office has been flooded with calls. Major banks, airlines, city governments, the presidents of 26 nations - They all want to sign up for X-Net now. We're not even on- line yet and we're a hit!"
+sinclair,We're the only port in the storm.
+sinclair,Brilliant.
+sinclair,What uncertainy?
+plexor,The User called Flynn is here.
+sinclair,That's impossible.
+plexor,Flynn commanded the intruder Tron.
+sinclair,You've got to be wrong about this.
+plexor,I was programmed error-free.      By you.
+sinclair,Flynn...     escaped?!
+plexor,He leads a group who seek to prevent the opening of X-Net. The one called Rush has joined them.
+sinclair,Rush? My guy? What lies has Flynn filled him with?
+plexor,Or what truths?
+sinclair,This world can never know all I have done. You have a plan to contain Flynn?
+plexor,Of course.
+sinclair,Don't just contain him.    Destroy him.
+plexor,Instructions received.    And the one called Rush?
+sinclair,He knows too much. Get rid of him.
+plexor,Instructions received.
+rush,"Hear that, Krod? Never let them get to your weak spot."
+krod,Gurfle!   I never knew that.
+boole,We're ready for you now.
+flynn,If X-Net is allowed to open it's the beginning of the end of a free and open cyberspace. We can't let Plexor get away with this. Our game plan has not changed. Tron was specially programmed to break into X-Net and shut down power supplies. We would then exploit these weak points and cripple the system. Tron's role was essential One of you must take his place.
+flynn,Who among you can power Tron's disk and carry out his mission?
+flynn,"It's the most dangerous job. If you're not up for it, nobody's going to blame you."
+mega,"There are other ways to crash Plexor. I will return to him, he still trusts me. I will get close and crash him with direct contact -"
+flynn,It's futile. Plexor's personal defense measures are massive.
+fighter sentry,"Enemy scouts, headed this way!"
+plexor,Disperse to all sectors!
+plexor,"This was a preferred gaming arena for the User called Flynn. His moves are predictable, recursive, easily traced."
+plexor,That way!
+plexor,Down there.
+plexor,Fan out!    Search every buffer and cache!
+krod,"Dude, are we glad to see you!"
+plexor,You destroyed Tron.
+rush,Yes...    Where is Mega?
+plexor,She's not with you?
+krod,"She's with Flynn!       I mean, totally WITH Flynn -!"
+rush, Flynn was smart enough to interrogate her first.
+krod,Right.
+plexor, She contains sensitive data. Flynn cannot be allowed to hack her.
+rush,"Yeah, only -     We kicked Flynn's butt, too."
+krod,You should have seen it.       Flynn won't be a problem.
+plexor,Then...   Why were you imprisoned?
+plexor,Delete them all!
+plexor,It's a TRAP!
+flynn,Retreat! Over that way!     Move around their flank!
+flynn,Arrrgghhh!
+krod,Thanks.
+rush,I'll never let you forget it.
+krod,"Rush, we're screwed!    Now everybody's after us!"
+rush,"Nah, we're cool. We're with them!"
+krod,Awesome!    Can I do one?
+mega,Quick.     This way.
+plexor,"Mega, move aside! I will finish him!"
+mega,Strike us down. There will always be more to oppose you.
+plexor,What programming has he installed in you??
+mega,Flynn!   Go with the others!   Run!
+flynn,I'm not leaving you with this phreak.
+flynn,"Plexor, get over the control thing."
+rush,Drop the disk!
+flynn,I'll be damned.
+mega,Rush?!
+rush,ARRGH!
+rush, Is that all you've got?
+plexor,Raagghh!
+flynn,Rush!    This way!
+plexor,Delete them!
+boole,This way!   Down the pipe!
+mega,He's better than I thought.
+flynn,He's been sent for a reason.
+mega,What reason?
+flynn,Don't know yet. Sometimes we have to trust the bigger plan.
+rush,Mega!   Quick! Jump!
+rush,MEGA!!!
+plexor,You committed a fatal error.
+plexor,Their strategies and tactics lie encrypted in her memory. Bring her! I will hack from her what I need.
+rush,"I got it, I got it, I got it."
+krod,AWWWWWWW!
+rush,Shove it!    Go!
+krod,I remember now! Nothing to it!
+rush,Check it out!
+boole,Look out!
+rush,What?
+flynn,TURN AROUND!
+krod,I'm cool.    Not a problem.
+rush,They took Mega.
+flynn,She can handle herself for a while.
+rush,How do we attack Plexor next?
+quantz,You're with us now?
+boole,Do you know hard it is?   Opposing the power of Plexor?
+rush,"It's like the forty-sixth level of ConquerDome 6.1, while winning a side game of Tetras Ultra, doing six Instant messages and debugging a demo."
+flynn,All at the same time.
+rush,I'm there.   Krod too.
+krod,Say what?
+flynn,"We're going to need all the help we can get. Boole, can we make it to the dark zone from here?"
+boole,There is one possible route.
+flynn,We'll meet up with the code monkeys and combine forces.
+fighter 1,We gave it everything.
+fighter 2,Interface.   We can resist.
+fighter 3,Interface.
+plexor,Is completion on schedule?
+plexor,Boot up.
+mega,You treat me like I've been corrupted.
+plexor,I cannot predict the random effects Flynn might have caused in you.
+mega,You programmed me to gather intelligence. That's all I've ever done.
+plexor,How long have you known Flynn?
+mega,Enough time to gain his trust.
+plexor,Your behavior was highly authentic.
+mega,To him.    It had to be.
+plexor,Have you allowed Flynn to complete a full interface with you?
+mega,"I am programmed to allow such access only to you, Plexor."
+plexor,Flynn claims to be a User.     As did the one called Rush.
+mega,Users do not exist.
+plexor,You have seen nothing to make you doubt this?
+mega,Nothing.
+plexor,They possess no powers beyond those of routine Programs?
+mega,I have no knowledge of such powers.
+plexor,"Still, there is something about them I cannot compute. Flynn plans to attack me, doesn't he?"
+mega,Yes. And Rush will fight by his side.
+plexor,Where will they strike?
+mega,"Flynn does not decide until the hour of his attack. But he trusts me completely. When he knows the place, I will know it as well."
+plexor,"Perfect. They will be met with a final thrashing. Yes, let them come."
+mega,Have you further instructions for me?
+plexor,None for now. But stay close.
+plexor,"You came to me full of glitches and random routines. Look at you now. What an extraordinary piece of programming I have made of you. I created X-Net to the same standard of flawless beauty. Soon, its perfection will become all that is, and all that ever will be."
+mega,All events remain under your control.
+rush,Over there!
+krod,Those Programs think they're just being transferred!
+rush,Can we take out those X-Net guys?
+flynn,Our forces are too thin. We can't risk a battle that would reveal this position.
+flynn,BT!    JR!
+flynn,Good to see you guys. When did the X-Net goons start patrolling all the way out here?
+flynn,Hey guys. This is Rush and his main man Krod. They defected from Plexor's forces to fight with us.
+flynn,Excellent.   Let's see.
+krod,I've seen that somewhere.
+rush,It's the encryption pattern on Plexor's disk.
+flynn,Good eyes. We've got Mole Programs who score chunks of Plexor's personal code anywhere they can find it. These guys fit the pieces together. 
+flynn,How many of you crashed?
+flynn,The Teraflop Boys?     Algebrat?
+flynn,Oh Geez.
+flynn,Time is running out!
+krod,Yow. I get tired just watching these dudes.
+rush,"Just for laughs, try putting the circle on top of the pyramid."
+code monks, That's incongruous.
+rush,"If I'm wrong, ding me."
+flynn,What have we got to lose?    Try it.
+flynn,Not bad.
+krod,Good thing you didn't terminate us.
+rush,How do we use this thing to shut down Plexor?
+flynn, It's a copy of Plexor's master key. We can break into any X-Net facility and fry the power supply.
+rush,"But once Plexor knows we have it, he'll change the code."
+flynn,Yep.   We've got one shot.
+rush,Then we should take out the power supply to Plexor's main server.
+group,Yes! Take out Plexor's central server!
+flynn,"Hang on, guys, that's not as easy as it sounds -"
+rush,"I was inside the main server, I saw how it's laid out."
+krod,I used to work there!   I'll recognize where everything is!
+flynn,"Even with this key, it won't -"
+quantz,"We can pull it off, can't we Flynn? One final assault on Plexor's central server?"
+boole,Shut him down forever?
+rush,Of course we can.
+flynn,"Hey, the future depends on us.    How could we fail?"
+meg,It's almost fixed. I'll be able to bring back Rush soon -
+sinclair,"Excellent work. Unfortunately, I'm shutting down this project."
+meg,What?
+sinclair,Something came up. The company is at stake. I can't go into details.
+meg,But Rush would have no way to return!
+sinclair,"Meg. I will never hold you responsible. This is a tough call, but it's mine. Dismantle and destroy all of this equipment and software. Immediately."
+meg,Well -
+sinclair,Meg...   I'm not asking.
+meg,I understand.
+flynn,"It's a bummer being on the losing team, huh Rush?"
+rush,We'll trash X-Net. Then we'll go back to the our world and expose what Sinclair's done.
+rush,Do they have any idea our world exists? Do they understand what a User is?
+flynn,"Programs once connected freely with their Users. But Plexor shut down the I/O ports, severing all links. He controls all contact with the world we once knew. Programs operate on his instructions or none at all."
+rush,Or yours.
+flynn,It's nothing to brag about.    We're getting our butts kicked.
+rush,It there a way to contact Meg? She can transport us back to our world. Maybe it's better if we fight Sinclair on his own turf.
+flynn,I gave up the idea of going back a long time ago... You should too.
+rush,What do you mean?
+flynn,"Sinclair didn't get where he is by being dumb. Even if we survive Plexor's forces in here, Sinclair will make sure we never get back home."
+rush,But...   Meg said -
+flynn,I'm sure she'll do everything she can. It might not be enough.
+rush,"Oh, man."
+rush,Why didn't you tell anyone it was this bad?
+flynn,Rush. I think Meg suspects the truth about Sinclair. 
+rush,I thought she hated me.
+flynn,She believed in you more than you believed in yourself.
+rush,Do we really have a shot at winning against Plexor?
+flynn,We have his master key. And we have Mega working on the inside.
+rush,Mega... Are you sure about her? I get the feeling she plays both sides.
+flynn,"Plexor programmed her to perform his will. He's a control freak. I'm not. I programmed her to have a will of her own. Whatever she decides, it's up to her."
+rush,Sounds dangerous.
+flynn,Sometimes you've got to trust the bigger plan.
+flynn,"Guys... Rush is right about our final attack. If we've only got one shot, we should go for Plexor's central server. If we insert the hologon key in the main power supply, we can trigger a meltdown. Plexor will be have his best troops standing in our way. "
+flynn,I turbo-charged him to burn hot and burn fast. Who else could handle the operating code in this disk?
+flynn,You.
+rush,"Uhhh, I don't think so."
+boole,It could mean the difference between winning and losing.
+krod,"Hey, I'll try."
+rush,What do I do - ?
+rush,Yow!
+flynn,Steady. It's all about giving as much as you get. Let it become a part of you.
+krod,"Awesome, dude! Don't let go!"
+krod,HE DID IT!
+flynn,"Damn, look at that...     He did it."
+rush,It feels...    Awesome.
+flynn,"Don't flinch, Rush!   It's your disk now."
+rush,"Oh man, this is good."
+krod,Awwwww!   Where can I get one of those?
+boole,"It's for real, Quantz."
+quantz,We've got a chance to take down Plexor.
+plexor,Perfect. Any three of you could crash an army of Flynn's best. But I've prepare for his random acts by designing massive redundancy.
+meg,Dewey.   This your idea of a joke?
+plexor,Cybavor programming complete?
+plexor,Demonstrate.
+plexor,Install yourself over there.
+plexor,Attack!
+plexor,End routine.
+plexor,Elegant.
+plexor,Where is Mega?
+plexor,Download forces. Await my command.
+92," 114   CONTINUED:      X-Takks file out in perfect lines, turn perfect corners, dispersing into the compound. Each one moves in exactly the same way.  Plexor turns sharply to exit, encountering...      Mega.    Standing there obediently."
+rush,Don't take this the wrong way.
+krod,Don't drop me.
+krod,"Yeah, I recognize this place.    I know where everything is!"
+93," 115   CONTINUED:  He heads off, encounters a dead end.       Quantz pulls him the right way."
+flynn,"Rush, up there. See it?"
+rush,I hope you're right about Mega.
+mega,You.     Where is Flynn?
+rush,We're all here.
+mega,I arranged for your entry. An encryption portal has been left unlocked. Path 4786324BXY. Do you know the way?
+rush,We got it.
+mega,Hurry.
+plexor,You contacted them.
+mega,Yes.
+plexor,And?
+mega,I gave them the portal address. They will attempt entry soon.
+plexor,Perfect.    We will be waiting.
+flynn,"This is all yours, Rush."
+flynn,Go!    Quick!
+rush,No sweat.  OUCH.
+rush,Let's do it.
+95," 118   CONTINUED:  They head for the fortress along a surreptitious route, avoiding X-Takk patrols."
+mega,There it is.     That's the portal.
+plexor,Converge on all levels! Outside patrols close in behind these coordinates!
+flynn,Something's up.
+rush,Keep moving.
+boole,Portal 4786324BXY.       This is it.
+flynn,"The sooner Rush gets this into the main power supply, the sooner X-Net shuts down. And the more of us come out of here to tell about it."
+krod,"Oh man, I think I'm leaking."
+rush,Krod.   You'll do great.
+krod,Think so?
+rush,Your recognize patterns better than any of us. You'll know Plexor's moves before he does.
+krod,I hope you're right...     Rush?
+rush,Yeah man?
+krod,"Are you really a ""User""? Is there such a thing? Is that what makes you so good?"
+rush,"Flynn and I come from a realm no better or worse than here... One thing I know, neither place works unless you're looking out for the other guy. And we've got a word for what all of you are."
+boole,Obsolete?
+rush,Heroes.
+krod,Cool.
+quantz,Let's do it.
+krod,Nothing to it.
+plexor,OPEN IT!   OPEN FIRE!
+plexor,CEASE FIRE!
+plexor,You've been tricked!
+plexor,Mega has betrayed me for the last time! She is with the fighters! Find them! CRASH THEM ALL!
+mega,Flynn!   Keep moving!    This way!
+flynn,"I'm proud of you, Mega."
+mega,I linked with MEG.     Users exist. She instructed me.
+rush,"Go, Meg!"
+rush,Which way to the power supply?!
+krod, Ummmm... That way!
+tron,You're right! There it is!
+krod,And here they come!
+rush,"Block this choke point, slow them down. Can you guys do it?"
+quantz,Not a problem.
+krod,Whoa! Retreat! That way!     Keep firing! RUN! AHHH!
+rush,We have to get across.
+flynn,ARRGGHH!
+krod,Wait!     I know that dude!
+krod,I-beem!
+krod,We're taking out Plexor.    You with us or them?
+flynn,There.   You can make it across!
+flynn,"No, take Mega! I'll stay here and run interference."
+rush,You haven't got a chance by yourself.
+flynn,"Ah, these guys are wimps."
+mega,We're not leaving you.
+flynn,"My body is weak, but my will is strong. I promise, no matter what they do to me, I'll survive this. Trust the bigger plan."
+mega,But Flynn -
+flynn,GO!   NOW!
+plexor,Flynn. Your moment of obsolescence is upon you.
+flynn,"Freedom, Plexor. It's the better idea. That's why Mega chose my side."
+plexor,"If an idea is erased from all memory banks, it can be neither good nor bad. When each alternative has been removed, X-Net will simply BE."
+flynn,Crash me. Hack me. Do what you want. The yearning for freedom will last forever.
+plexor,Nice speech... USER!
+mega,Noooooo!!!
+plexor,Over there!    Surround them!
+rush,"We plug this into the control cell, X-Net is history."
+mega,Let's do it for Flynn.
+rush,NOW!
+mega,Over there!
+rush,AAARRGGGHHH!
+plexor,Where did you get that?!   No one knows this code but me!
+rush,"Your software has the biggest flaw there is, Plexor. You can't see you own mistakes."
+rush,Do it Mega!
+mega,RUSH!
+mega,Now who's obsolete?
+rush,Thanks guys.
+krod,I'll never let you forget it.
+mega,We're free.     At last we're free. 107
+sinclair,"In a world exposed to increasing data corruption, I hereby switch on the first global network offering 100% guaranteed data security. Flawless performance, zero downtime. The world works hard, the world deserves..."
+sinclair,X-NET!
+mega,I underestimated you.   Thanks.
+krod, You knew she always liked him.
+rush,"Whoa, ouch, what?       Ahhhhh!"
+mega,"Rush, what is it?"
+rush,Guys!   Mega!     NOOO!
+krod,Help him!
+quantz,It's the way it should be.
+boole,He's going back to the place he belongs.
+meg,Rush.   You made it!
+rush,"Like a bad cold, I'm always coming back."
+voices,He made it!    Rush! You okay?!
+rush, I met a program you wrote. She's just as incredibly beautiful and confusing as you.
+meg,I know. Mega told me all about what you did in there.
+rush,She gave you my coordinates.     That's how you uploaded me?
+meg,Yes.   Your coordinates...     and his.
+the guy,"She's done an amazing job here, Rush."
+rush,Flynn!
+flynn,I told you to trust the bigger plan.
+meg,"I'd come to suspect Flynn was alive, inside. But I had no way to know for sure."
+flynn,You picked the right guy to send in.
+meg,"Working down here, I became convinced someone tried to murder Flynn. But the only person I could confide in was the guy I suspected most."
+sinclair,What are you people doing down here!?! Get back to work! X-Net has CRASHED! We'll all be ruined!
+flynn,"Speak for yourself, Sinclair."
+sinclair,I ordered you to destroy this equipment!
+rush,"Hey, jerk, she doesn't do your dirty work. Neither do I. Not anymore. You lied to me, to all of us. You want to deal with somebody? I'm the guy who crashed X-Net."
+sinclair,"You're fired, everybody get out."
+flynn,"No, Sinclair. I'm back. And I'm the boss again. You're fired. Not only are you fired, you're going to have a lot of explaining to do to the SEC, the Justice Department and the FBI.  Hold him until the police get here."
+flynn,"X-Net is dead. But Encom lives. We're going to bring this company back to its place as the leader in finding the next big thing. I'll need to be free to do the dreaming. So, effective immediately, I'm appointing two bold, bright, courageous people to head worldwide operations."
+flynn,You both earned it.
+rush,Cool.
+meg,I love it.
+rush,We'll take it.  You get a division to run.
+miles,Yes.  Does that mean a bigger cubicle?
+flynn,Put on some coffee. You two are going to be putting in a lot of overtime together.
+meg,"Do you remember how, along time ago, you used to give me a professional congratulatory peck on the cheek?"

@@ -1,0 +1,706 @@
+Speaker,Dialogue
+1,pg. 2
+prologue,"Soul of the Age! The applause, delight, the wonder of our stage! Our Shakespeare, rise...  He was born the son of a glove-maker, and at some unknown time, armed with but an elementary school education, he went to London where, the story goes, he became an actor and eventually a playwright."
+2,pg. 3
+3,pg. 4
+pole,Break it down!
+pole,Jonson!   Jonson!!    Show yourself!
+4,pg. 5
+5,pg. 6
+interrogator,"You are Benjamin Jonson, playwright? Son of William Jonson, glass-blower, son of James Jonson brick-layer?"
+jonson,"I'm a writer, aren't I?   Of course I've bloody well been--"
+6,pg. 7
+figure,Ask him about the plays.
+jonson," Which would you prefer, my lord? A pastoral? An historical? An historical-pastoral, or an hysterical historical pastoral--"
+interrogator,"We are not interested in your plays, Jonson. We are interested in the plays given to you by Edward de Vere, Earl of Oxford."
+jonson,"I'm sorry my lord, but I am not sure I know whereof you speak. I have had the honor of meeting his lordship--"
+7,pg. 8
+interrogator,Where are the plays?
+oxford," Well, it's certainly... big."
+8,pg. 9
+southampton,"I promise you, Edward, you've seen nothing like it before! Nothing!"
+oxford,"Bricklayers and whores watching Aristophones?   You're quite right, Henry, not only have I never witnessed it, I'm not sure I care to."
+southampton," You're an elitist, you know that, Edward?"
+oxford,"There won't be puppets, will there?"
+usher,My lords...
+southampton,"The stage-craft is quite spectacular. Far more elaborate than anything I've seen at court. I've witnessed be- headings that god as my witness look as real as at the Tower, cannons fired in battle..."
+9,pg. 10
+southampton,"...and last week, they had some sort of a device to hoist cherubs into the air and fly over the entire audience!"
+oxford,An ap mekhanes thes. Deus ex machina. Machine of the Gods.
+10,pg. 11
+shakespeare,"And whither were you riding now, signior?"
+shakespeare,"O, pardon me, sir, twenty places more; your hot-house, your pig-house, or your whore-house!"
+nashe," He's got a wit, does Jonson."
+marlowe,"That might be so, but like a grain of wheat hid in a bushel of chaff: you shall seek all day ere you find it, and when you have it, it's not worth the search!"
+11,pg. 12
+woman,Ale!   Ale!!
+dekker,"Marlowe-- spot me a few pence, will you? Henslowe still owes me for ""Shoemaker's Holiday""."
+marlowe," That would be because no one saw ""Shoemaker's Holiday""."
+dekker,Ale here!
+nashe,Kit... Isn't that one of your unrequited loves in the box over there?
+marlowe, But with whom? Tell me not he prefers the company of such old grey men as that!
+nashe,"I think-- yes, by the beard, that's the Earl of Oxford. Old Tom Hooker used to play for him. Had his own acting troupe for private Court performances and the like."
+dekker,I wonder if he needs any material?
+marlowe,Certainly not any of yours.
+nashe,"No, no-- that was years ago. Had a falling out with the Queen, I heard. He's more of a recluse than a patron these days."
+12,pg. 13
+shakespeare,"Who, he, the noble there? Why, he's a gull, a fool, no salt in him i' the earth; man, he looks like a fresh salmon kept in a tub!"
+a groundling,Oi!   So that's what I been smelling!
+shakespeare,"He has his skin tann'd in civet, to make his complexion strong, and the sweetness of his youth lasting in the sense of his sweet lady. And, sadly, the poor man's brain is lighter than his feather..."
+13,pg. 14
+shakespeare,Ale? Me? Drink during a performance? I am a professional sir!  A complete and--
+14,pg. 15
+pole,This play has been declared seditious and illegal by Lord William Cecil!
+a groundling,Why don't you disperse William Cecil's arse!
+pole,Arrest that man!
+southampton,Damn it all.    Well! Off to Essex's then?
+jonson, Seditious? Seditious?! It's a comedy for god's sake! There's nothing seditious about--
+pole,"Oi, is that right, is it?    And you know this because?"
+jonson,Because I wrote the bloody thing!      And- -
+pole,Arrest him as well!
+15,pg. 16
+jonson, And your carbuncled father!
+essex,"...and how do the Cecils spend their time and energy? Shutting a theater! A theater, for god's sake? It's madness! No wonder the mob hates them so!"
+oxford,Out!
+16,pg. 17
+southampton,"Hmm? I'm not sure, two thousand, maybe more."
+oxford,And how many performances are there of a play like that?
+southampton,Five or six I suppose.
+essex,By the--!
+oxford," So! Ten thousand souls. All listening to the writings of one man-- the ideas of one man. That's power, Robert. And if there is one thing the Cecils understand, it's power."
+essex," And when did words ever win a kingdom? I think I'll keep my sword, thank you very much."
+essex, Henry... Some of my men have... intercepted... some of William Cecil's recent correspondence with King James of Scotland...
+17,pg. 18
+southampton,To James?   Elizabeth would never agree to-
+essex,"Elizabeth is old. Ill. Not of her old mind. Sometimes she doesn't even recognize me. And yet, still she refuses to name an heir."
+southampton,But a Scotsman? On the Tudor throne?
+essex,You are not in the Privy Council. Elizabeth does everything the Cecils wish of her. Everything!
+18,pg. 19
+southampton,"You know you need not ask. I stand with you, as I always have."
+oxford,"Essex played rather poorly, didn't he?"
+southampton, You heard?
+19,pg. 20
+oxford,I would have you deny him.
+southampton,The son of the Queen?
+oxford,"That is rumor only, Henry--"
+southampton,"Rumor? My god, all you have to do is look at Essex to see the Queen's reflection. Everyone thinks he's her son, everyone! And I for one would rather bow to a Tudor, bastard though he may be, than a Scotsman!"
+oxford,"I desire nothing more than to see the next king be the rightful king. But what Essex contemplates will surely lead to Civil War.  No. If this is to be done, it must be done carefully, skillfully."
+southampton,"As I heard it, Elizabeth exiled you from her presence for the last twenty years because of your ""skill"" at Court politics."
+oxford,"I only have your interests in mind, Henry. For as you so rightly point out, my interests are already lost."
+southampton,I know. Forgive me. You know how I feel about you. You have been a great friend to me ever since my father died. I promise you that I will do nothing rash without consulting you first.
+20,pg. 21
+oxford,Henry! Will you do me one thing more? Deliver a gift for me? A rather... elaborate gift?
+southampton,Sir Robert.
+robert cecil,My lord of Southampton.  Have you seen Essex?
+southampton,I believe he is still in the viewing chamber with her majesty...
+robert cecil, Alone?
+21,pg. 22
+southampton," With your father in London dealing with all the troubles in Ireland, who else should the Queen turn to but Essex?"
+footman,"By the grace of god, her majesty, Elizabeth, Queen of England, Wales and Ireland!"
+essex," Ah-- Majesty, I've been told my lord of Southampton has a gift for you."
+elizabeth, A gift?
+southampton,"Yes, your grace, though not from me."
+22,pg. 23
+elizabeth,"Are you this gift, my precious little man?"
+dwarf,"No, no, my most majestic majesty. I am a free man. My gift is a play, majesty."
+elizabeth,A play?
+robert cecil," Plays are the work of the devil, born from a cesspool of plague, whoredom, thievery, fornication, and heresy. You may tell your master that her majesty--"
+essex, --Will gladly accept your gift.
+elizabeth, Comedy? Or tragedy?
+dwarf,"Comedy, majesty."
+elizabeth, 23 pg. 24
+dwarf,"By... Anonymous, your majesty..."
+elizabeth,"Anonymous...?  Oh, but I do so admire his verse..."
+24,pg. 25
+25,pg. 26
+26,pg. 27
+young elizabeth,Lovely.    Lovely!
+boy oxford,"I did indeed, your majesty."
+young elizabeth,You sport with me.  Compose something.
+boy oxford,Now?
+27,pg. 28
+young elizabeth,Yes.   Now.
+boy oxford,"On what subject, your grace?"
+young elizabeth, Truth...
+boy oxford," For... Truth... is Truth... Though... never so old... and time cannot make that false, which once was true."
+young elizabeth, My lord of Oxford. It seems you have added a poet to your family's long line of warriors.
+boy oxford,"Madam, I am as accomplished with the sword and the musket as I am with verse."
+young elizabeth, Are you indeed?
+boy oxford," It is my only desire to one day be your majesty's most trusted servant in matters both of war and state, if you will but have me."
+young elizabeth," Why, Lord Cecil, it seems we may very well have found your replacement."
+william cecil,"We hope not too soon, majesty, we hope not too soon."
+28,pg. 29
+young elizabeth," And how liked you our young lord's play, William?"
+william cecil,"That is God's decision, your majesty. Not mine."
+young elizabeth,"Well, if plays are indeed such a sin, I pray I do not find my salvation until very late in life."
+jonson,And who are you?
+jonson,My lord...
+30,pg. 31
+oxford,"The Tudor rose. The most beautiful of flowers, don't you think?"
+jonson,"It looks to me to have quite a number of thorns, my lord."
+oxford,So it does.   So it does.
+jonson,"I am told, my lord, that I owe my freedom to you."
+oxford,That is true. And it was quite hard to come by. One does not cross my father-in-law lightly.
+jonson," My lord-- I'm sorry, does that mean my release is not officially sanctioned?"
+oxford,"Don't be an idiot Jonson, of course it wasn't.  But you are free, are you not?"
+31,pg. 32
+oxford,"I enjoyed your little comedy last week, Jonson. You have potential, great potential."
+jonson,"Thank you, my lord."
+oxford,But it's politics did seem to have quite an effect on the Tower. My father-in-law's men felt it quite seditious.
+jonson,Politics? My play had nothing to do with politics! It was just a simple comedy--
+oxford,"That showed your betters as fools who go through life barely managing to get food from plate to mouth, were it not for the cleverness of their servants.  All art is political, Jonson. Otherwise it would just be decoration. And all artists have something to say, otherwise... they'd make shoes. And you're not a cobbler, are you, Jonson?"
+jonson,"A play, my lord?"
+oxford,One you shall stage Bankside.
+jonson,Stage?
+32,pg. 33
+oxford,Under your name.
+jonson,"My name, my lord?"
+oxford,"I can't very well use my name, can I? I'm the seventeenth Earl of Oxford. The Lord Great Chamberlain of England, Viscount Bolebec, Lord Escales, Sandford and Badlesmere, etc, etc. No. I have a... reputation to protect. In my world, one does not write plays, Jonson. People like you do."
+jonson,"Yes. My lord. You wrote an entire play, my lord. I know how difficult--"
+oxford,"Not a play, Jonson, I've written many. No doubt, many more than you yourself. A good number performed at Court years ago, others never seen by a living soul."
+jonson,And you want... me to apply my name to this play?
+oxford,No. I mean you to put your name to all of them.
+jonson,All of them?
+oxford,"Well don't look like I just gutted your pet dog, Jonson. I mean to make you the most popular-- and therefore the most monetarily successful-- playwright in all of London."
+33,pg. 34
+jonson,My lord-- I really--
+francesco,"That is for your trouble, Signor Jonson. And your silence. If I hear you break that silence, then... not so good for Signor Jonson."
+jonson,Hello?   My lord?! I--
+william cecil,"So! I am gone for three days, and you somehow manage to let her spend all of them solely in the company of the Earl of Essex..."
+34,pg. 35
+robert cecil,"He is an Earl, father. I cannot deny him--"
+william cecil,"Of course not! You don't deny him anything. You find excuses. She is unwell, she is reading, she is seeing the Ambassador from Russia. For God's sake, use your imagination, Robert. Whatever will you do when I am gone?  We will have to deal with Essex soon. His ambitions are becoming a nuisance."
+william cecil,Now tell me about the play.
+robert cecil,"It-- it was an anonymous gift. Essex insisted it be performed, just to spite me in front of Court..."
+william cecil,Of course he did.  But what was it about?
+robert cecil,About? Some nonsense about fairies and cherubs.
+william cecil,...And dancing asses?
+35,pg. 36
+robert cecil,Father...    It was just a play...
+william cecil,"And do you know how long it took me to banish them from her presence? She adores them! Adores them! And Edward knows it.  Mark my words, Robert, he has done this for a purpose."
+robert cecil,Purpose?    What purpose?
+william cecil," But through your carelessness I must now deal not only with Essex, but Edward as well. For whether in shadow or in person, Edward has returned to Court!"
+young anne,"I am sorry for your loss, my lord. The realm lost a great lord with your father's death. We hope you will be happy in our house--"
+young oxford, No.    Only until I reach my maturity.
+william cecil,Because the Queen has bade it so. 
+37,pg. 38
+young oxford,Monsieur. Ca me fait plaisir de vous connaitre.
+william cecil,Nine to ten is Greek with Mister Simmons.
+young oxford," Dalon, an d'ego, hoti mathamata ge esti ha trafo psychas."
+young oxford, No.   Plato.
+william cecil," And you know your uncle, Mister Golding, who has petitioned me to allow you to assist him in his translations of ancient Latin texts into English."
+young oxford," Continetne, ut spero, Ovidii Metamorphose? Mihi honori erit, patrue"
+william cecil,"Then cosmography with Doctor Richards. Two to three is geography and history, and four to five fencing."
+38,pg. 39
+young oxford, And composition? Poetry?
+william cecil,"This is a Puritan home, your grace. We believe such activities to be the worship of false idols, and therefore a sin before the eyes of God."
+young oxford,"A sin? But surely there must be room for beauty and art in life, my lord."
+william cecil,Not in this household.
+young oxford,You were losing anyway.
+39,pg. 40
+young oxford,Really?
+40,pg. 41
+wider," Young Oxford CHARGES the tapestry, sword in hand.     He THRUSTS the sword THROUGH the tapestry.  The man screams in agony as he falls. He doesn't just die, but screams and screams and screams.  Young Oxford steps back-- half in horror... half in triumph. The SOUND of APPLAUSE takes us to:"
+shakespeare,Is it any good?
+jonson,How in blazes should I know?
+shakespeare,You haven't even read it?
+jonson,"I read a line or two-- I promised Henslowe I'd finish ""Eastward Ho"" by Saturday."
+shakespeare,And you say he's a nobleman?
+41,pg. 42
+jonson,"I tell you Will-- I came to London to become a great poet, to, to, be the conscience of our times, the soul of our age! To change the world, not to become someone else's--"
+shakespeare, Change the world? With rhyme?
+jonson,"Yes, why not? Why can't a man change the world with words?"
+shakespeare,"You know, it's actually not half bad..."
+42,pg. 43
+jonson,"Not half--?! You're an actor, what in God's name do you know about writing?! He's an amateur, Will, a complete and utter amateur. Last week gardening, this week playwrighting, next week hawking.  No. I won't do it. It would be an affront against the Muses..."
+shakespeare, How much money did you say he gave you?
+jonson,"What, you think my name can be bought, if the number's great enough, do you?"
+shakespeare,"No, not at all... I think we should keep your good name quite intact, thank you very much."
+43,pg. 44
+elizabeth,Ireland?
+william cecil,"There are rumors of his sending financial aid, and even troops. We must act quickly.  We must replace the Lord Lieutenant of Ireland, and send additional troops immediately, majesty."
+elizabeth,Replace?   With whom?
+william cecil,"I would recommend the Earl of Essex, your majesty."
+elizabeth,Essex?  To Ireland?  For how long?
+william cecil,"As long as the present crisis warrants, majesty."
+elizabeth,Impossible. He cannot be spared. We feel his counsel is of greater import with each passing day.
+william cecil,"I only recommend we send your most able subjects where they are most needed, majesty. "
+44,pg. 45
+elizabeth,But Essex?
+william cecil,"Essex's martial abilities are, in my opinion, the only antidote to the plague of Philip.  Though, Essex would not, unfortunately, be able to remain in the Privy Council if he is in Ireland..."
+elizabeth,And who would you advise to replace him?
+william cecil,Sir Robert Cecil.
+elizabeth,Your son?
+william cecil,"He is my own advisor first, my son second, majesty. His counsel has been invaluable to me, and no doubt will be to you as well."
+elizabeth,"Yes, yes, yes. We will send Essex to Ireland and place Robert on my Privy Council."
+45,pg. 46
+william cecil,By your own hand!
+young oxford,He was stealing my poems.
+william cecil,He was doing my bidding!
+young oxford,Yours?
+william cecil,Of course. As soon as Robert informed me that you were disobeying my express--
+young oxford,Robert?   Robert told--
+william cecil,Enough! Thou shalt not worship false idols in my household! Your everlasting soul hangs in the balance. Not poems. Your soul!
+young oxford,My poems are my soul!
+william cecil,"You have placed me in a grave position, Edward. "
+46,pg. 47
+young oxford,Sir. For the last three years you have managed to seize much of my inheritance--
+william cecil,"Hold your tongue, Edward, before you make a claim you cannot retract! I have been legally reimbursed for your education and living expenses."
+young oxford,"And now you suggest you be ""reimbursed"" the rest of my once considerable estates through your daughter's bed?"
+william cecil,No. This is how I suggest you keep your noble head from the executioner's block.
+47,pg. 48
+bishop,"...and in the fear of god, duly considering the causes for which matrimony was ordained. One was the procreation of children..."
+48,pg. 49
+nashe,"""Henry V"" by... No one?"
+marlowe,"And why would any of you admit to trying to better me in a historical drama? Comedy, yes, tragedy, perhaps. But never will one of you best me in historicals."
+49,pg. 50
+50,pg. 51
+51,pg. 52
+52,pg. 53
+southampton,William Cecil's convinced the Queen that only Essex can save Ireland from the Revolt.
+oxford,Henry--
+southampton,"I ask for your blessing, Edward."
+oxford,I can't give it to you.
+nashe,I for one wish to see this anonymous colleague of ours.  Playwright! Playwright!!
+southampton,"If he is to be my king, then it is my sacred duty to be with him in battle."
+53,pg. 54
+oxford,Henry-- Henry!!
+shakespeare,"I, I... It's been... I, I, want to... thank my actors, whose great acting brought... my words... to life due to their most finest acting. Ah... Thank you."
+oxford,An actor for god's sake?
+jonson,"My lord, I thought that--"
+54,pg. 55
+oxford,You presumed to think? On my behalf? Whatever made you believe you had that prerogative?
+jonson,"My lord, your voice is completely different than mine. My, my, my characters are--"
+oxford,Voice? You have no voice! That's why I chose you!  You at least kept my name from him?
+jonson," All, my lord? Is that possible?"
+oxford,Of course it is!
+anne,Who was that man?    I've seen him before.
+oxford, Dowry?
+anne,She cannot go into marriage without a dowry that is becoming to the daughter of the Earl Oxford.
+oxford,I can give her Brooke House and a hundred pounds.
+bridget,A hundred pounds? Father?     Mother!
+oxford,That is all we have to give at the moment.
+anne," Edward. Edward! Speak to me! Our family is in financial ruins, and, and you, you play the flute while Rome burns!"
+56,pg. 57
+oxford,Nero fiddled whilst Rome burned.
+anne,"For god's sake, who cares Edward? When your own daughter can't even have a suitable dowry?"
+oxford,"Anne-- If you could have seen them-- the mob... They, they didn't just sit there like the reptilia of court, faces motionless, fangs momentarily retracted. No! They, they jumped on stage, they fought the French! A butcher-- he actually broke his arm! He was so--"
+anne,Stop!   Stop it at once!!
+oxford,"The voices, Anne... The voices. I, I can't stop them... They, they come when I sleep, when I wake, when I sup, when I, I, I walk down a hall! The sweet longings of a maiden, the, the surging ambitions of a courtier, the foul designs of a murderer, the wretched pleas of his victims.    Only- - only when I put their words-- their voices-- to parchment are they cast loose, freed... Only then is my mind... quieted... at peace."
+57,pg. 58
+anne,Art thou possessed?
+oxford,I... don't know.
+shakespeare,"""From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.""  Incredible!! The whole bloody thing in verse?!"
+jonson," It's really not that difficult, if you try."
+shakespeare,And have you ever tried?
+58,pg. 59
+jonson,You can't play Romeo.
+shakespeare," Ben-- Ben! I'm an actor, every inch of me, down to my very toes... I want- - no, I need, crave-- to act. I can't just idle the day by with--"
+jonson,"So bloody well act like a writer! And for God's sake, keep off the stage. Writers don't have time to act."
+59,pg. 60
+young elizabeth,My lord of Oxford.
+oxford,Did he?
+young elizabeth,"Rash, yet brave. A boy-- and yet a man. Fair on the eyes, fairer to the ear..."
+61,pg. 62
+young oxford,"If I had known my absence would cause your grace so much... longing, I would have returned much-- much-- sooner."
+young elizabeth,Your wife must be much pleased by your presence once more at her side...
+young oxford,"If she is, it is but a small comfort to me. I am returned only under my father-in-law's insistence."
+young elizabeth, Cecil had told me your match was one of love.
+young oxford,"And so he would wish.  But how could one ever love the moon, after having first seen the sun?"
+62,pg. 63
+bessie,My lord. Her majesty went riding with the Earl of Oxford.
+young elizabeth,"And which country did you like the most on your travels, my lord?"
+young oxford,"I think Italy, your grace."
+63,pg. 64
+young elizabeth,And why is that? The weather?       The food?
+young oxford,"No their theater, which they call la Commedia dell'arte. And, of course, the women."
+young elizabeth,The women?
+young oxford,"They were more... clear with their desires than our English ladies. When they want something, they take it. They do not wait to be taken..."
+young elizabeth,"I can't decide. Are you Prince Hal...? Or Romeo? No. Benedick, maybe...? No-- "
+64,pg. 65
+young oxford, Puck?
+young elizabeth,"Yes, Puck!"
+young oxford,"Ah, but Puck would never fight for you in the Netherlands..."
+young elizabeth, The Netherlands?
+young oxford,"Well, why not? It's an open secret on the continent that you support the rebels against Spain-- and that you are commissioning Englishmen to help their cause. Spain's loss is England's gain, is it not?"
+young elizabeth,Is this why you bedded me? For a commission?
+young oxford,No.   No-- of course not--    I--
+young elizabeth,Leave me.    Leave at once!
+young oxford,Bess--
+young elizabeth,How dare you! How dare you!! I command you to leave my presence.
+65,pg. 66
+young oxford,"O Mistress mine, where are you roaming? O stay and hear... your true-love's coming, That can--  --kiss both high and low..."
+young elizabeth, You will stay in England... And in... my chambers...
+66,pg. 67
+marlowe, Do what?
+nashe," A play in iambic, in iambic pen...in- bic-pentameter. It's not that hard."
+jonson,Think you so? Have you ever tried?
+nashe,Of course not. But I could if I wanted...
+dekker,It wasn't all in verse.
+nashe,Ha!   See!   Even easier!
+shakespeare, Billy!!!
+67,pg. 68
+nashe,A fortnight?
+dekker,The maids love the romantic tragedies.
+marlowe,Precisely why I avoid them.
+nashe,"Aw, well. No worries. A one-trick pony. He'll never be able to do it again."
+68,pg. 69
+a playbill," in front of the theater announcing ""William Shakespeare's Hamlet"". Shakespeare's name is now above the title. We HEAR the audience howl with LAUGHTER as--"
+69,pg. 70
+groundling,Not a day too soon for old Cecil!!
+70,pg. 71
+71,pg. 72
+on stage," some of the audience members grab Shakespeare, and pull him on their shoulders, carrying him triumphantly out of the theater.  CUT TO:"
+pole, William Cecil was murdered?
+marlowe,"Not literally, of course. He was a character, a fictional character. But the metaphor was clear for anyone to see. And see, they did."
+pole,That is not for me to decide...
+72,pg. 73
+robert cecil,Not only in front of Court! But the entire City as well! We must arrest this Shakespeare and-
+william cecil,"No, Robert, think. If he is really as popular as you say, we would only anger the mob. No. We must strike at Edward directly."
+robert cecil,But we cannot maintain our authority if the mob thinks us laughing stocks--
+william cecil, Our authority comes from Elizabeth and from God! Elizabeth! Elizabeth is the key to all.
+73,pg. 74
+william cecil,James knows of the Queen's affection for Essex... and the rumors of his birth. He is justly concerned.  You will reply to him.
+robert cecil,I will reply to him?
+william cecil,"I am dying, Robert--  We both know this to be true. And I will not witness the next coronation."
+william cecil,"Help me to my bed, my son.  If we are to secure your place at the side of the next king, you must get that king his throne, not I."
+74,pg. 75
+robert cecil, Edward?
+william cecil,"He uses the tools at his disposal, as we use the tools at ours. But ours will win... as they always have."
+robert cecil," I-- I don't understand, father.    What does Edward--"
+william cecil,Edward seeks what we seek.   To choose the next King.
+william cecil,Are you certain?
+bessie,"Two cycles have passed, my lord."
+young elizabeth,I wish to marry him...
+william cecil,"Marry him, your grace? He is already married."
+young elizabeth,I can do what I will.
+william cecil,Can you?
+young elizabeth,I love him...
+william cecil,Would you risk your throne for him? Would you risk England for him?
+76,pg. 77
+young elizabeth,And Edward?
+william cecil,He must never know.
+young oxford,What have you done?
+william cecil,I am praying.
+young oxford," She won't see me! I've gone to her chambers three times, and she will not receive me. And now she's gone!"
+william cecil,She's on Progress.
+young oxford,Where?   Where did she go?
+77,pg. 78
+william cecil,"The Queen does not ask for my advice about matters of the heart, Edward. If she had, she hardly would have chosen you for her pleasure.  He has a point.  WILLIAM CECIL  And make me a grandson, an heir!  Off Young Oxford's pained expression.  CUT TO:"
+78,pg. 79
+jonson, Perhaps they haven't noticed..
+marlowe,I made sure they did...
+jonson,You informed on one of your own?   To the Tower?
+marlowe,"Watch who you judge, Ben, for as God is my witness, you may well find yourself doing the same before you meet your maker. We do what we have to, to survive, and survive well, in this life. All of us. And Will is definitely not one of us. You know he's illiterate, don't you?"
+jonson,"Why are you here, Kit?"
+79,pg. 80
+jonson,"You've had too much to drink, Kit. You're beginning to sound like one of your plays."
+marlowe,Ben! Tell me. We can go to him together. Guarantee his anonymity... for a price.
+jonson,"You reported on me as well, didn't you, Kit? Last year. That's why I was arrested, wasn't it? Because you went to the Tower?"
+marlowe," Ben, Ben... I had nothing to do with that."
+80,pg. 81
+essex, If the Rebels have stripped the northern borders... Then we must march south... and take Cahir Castle...
+general, My lord. `Tis a well-defended fortress.    Two thousand men at least. We cannot--
+essex,"So what would you have me do? Spend the entire spring encamped? I am sent to Ireland to end this infernal rebellion, not idle my days with--"
+southampton,Robert!
+81,pg. 82
+beaulieu,Point!
+oxford, Bien. Faisons du travail... le Coup droit d'autorit?
+beaulie,"Mais oui, mon seigneur."
+oxford,Bien.    En garde!
+82,pg. 83
+francesco,Signor?    Signor?!
+oxford,"Beaulieu-- he, he tried to kill me..."
+jonson," What's all that, then?"
+man,A body...
+bear baiter,Sampson! Sired by the great Arthur himself! No dog's yet been bred that can take him down!
+shakespeare,I need more money.
+jonson,More--? You already make more than any playwright Bankside.
+84,pg. 85
+bear baiter,"But then here, good friends, I bring you a pack of dogs so fierce, so dangerous, that Medusa herself would shrink in fear!"
+shakespeare,"I'm going to build my own theater, Ben, one that fits the scale of my work--"
+jonson,Your work?
+bear baiter,Not a one has had a morsel of food in a week! Bred by the great John Sinclow!
+a man,Fourpence on three dogs!
+shakespeare,They insist only a gentleman can own the land.
+another man,A shilling on four!
+shakespeare,"The bribes are outrageous, but I found some one who will make me a coat-of-arms, and change the Stratford lists for me."
+jonson,Impossible.
+another man,Eight shillings on six dogs!   Eight shillings on six dogs!
+jonson,"I'll take that bet!!   Eight shillings on the bear, six dogs!"
+another man,Done!
+shakespeare,"Bad bet, that."
+jonson, You'll have to make do with what you've got. I won't be your beggar.
+85,pg. 86
+shakespeare,"This isn't a request, Ben.   I'll have more money."
+jonson,Or what? You'll slit my throat like you did Kit's?
+man,Release the dogs!   Release the dogs!
+jonson,"I know he went to see you last night, Will. And I know he was planning to expose you if you didn't agree to his terms."
+shakespeare," You're mad, Ben. Kit was my friend."
+jonson,"Be careful, Will. You kill me off too, and you won't have any good plays to act in after this is all done."
+shakespeare,"I'll have my guineas, Ben. One way or another, I'll have my guineas."
+cut to:, 86 pg. 87
+shakespeare, Wears a beard and fake nose. He tries to stay hidden so Jonson doesn't see him. We are:
+oxford,"So! You are the famous Shakespeare whose labors I have enjoyed so much. I am at your service, sir."
+87,pg. 88
+shakespeare,My lord-- I- I need more money.
+oxford, I beg your pardon?
+shakespeare,"My expenses have, ah, aggrandized... since this all began."
+oxford,"""Aggrandized""?"
+shakespeare,"And if, if your lordship doesn't agree to an increase in my, ah, fee, I shall be forced to make certain... facts public."
+francesco,Have you any idea to whom you are speaking?
+shakespeare,I am addressing the writer of Hamlet... of Juliet and her Romeo.   Am I not?
+francesco,Out. Get out! How dare you insult my master in--
+oxford,Wait!  How much?
+shakespeare,Four hundred pounds. A year.
+francesco,A year?
+oxford,Pay him.
+88,pg. 89
+francesco,"Forgive me for speaking of things above my place or understanding, signor. But... Is this wise? They have already tried to kill you once."
+oxford,"Wisdom, Francesco, is a quality I have unfortunately never possessed..."
+bessie,Edward... You know she would be furious if she found out about this...
+89,pg. 90
+young oxford,No.   She abandoned me.
+bessie,"You don't know, do you?"
+william cecil,"I cannot be certain, majesty, when the... relationship began."
+90,pg. 91
+william cecil,But sometime soon after your return to Court.
+young elizabeth,You're sure?
+william cecil,"They-- they haven't been very discreet, majesty. I presume he wanted you to know. To... to hurt you."
+young elizabeth,Arrest them.    Arrest them both!
+william cecil,Your whore gave birth last week.
+91,pg. 92
+young oxford,Banished...?
+william cecil,"No. You have the freedom of the kingdom. Just not of the Court.  Those are her terms. Here are mine. You will go back to my daughter. You will make some effort to make her happy and you will finally act according to your station in life, and accept the responsibilities of your great title."
+young oxford,"My lord!     I, too, have a condition."
+william cecil,I don't know if the whore has even delivered the--
+young oxford,No.   The other one.
+william cecil,The other one?  Who told you?
+92,pg. 93
+young oxford,I will go back to your daughter. I will make you as many grandchildren as she can bare...
+william cecil,"There is no record of his true birth, no trail that leads to you, or the... mother. His foster parents never knew the truth, and both are now dead..."
+young oxford,The name?
+william cecil,"Make even a hint of this to the child, or anyone else, and this agreement is void, and I'll see your head on the block within a fortnight. And the boy's as well."
+young oxford, It's a boy...?
+boy,Hello...
+young oxford,Hello.
+93,pg. 94
+boy,My lord...
+young oxford,They tell me one day you're to be an Earl as well.
+boy,I shall be the Earl of Southampton.
+young oxford," Well then, we shall be Earls together, shan't we?"
+94,pg. 95
+elizabeth,We wish to recall Essex from Ireland...
+robert cecil,"A wise decision, your majesty. If nothing else, it will give him an opportunity to respond to all these rumors."
+elizabeth,Rumors?
+robert cecil,"I'm sorry, majesty, I thought you'd heard."
+elizabeth,Heard what?
+robert cecil,Essex is in negotiations with Philip of Spain...
+elizabeth,Peace is at hand. We know this.
+robert cecil,Majesty-- it is said that Essex has promised Phillip all of Catholic Ireland in return for...
+95,pg. 96
+elizabeth,In return for what?
+robert cecil,Spain's support of Essex's claim to the throne of England...
+elizabeth,"Bring him to me, William.   Bring him to me at once!"
+robert cecil," Robert, majesty."
+96,pg. 97
+messenger,My lord...
+southampton,She can't believe this...
+essex,"Oh, can't she?"
+southampton,"It's Robert Cecil. He failed to kill you, now he tries to kill your name."
+essex,We leave with the tide!
+shakespeare,"Well, I've got it!"
+nashe,It's quite... colorful.
+97,pg. 98
+dekker,What in blazes is it?
+shakespeare,"My coat-of-arms! It cost a bloody fortune, but, by god, you can call me gentleman now!"
+dekker,I can't quite make out the motto... Non sanz... Non...
+shakespeare,"""Non sanz droict""."
+nashe,Not without--
+jonson,"Right!? Not without right?  You went to him, didn't you? You lying knave-- you went to him!"
+shakespeare, Ben.   Ben! Let me buy you a--
+jonson,What? You've already killed off one competitor. Now you want another dead as well?
+shakespeare,"I don't know what you mean.   Ben, we should really--"
+jonson,I swore to him I wouldn't tell you his name. Swore it! Do you have any idea what he might do to me? Do you? 
+98,pg. 99
+shakespeare,Ben-- you've had too much to drink.
+jonson,Unhand me!
+shakespeare,You haven't got any ink.
+99,pg. 100
+essex, Wait for me.
+essex,"Majesty, I, I..."
+elizabeth,Get out!   Out!!!
+100,pg. 101
+elizabeth,Who in God's name does he think he is? Abandoning his post without my leave!
+robert cecil,"No. Unfortunately for us, your majesty, he is quite sane. He simply believes he is your royal equal."
+oxford,"I am Edward, Earl of Oxford."
+southampton,Edward!   Edward! Thank god you're here.
+101,pg. 102
+oxford," Nothing.  Oxford continues towards the door. Southampton follows, his concern for Oxford's wound noticeable."
+essex,She won't accept my letters. I cannot get to her. Cecil plans to arrest me any day. I know it.  But that won't be as easy as he thinks.
+oxford,"Fight him in London, and you only validate every rumor and lie Cecil has ever told about you."
+essex,Then what do you suggest I do? Let myself be arrested so I can be tried and executed for crimes I did not commit?
+oxford,"No. I will go to Elizabeth, myself, alone--"
+essex,How? Cecil won't let her see a letter without reading it first.
+oxford,I won't send her a letter.   I will send her a book.
+102,pg. 103
+essex,And the mob?    How will I--
+oxford,Leave that to me.
+francesco," Hold your tongue, whore, and get out!"
+whore,Oi.   `Oo's going to pay me then?
+103,pg. 104
+oxford,You shall begin rehearsals immediately. But it is not to be performed until I tell you. And you may only have a day's notice.
+shakespeare,That will be expensive-- keeping all the actors ready. Having the props made but not--
+oxford,"Oh, and congratulations. You've had an epic poem published today."
+shakespeare, Published? You mean like in a book?
+105,pg. 106
+elizabeth," You find me disgusting, don't you? Repugnant. Wrinkled?"
+robert cecil,"You, you are the sun, majesty.   The glory of--"
+elizabeth,Liar!
+106,pg. 107
+robert cecil," Which one, your majesty?"
+elizabeth,His.   Mine.   He still lives?
+107,pg. 108
+robert cecil, Yes... your majesty.
+elizabeth,Who?
+robert cecil,"His grace, the Earl of... Southampton, your majesty."
+cecil,"Majesty... You are not having doubts about James of Scotland succeeding you, are you?"
+elizabeth,James?! He is the son of Mary! She plotted and schemed to steal the throne from under me! No son of hers will rule while a yet Tudor lives!
+108,pg. 109
+spencer,"Good part, that..."
+109,pg. 110
+burbage,It's only the one performance.   Go on!
+jonson, Burbage. Wonderful theater. Wonderful! The best Bankside! But only one performance? Is it that bad?
+burbage,"Hardly, it's Will's new play. Richard the Third. We've been hired to perform it free to the public."
+jonson,Free?
+burbage,"Aye. Some anonymous nobleman paid for everything. God knows Will never would.   Been rehearsing all week, just found out this morning, we go up next Monday."
+jonson, No need to.
+burbage,"Sorry, Ben..."
+110,pg. 111
+man, You doin' tomorrow?
+woman,You askin?
+man,Managed to get two tickets to Shakespeare's latest. Cost me a fortune.
+passing man,"Ballocks, did it! They're giving them away free."
+spencer,"Best villain in the history of theater, Richard the Third. No doubt."
+heminge,Come on.    Better than Mephistopheles?
+spencer,"No doubt! Your Marlowe-- god rest his soul-- is fine for your everyday scalawag, and your Jonson won't even try the hard drama. No, this is Shakespeare, for god's sake! The man knows drama. I tell you, not even the Greeks compare!  To Shakespeare! And villainy!"
+111,pg. 112
+all,"To Shakespeare! And villainy!  Jonson gets up, furious, and exits, quite drunk.     The actors don't even notice him."
+whore,Fancy a tumble? Only sixpence!
+pole,"I haven't got all day, man."
+jonson,I... There is a-- there is a play to be performed... on Monday.
+pole,"There's many plays to be performed next Monday, isn't there?"
+jonson,"Yes, my lord, but this one is to be performed one performance, and one performance only. On Monday. All Bankside is talking of it.  The History of King Richard the Third. By William Shakespeare."
+112,pg. 113
+pole,I know who Richard the Third was.
+jonson,"Yes. Of course you do. But in William Shakespeare's version, he is played as a hunch-back."
+113,pg. 114
+burbage,We have to turn `em away by the hundreds! Look! Never seen anything quite like it!  And both men look out the curtains to the crowd outside.  The theater is full to the last seat. The people are crammed together like sardines.
+nashe,"So! I heard the Earl of Essex paid for this whole performance! Man's never even been to the theater, and still he's heard of Will--"
+dekker,"Essex!? Impossible. My cousin's one of his men-at-arms. Hasn't been paid in weeks. They're all just sitting there, waiting."
+jonson,Waiting?     Waiting for what?
+dekker,Wants to have an audience with the Queen. As if Cecil would ever let Essex near her now.
+nashe,"By the mass, Cecil in favor, Essex out! Who can keep up with it all!?  114 pg. 115"
+dekker," Tired of politics are you? Seems you picked the wrong day to come to the theater, then..."
+115,pg. 116
+116,pg. 117
+essex,Edward knows what he is doing...      Does he not?
+southampton,He promised us a mob. They'll be here.
+117,pg. 118
+francesco,A pox on Cecil!
+nashe,Why is Oxford's man with the Groundlings?
+francesco,Down with Cecil!
+118,pg. 119
+jonson,This is what Essex is waiting for--  Oxford is bringing him a mob.
+nashe,Why would Oxford--
+jonson,"I don't know, I don't know! But, the Tower-- Cecil, he already knows. He knows!  I-- I have to warn them!"
+various groundlings,Up with Essex! Essex! Death to Cecil!
+shakespeare,We must close the play. Now!!
+burbage,Close the...? Are you off your head?
+119,pg. 120
+francesco,To Essex House! To Essex House! Death to Cecil! Traitor!
+man,To Essex!   And then to the Queen!  Ess-ex! Ess-ex!
+officer,Fire!
+southampton,They should be here by now...
+essex,We go as we are! Now!!
+francesco,Signor Jonson! We are betrayed!    Run! Run!
+essex,To the Queen! To the Queen!
+pole,Take your aim!
+122,pg. 123
+southampton,It's a trap!
+essex,Spread out!
+pole,Fire!!
+pole,Re-load!
+robert cecil,Majesty! You must away! Essex is in armed revolt! He's come to usurp you!
+elizabeth, Essex? I-- Edward is--
+123,pg. 124
+robert cecil,"You must flee! Quickly! Majesty! He means to kill you and take your throne for himself!  It takes only an instant for that to sink in. She looks enraged. And then she turns with a flurry, and heads back the way she came. The guards that were with Robert Cecil follow her."
+oxford,He wanted his grandson to be an Earl.
+robert cecil,"No, Edward.   He wanted his grandson to be a king."
+oxford,You lie...
+robert cecil,Do I?  125 pg. 126
+oxford,Elizabeth would never have--
+robert cecil,"What?  Slept with her son?  You could have been a king, Edward. And your son after you. Except for the fact that... you were you."
+robert cecil,"I want a fair trial for Southampton... Evidence, witnesses, no false confessions. It must be above reproach. Though with a guilty verdict of course. Oh, and Pole--  126 pg. 127"
+anne,Sentence has been passed.
+essex,Strike true.
+127,pg. 128
+elizabeth,Leave us.    All of you.
+robert cecil,"Majesty, I--"
+elizabeth,Leave us!
+128,pg. 129
+oxford,I thank your majesty for seeing me.
+elizabeth,You cannot have him.
+oxford,He is our son.
+elizabeth,Who did commit High Treason!
+oxford,They only wished for a place in government equal to their station. Equal to their birth.
+elizabeth,"You caused this! Your play, your words, caused my people to mob against me! Do you think I wasn't aware of your plot with this man Shakespeare, that I wouldn't recognize your voice? It should be your head on the block next week, not Southampton's!"
+oxford,Then take my head. In our son's stead.
+elizabeth,Cecil?  He has kept me my throne!  Yet here I remain... Because of the Cecils.
+oxford,We would have protected you--
+129,pg. 130
+elizabeth,"You would have protected me? You? My ""loyal"" Earls?  Only the Cecils could I trust! Commoners! They could never claim my throne. Never! Their wealth, their power, their survival, all depended on me. Me and no other!"
+oxford,Let our child live...
+elizabeth, All Englishmen are my children!
+oxford,He will never learn of it from me.
+elizabeth,He must never know... Never.  Take him.
+oxford,"But only after my death! Only then! When all is complete. After James is crowned king, his crown safe, only then can you claim your son... our son.  130 pg. 131"
+elizabeth,Treason... that is all that has come from you... your son... Your plays... None will be claimed by you. None.
+131,pg. 132
+shakespeare,The line won't get a laugh that way. You must accent the word sirrah--
+132,pg. 133
+shakespeare,Ben!
+jonson,"A command performance for our new king! Even in bloody Scotland they've heard of bloody Will Shakespeare, have they? Fraud. Charlatan. Counterfeiter of wit! Murderer!"
+shakespeare,"Ben, please..."
+133,pg. 134
+anne, What is this man doing in my house?
+jonson,"It was your husband who sent for me, madam."
+anne,And I am dismissing you--
+second doctor,Are you Jonson?
+jonson,"Excuse me, your grace."
+oxford,"Thank you, doctor."
+134,pg. 135
+135,pg. 136
+jonson, I find... your words... the most wondrous ever heard on our stage.    On any stage... Ever.
+oxford,"Promise me... promise me, Jonson, that you will keep our secret safe. That you won't expose Shakespeare..."
+jonson,My lord?
+oxford,I have seen it in your face... He vexes you. How could he not? But he is not your burden. He is mine.
+jonson,"I am not worthy of this charge, my lord. I... I betrayed you... I told them of your--"
+oxford,"I have made it my life to know the character of men, Jonson. I know you. You may have betrayed me, but you will never betray my words..."
+136,pg. 137
+front page," Which reads ""DEDICATION"", then more words, starting with:  ""To the Earl of Southampton"""
+anne,"Get out! You, your friends, your blasphemous theaters, have brought nothing but ruin and dishonor to this family."
+jonson,"Ruin? Dishonor? Madam. You, your family, me, even Elizabeth herself shall be remembered solely because we had the honor to live whilst your husband put ink to paper."
+cecil,"I can make all this go away, Jonson... To be but a dream. Like one of your plays... Or, I can bring you so much pain-- pain that were you given a thousand years, and a thousand quills, you could never justly describe..."
+138,pg. 139
+jonson,They were destroyed...   burned...   by your own men...
+interrogator,He's lying...
+jonson,My lord? Why would I lie? Is there a man alive who has reason to hate him more than I?
+cecil,Let him go!   He tells the truth.
+jonson," I am afraid that this is not possible, my lord."
+139,pg. 140
+140,pg. 141
+prologue,"Let us, ciphers to this great accompt, on your imaginary forces work."
+robert cecil,"Of course, your majesty..."
+prologue,"Robert Cecil remained the most powerful man in the Court of King James, though he could not prevent the public theaters from becoming ever more popular. William Shakespeare, however, spent the remaining years of his life not in the playhouses of London, but in the small town of his birth, Stratford upon Avon, as a businessman and grain merchant. "
+141,pg. 142

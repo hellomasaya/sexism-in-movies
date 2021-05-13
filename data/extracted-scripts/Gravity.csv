@@ -1,0 +1,377 @@
+Speaker,Dialogue
+"may 29, 2012",BLACK.
+card 1,AT 600 KM ABOVE PLANET EARTH THE TEMPERATURE FLUCTUATES BETWEEN 120 AND -100 DEGREES CELSIUS.
+card 2,"THERE IS NOTHING TO CARRY SOUND, NO OXYGEN, AND NO AIR PRESSURE."
+card 3,LIFE HERE IS IMPOSSIBLE.
+mission control," DMA M1, M2, M3 and M4 are complete."
+mission control," Copy that Explorer. Dr Stone-Houston, requesting status update..."
+ryan,"Installation ninety-five percent complete. Running level one diagnostics on circuits, sensors, and power. Standby."
+mission control," Standing by. Looks like we're on schedule. Dr. Stone, Medical is concerned about your ECG readings."
+ryan,I'm fine Houston.
+mission control," Well, medical doesn't agree doctor. Are you feeling nauseous?"
+ryan,"Not any more than usual, Houston. Diagnostics are green. Linking to communications card. Ready for data reception. If this works, when we touch down tomorrow, I'm buying all you guys a round of drinks."
+mission control," That's a date, doctor. Just remember, Houston is partial to Margaritas."
+ryan,"OK, here we go... Booting comm card now. Please confirm link.  Negative. We're not seeing any data."
+ryan,"Stand by, Houston. I'm gonna reboot the comm card."
+mission control, Standing by.
+astronaut,"Houston, I have a bad feeling about this mission."
+mission control,Please expand.
+matt,"Okay, let me tell you a story. It was '96. I'd been up here 42 days. Every time I passed over Texas, I'd look down, knowing the second Mrs Kowalsky, was looking up, thinking of me. Six weeks I'm blowing kisses to that woman. Then we land at Edwards and I find out she'd run off with a lawyer before I was off the launch pad, so I packed my car and I headed to..."
+mission control,"Tijuana. You've told this story, Kowalsky. As Houston recalls, she took off in your '74 GTO. Engineering requests fuel status on the jet pack prototype."
+matt,"Five hours off the reservation and I show 30% drain. My compliments to Engineering. Except for a slight malfunction on the nulling of the roll axis, this jetpack is one prime piece of thrust. MISSION CONTROL  Engineering says thank you."
+matt,Tell them I still prefer my '67 Corvette though. Speaking of which did I ever tell you the--
+mission control," We know the Corvette story, Matt."
+matt,Even Engineering?
+mission control,"Especially engineering. We're going to miss you, Matt."
+ryan,Comm card reboot in progress.
+mission control," Thank you doctor. Shariff, what's your status?"
+shariff,Nearly there. Replacing battery module A1 and C.
+mission control," Could you be more specific? Indeterminate estimates make Houston anxious. SHARIFF No... no... no Houston, don't be anxious. Anxiety is not good for the heart... The system is ready to re- activate."
+mission control," Hubble Telescope engaged. Upgrade fully functional. That applause you hear is for you, Shariff. Congratulations. Kick back, take the rest of the day off."
+shariff," Woohoo... Jaise Baadal Paani Ka, Yaarana Hai Oh Jaise Paani Ka, Yaarana Hai."
+mission control," Matt, please advise as to Mission Specialist Shariff's current activity."
+matt,He appears to be doing the Macarena of some sort. Though that would merely be a best guess scenario on my part.
+mission control,Dr. Stone. Houston. Medical now have you with a temperature drop to 35.9 and heart rate rise to 70. How are you doing?
+ryan,"Houston, I'm fine, it's just...  ...Keeping your lunch down in zero G is harder than it looks. MISSION CONTROL Doctor Stone? Medical is asking if you want to return to Explorer?"
+ryan,"No, we've been here for a week Houston, let's just finish this."
+mission control," That's a negative. I'm afraid we're getting nothing on this end, doctor."
+ryan,Try again.
+mission control, Still nothing.
+ryan,"Houston, could you please turn that music off?"
+mission control, Kowalsky?
+matt,Not a problem.
+ryan,"Thank you, Kowalsky."
+ryan,Could Houston be misinterpreting the data--?
+mission control, We're not receiving any data. Engineering is recommending a vis- check for component damage.
+ryan,Mmmm. Let me see what's going on.
+mission control, That seems to be the case. Engineering admits that you warned us that this could happen. That's as close to an apology as you're going to get from them. We should've listened to you doc.
+ryan,I'm on it.
+mission control, Copy that. How long do you think it'll take you?
+mission control," Outstanding. We appreciate your patience, Doctor. Installing your system in the Hubble is the main purpose of this mission."
+matt,Seventy-five minutes shy. Never crossed my mind.
+mission control," Matt, It's been a privilege."
+matt,"Right back atcha, Houston."
+mission control, Enjoy your last walk...
+matt,Am I a go to assist Dr. Stone in removing the panel?
+ryan,Assistance appreciated.
+mission control, Mind if I join the fun?
+ryan,Certainly.
+matt,How are you feeling?
+ryan,Like a Chihuahua that's being tumble dried.
+matt,"It's been a rough week. If it makes you feel any better, I puked up everything but my kidneys on my first ride."
+ryan,Whoa...! AWOL!
+matt,Hey -- you're the genius up here. I just drive this bus.
+ryan,Call me a genius if I can get this board initialized in the next hour.
+mission control,"Explorer, this is Houston."
+explorer cap,Go ahead Houston.
+mission control,"NORAD reports a satellite has incurred a missile strike. The impact has created a cloud of debris orbiting at 20,000 miles per hour. Current debris orbit does not overlap with your trajectory. We'll keep you posted on any developments."
+ryan,Should we be worried?
+matt,Let the boys down there worry for us.
+ryan,"Explorer, engage arm and pivot to cargo bay."
+explorer cap, Standby for arm maneuver.
+matt,"So doc, now that you work for NASA, how do you like it?"
+shariff,"Kinda like winning the lottery, isn't it?"
+matt,How long was your training?
+ryan,Six months.
+shariff,Including holidays?
+matt,"So, what is this scanning system?"
+shariff,"Nothing rad, it's just a new set of eyes to scan the universe."
+ryan,"Assuming it works, it's just for hospital use. This one is a prototype."
+explorer cap,Standby for marking.
+matt,"Listen, they don't bankroll prototypes, even for your pretty blue eyes."
+ryan,My eyes are brown.
+matt,Right now your eyes are blood shut.
+shariff,Kowalsky!
+matt, And to think he went to Harvard.
+ryan,Mm-hm.
+matt,"""Mmm?"" So what do you like about being up here?"
+ryan,The silence.  I could get used to it.
+matt,Hmmmm. Terrific.
+ryan,"Houston, from first inspection comms panel appears to be dead. Am I a go to cut link to auxiliary? MISSION CONTROL You're the expert, doctor. It's your call."
+matt,"Houston, I have a bad feeling about this mission."
+mission control,Please elaborate.
+matt,It's the same feeling I had at Mardi
+mission control,"That is affirmative. Surprisingly, control hasn't heard the Mardi Gras story. Please proceed."
+matt,"Well, it's day one and I'm bumping my way down Bourbon Street looking for the sister of a friend of mine. The streets are swimming with people, I'm thinking there's no way I'm finding this girl..."
+ryan,Proceeding to over ride.
+matt,"Then all of a sudden I look up and -- there she is.  I am about to yell out when I notice she's holding hands with a short hairy guy in board shorts and a Margaritaville T-shirt. Then I realize, the guy's no guy. My sister's friend is holding hands with a--"
+mission control," ISS, this is Houston."
+mission control," Explorer, this is Houston."
+explorer cap, Go ahead Houston.
+mission control, Mission abort. Repeat: mission abort. Initiate emergency disconnect from Hubble.
+explorer cap," Copy all Houston, and in work. Matt, immediate return to Explorer. Repeat, immediate return to Explorer."
+matt,"Roger. Explorer, prep airlock! EXPLORER CAP  Airlock engaged--ready to receive."
+matt,Houston. Elaborate.
+mission control," Debris from the impact has caused a chain reaction, hitting other satellites in its path and creating new debris. Norad reports that orbital and ballistic effects are driving the cloud of debris up toward your altitude. How copy?"
+matt,Copy all Houston.  Put a bow on it Dr. Stone.
+ryan,I can't. If I turn it off now we'll lose the whole system.
+matt,I'm not going to ask you again.
+ryan,ONE SECOND--
+matt,Not one second. Now! Shut it down! THAT'S AN ORDER!!!
+ryan,Sorry. I'm sorry. It's done.
+matt,"Alright Shariff, let's do this."
+shariff,Roger.
+matt,Houston. Update.
+mission control,We have a full on chain reaction. It's been confirmed that it is the unintentional side effect of the Russians striking one of their own satellites.
+shariff,They shot down their own satellite?
+matt,Right of disposal. Most likely a spy sat gone bad. Now it's space junk.
+explorer cap, Locks releasing in three... two... one...
+mission control,"Explorer, new data coming through."
+mission control,It's not good. Most of our systems are going down. Debris chain reaction is out of control and rapidly expanding. Multiple sats are now down and they keep on falling.
+matt,"Define ""multiple"" sats."
+mission control,Most of them. Telecomunications systems are gone. Expect a communication blackout at any moment.
+ryan,"Kowalsky, visual of debris at nine o'clock."
+matt,Half of North America just lost their Facebook.
+mission control,You're a go for TH1138. Repeat You're a go for TH1138 procedure.
+explorer cap,Copy that Houston.
+matt,"Explorer, this is Kowalsky. Confirming visual contact with debris. Debris is from a BSE sat. To repeat--"
+shariff,Heads up!
+matt,To repeat I have-
+matt,"We have to go. Go, go! Go!"
+mission control,Attention. New data suggests immediate evacuation absolu...
+ryan,Dr. Stone requesting faster transport to the bay area. Explorer get me down.
+matt,Explorer permission to retrieve Dr. Stone.
+explorer cap," You are a go, Kowalsky."
+matt,Unstrap! You can't tune out the world up here.
+ryan,I'm trying...
+matt,Try releasing the safety clip.
+shariff,Need some help there Matt?
+matt,"No, don't wait for us. Get inside."
+ryan,It's stuck!
+matt,Man down! Man down!
+ryan,Nooooo!
+matt, You must detach!
+ryan,No.
+matt,If you don't detach that arm is going to carry you too far! RYAN  I can't!
+matt, Listen to my voice. You need to focus. I'm losing visual of you. In a few seconds I won't be able to track you.
+ryan, Ok. Ok.
+matt,You need to detach. I can't see you anymore.
+ryan,I'm trying. I'm trying.
+matt,Do it. Now!
+ryan,"Ok. I'm trying! I can't it's stuck, Hold on."
+matt,"Houston, I've lost visual of Dr. Stone... Houston, I've lost visual of Dr. Stone."
+matt,...Give me your position!
+ryan,I don't know. I don't know! I'm spinning. I can't. I can't.
+matt,Report your position.
+ryan,"GPS is...down. I can't, it's down, I can't."
+matt,Give me a visual.
+ryan,I told you! Nothing. I see nothing!
+matt,Do you have a visual of Explorer?
+ryan,NO--
+matt,Do you have a visual of ISS?
+ryan,NO--
+matt,I need you to focus. Give me a visual... anything.
+matt, ... Stone. Do you copy?
+ryan, Lieutenant Kowalsky?...
+matt, Repeat. Do you copy?
+ryan,YES! YES! I copy! I'm here!
+matt, Flash your light.
+ryan,My light?
+matt, So I can see you.
+ryan,Here! Here!
+matt, There you are. Hang tight. Report your status.
+ryan,I'm... I'm alright... I'm fine. MATT  Your status! Give me your readings?
+ryan,Steady at eight percent...no seven...
+matt, You're breathing too fast. You're burning oxygen. We don't want to do that. We want to relax. Copy.
+ryan,Copy.
+matt,Nearly there.
+ryan,Please hurry.
+matt," You can holster that torch, Dr. Stone."
+ryan,Oh. Sorry.
+matt,Gotcha.
+ryan,Arghh!
+matt,"Now, I'm going to tether you to me. Ryan is paralyzed, holding onto Matt tightly and looking at him in fright. He stares back."
+ryan,"Okay. Okay. Okay. Okay, Ohh I got it."
+matt,"Ok. So far so good. Now listen. I'm going to give you a little push, just so you're clear of the jets--"
+ryan,NO--
+matt,"Sorry. Not a push, more like a nudge."
+ryan,No... No... No... Wait... Don't.
+matt,"See? Where you go, I go."
+ryan,Ahh Dammit!
+matt,I know what you mean.
+ryan,Ahhh Dammit.
+matt,"You're burning oxygen, we're going to go back to the shuttle. How's that for a plan. Copy?"
+ryan,FUCK
+matt,Right copy that.
+ryan,Why aren't they answering?
+matt,It seems like communications are lost.
+ryan,Can they hear us on an alternate frequency? MATT We don't know. That's why we keep talking. If someone is listening they might just save your life. Set your watch for ninety minutes.
+ryan,Why ninety?
+matt,"Houston clocked that debris at fifty thousand miles per hour. Factoring in our current orbit, I reckon we've got 90 minutes before we play duck and cover again."
+ryan,02 down to six percent.
+matt,"Okay. Pretty scary shit being untethered up here, isn't it?"
+ryan,Yeah. Pretty scary shit.
+matt, You did all right.
+ryan,Where is he? Where is he?
+matt,Grab him!
+ryan,I'm trying. I'm trying.
+matt,Quick. You're pulling me away.
+ryan,I got him. I got him.
+matt,Clutch him like he's your Valentine. I can't gauge my thrust with you two yo- yoing around.
+matt, Jesus...
+ryan,02 down to five percent.
+matt,"All right, here we go. Careful of the edges."
+ryan,I apologize for not complying. I should've stopped working as soon as you instructed me to.
+matt,We were going to be hit no matter what. There was nothing you could've done to change that.
+ryan,Yes?
+matt,Alright... We have to get ourselves to the Space Station. There.
+ryan,Agreed.
+matt,Alright. After you.
+ryan,02 down to two percent.
+matt,We're getting there.
+ryan,What?
+matt,The sunrise. That's what I'm going to miss the most.
+ryan,Home?
+matt,Ah ha. Down there. Mother Earth. Where do you pitch your tent?
+ryan,Lake Zurich.
+matt,Where the hell is that? RYAN Illinois.
+matt,Illinois. Central time zone. That makes it roughly... 8pm right now. What are the good people of Lake Zurich doing at 8 o'clock in the evening?
+ryan,I don't know...
+matt,What would you be doing?
+ryan,The radio. I listen to the radio...
+matt,There we go. Let me guess. NPR? Classical. Top for--
+ryan,Anything. Doesn't matter. As long as they don't talk. I just drive...
+matt,What do you miss down there?
+ryan,No...
+matt,"Nobody special? Someone down there, looking up, thinking of you?"
+ryan,I had a daughter.
+matt,What was her name?
+ryan,"Sarah... She was four. Stupidest thing- a school trip to the swimming pool. She was playing tag- she slipped, hit her head, and that was it... She loved tag. I'm sure she was laughing."
+ryan,Uhuh?
+matt,The good news is we're five minutes from the ISS and I know where the Russians stash their vodka... and that's a good thing cus I'm running out of fumes. Bad news is I'm gonna be ten minutes short of......breaking Anatoly's record.
+ryan,Mmm...Mmmm.
+matt,What?
+ryan,I'm red lining... My O2 tank pressure is low...
+matt,"The tank may be empty but there's still oxygen in your suit, so sip, Ryan. Don't gulp. It's wine, not beer. Sip. We'll get you there."
+ryan,Shouldn't we be turning? We're DRIFTING AGAIN--
+matt,"Sip, Ryan. Sip. Drifting is good. We want to drift. I wasn't kidding about those fumes. This can has one or two good thrusts left. If we're lucky...."
+ryan,Break... You have to break.
+matt,I can't. Can's empty. We're coming in fast and we're going to hit hard. Grab onto anything you can and hold tight!
+ryan,I got it. I got it.
+matt,Grab a hold. Grab anything.
+ryan,I've got you. I've got you--
+matt,Shit... shit...
+ryan,No. No. No. Don't you. No. Don't you. Don't. Don't. NO
+matt,You have to let me go.
+ryan,What? No--
+matt,You have to.
+ryan,No!
+matt,"Those ropes are too loose, I'm pulling you with me. You have to let me go or we both die--"
+ryan,I'm not letting you go! We're fine.
+matt,"Ryan! RYAN You're not going anywhere, you're not GOING ANYWHERE--"
+matt,It's not up to you.
+ryan,Please don't do this.
+matt,You're going to make it Ryan.
+matt, Ryan do you copy? Do you copy?
+ryan,My CO2 alarm went off. My CO2 alarm went off.
+matt,You need to board the station. Can you see the airlock?
+ryan,Yes. Yes. I see it. I see it.
+matt," Good. That's where you want to go. You're losing focus, right?"
+ryan,Yes.
+matt,That's because you're breathing CO2 and you're losing consciousness. You need to board the Station.
+ryan,Ok.
+matt," Now listen to me. That second Soyuz is too damaged for re-entry, but it's perfectly fine for a little Sunday drive."
+ryan,Sunday drive...?
+matt, Look to the west... You see that dot in the distance? That is the Chinese Station. You're going to take the Soyuz and cruise over there. The Chinese lifeboat is a Shenzou. RYAN I've never flown a Shenzhou--
+matt, That doesn't matter. Its re-entry protocol is identical to the Soyuz's--
+ryan,Ok.
+matt, You've never flown a Soyuz either.
+ryan,Only on a simulator.
+matt, So then you know.
+ryan,I crashed it. I--
+matt, It's a Simulator. That's what it's designed for.
+ryan,Every time. I crashed the Simulator every time.
+matt, It's not rocket science. Just point the damn thing at earth and by this time tomorrow you'll be back in Lake Zurich with one hell of a story to tell. You copy? Ryan. You copy?
+ryan,I'm going to take the Soyuz and come get you.
+matt,No you're not. . I have too much of a head start. That ship already sailed. RYAN No. I'm coming to get you.
+matt,"Ryan, you're going to have to learn to let go."
+ryan,But... I...
+matt, I want to hear you say you're going to make it.
+ryan,I'm... I'm going to make it.
+matt,Alright. Keep going
+ryan,Dad wanted a boy.
+matt,Are you close to the airlock?
+ryan,Not yet.
+matt,Keep going.
+ryan,"What? MATT Well, people say I have beautiful blue eyes."
+ryan,You... you have beautiful... you have beautiful blue eyes.
+matt,I have brown eyes... that hurts.
+ryan,What?
+matt," I'm going to break Anatoly's record, and I think mine's going to stand for a long, long time."
+ryan,No... I'm coming to get you.
+matt,"You know, Ryan is a nice name for a girl. Wow, you should see the sun on the Ganges. It's amazing."
+ryan, Matt...
+ryan,"Come on, come on."
+ryan,Matt. This is Ryan. Copy? She waits.
+ryan,"OK... where was it?... where was it? She moves her finger across the different buttons, searching."
+ryan,I engaged manual control- R O A K and RYD are activated.
+ryan,"Oh, no. No, no, no."
+ryan,Great. Fantastic. Perfect.
+ryan,"Clear skies but with a chance of satellite debris. SHE HUMS A SONG, the tune is reminiscent of the Hank Williams Melody that Matt had played earlier."
+ryan,Shut up!
+ryan,One...
+ryan,Come on. Come on!
+ryan,You gotta be kidding me.
+ryan,"This is Dr Ryan Stone, can you hear me? Houston, this is Ryan Stone, can you hear me? Copy? Houston, this is Ryan Stone, can you hear me? Copy?"
+ryan,"Houston, this is Ryan Stone, can you hear me? Copy? Houston, this is Ryan Stone, can you hear me? Copy?"
+transmission,Han... ni... ts...
+transmission,Hannik ya itc... pini.
+ryan,Is this the Chinese Station? Is this Tiangong? Copy?
+transmission,Hannic ya itcitem pini!
+ryan,S.O.S. Do you understand?
+transmission,Uumaruq taigaa!
+ryan,Mayday! Can you copy? Mayday! Mayday!
+transmission,Mayday!
+ryan,Yes! Mayday! Mayday!
+transmission,Mayday! Aningang!
+ryan,Aningang?
+transmission,"Mayday, Aningang! Aningang, Mayday!"
+transmission,"Aningang! Mayday! Suli, suli!"
+ryan,"No, Mayday's not my name. I'm Stone, Dr. Ryan Stone-- I need help."
+transmission,Mayday! Ieukpalliktuq uumaruq taigaa naabuqtuq.
+ryan, Are those dogs? Those are dogs! Are you calling from Earth?!
+transmission,Ieukpalliktuq naabuqtuq.
+ryan,"Is it beautiful where you are? Here it's colder than hell and lonelier than shit, but it's beautiful Aningang. Utterly, terrifyingly beautiful."
+transmission,Suli aasrivak aatqatik niuruq...?
+ryan,Dogs! Woof. Woof. Woof.
+transmission,Auuu. Auuu. Oipmiq. Oipmiq! Auuu. Auuu.
+ryan,Woof. Woof.
+transmission,Auuu... Auuu...
+transmission,Ieukpalliktuq upatimi...
+ryan,You are singing to your baby? Is that a lullaby? That's so sweet!
+matt,"Ahhhh! Alright, check your watch. 13 hours, 11 minutes. Call Anatoly, tell him he's been bumped."
+ryan,How did you?
+matt,"Trust me, it's a hell of a story. RYAN But how did you?"
+matt,That's better.
+ryan,How?
+matt,"I found a little extra battery power. I'm just happy you're still alive. To be honest, I thought your chances were slim to none. By the way, did you find the vodka?"
+ryan,You never told me where.
+matt,Oh well... To Anatoly! Na zdorovje.
+ryan,No.
+matt,"No? Right, let's get out of here."
+ryan,We can't.
+matt,Course we can. RYAN There's no fuel. I tried everything.
+matt,"Well, there's always something we can do."
+ryan,I tried everything.
+matt,Did you try the soft landing jets?
+ryan,They're for landing so.
+matt,"Well landing is launching it's the same thing, didn't you learn about that in training?"
+ryan,"I never got to land the simulator, I told you."
+matt,But you know about it.
+ryan,And I crashed it every time.
+matt,"Listen you want to go back or do you want to stay here? I get it, it's nice up here, you can just shut down all the systems turn out all the lights, and just close your eyes and tune out everybody."
+ryan,How did you get here?
+matt,"Ryan, you have to learn to let go ... Hey?"
+ryan,What?
+matt,It's time to go home.
+ryan,"Landing, landing. Landing is launching."
+ryan,"Okay Houston, here comes the tricky part, the Soyuz has to think we're only three meters above the earth."
+ryan,Wow... you were right Matt... it's magnificent....
+ryan,Ahhhhhh!
+ryan,Come on. Come on.
+ryan,Seriously?
+ryan,In the Soyuz the power button is erm....here!
+ryan,Ok. That doesn't sound good....
+ryan,Yeehaaa!
+ryan,AAAHHHHHH!
+ryan,Thank you.

@@ -1,0 +1,729 @@
+Speaker,Dialogue
+fennyman,"What am I, Mr. Lambert?"
+lambert,"Bitten, Mr. Fennyman."
+fennyman,"How badly bitten, Mr. Frees?"
+frees,"Twelve pounds, one shilling and four pence, Mr. Fennyman, including interest."
+henslowe,Aaagh! I can pay you!
+fennyman,When?
+henslowe,"Two weeks, three at the most, Aaaagh! For pity's sake."
+fennyman,Take his feet out. Where will you get
+frees," Sixteen pounds, five shillings and nine pence"
+fennyman,including interest in three weeks?
+henslowe,I have a wonderful new play!
+fennyman,Put his feet in.
+henslowe,It's a comedy.
+fennyman,Cut his nose off.
+henslowe,A new comedy. By Will Shakespeare!
+fennyman,And his ears.
+henslowe,"And a share. We will be partners, Mr. Fennyman!"
+fennyman, Partners!
+henslowe,"It's a crowd-tickler--mistaken identities, a shipwreck, a pirate king, a bit with a dog, and love triumphant."
+lambert,I think I've seen it. I didn't like it.
+henslowe,This time it is by Shakespeare.
+fennyman,What's the title?
+henslowe,Romeo and Ethel the Pirate's Daughter.
+fennyman,Good title.
+frees,"Twenty pounds to the penny, Mr. Fennyman."
+fennyman,Correct!
+henslowe,But I have to pay the actors and the authors.
+fennyman,A share of the profits.
+henslowe,There's never any
+fennyman,Of course not!
+henslowe," Mr. Fennyman, I think you may have hit on something."
+fennyman,Sign here.
+henslowe,Without doubt he is completing it at this very moment.
+henslowe,Will! Where is my play? Tell me you have it nearly done! Tell me you have it started.  You have begun?
+will," Doubt that the stars are fire, doubt that the sun doth move"
+henslowe,"No, no, we haven't the time. Talk prose. Where is my play?"
+will, It is all locked safe in here
+henslowe,God be praised!  Locked?
+will,As soon as I have found my muse
+henslowe, Who is she this time?!
+will,She is always Aphrodite.
+henslowe,Aphrodite Baggot who does it behind the Dog and Trumpet?
+will,"Henslowe, you have no soul so how can you understand the emptiness that seeks a soulmate?"
+henslowe,"Well, I am a dead man and buggered to boot. My theatre is close by the plague these twelve weeks, my company is playing the inn-yards of England, while Burbage and the Chamberlain's Men are invited to court and receive ten pounds to play your piece, written for my theatre, by my writer, at my risk when you were green and grateful -"
+will,What piece? Richard Crookback?
+henslowe,"No--it's comedy they want, Will! Comedy! Like Romeo and Ethel?"
+will,Who wrote that?
+henslowe,Nobody! You are writing it for me! I gave you three pounds a month since.
+will,Half what you owed me. I am still due for One Gentleman of Verona.
+henslowe,". . . Will! What is money to you and me? I, your patron, you my wordwright! When the plague lifts Burbage will have a new Christopher Marlowe for the Curtain and I have nothing for the Rose."
+will,"Mr. Henslowe, will you lend me fifty pounds?"
+henslowe, Fifty pounds? What for?
+will,Burbage offers me a partnership in the Chamberlain's Men. For fifty pounds my hired player days are over.
+henslowe,Cut out my heart! Throw my liver to the dogs!
+will," No, then."
+makepeace,"and the Lord shall smite them! Yea, harken to me. The theatres are handmaidens of the devil! Under the name of the Curtain, the players breed lewdness in your wives, rebellion in your servants, idleness in your apprentices and wickedness in your children! And the Rose smells thusly rank by any name! I say a plague on both their houses!"
+henslowe,Where are you going?
+will,To my weekly confession.
+will,"Words, words, wordsonce, I had the giftI could make love out of words as a potter makes cups out of clay love that overthrows empires, love that binds two hearts together come hellfire and brimstonesfor sixpence a line, I could cause a riot in a nunnerybut now"
+will," Aye, now and again, but what of it? I have lost my gift."
+will,I have lost my gift.  It's as if my quill is broken. As if the organ of the imagination has dried up. As if the proud tower of my genius has collapsed.
+will,Nothing comes.
+will,It is like trying to a pick a lock with a wet herring.
+will,"A goodly length in times past, but lately"
+later,Not much sand left.
+will,"I was a lad of eighteen. Anne Hathaway was a woman, half as old again."
+will," She had a cottage. One day, she was three months gone with child, so"
+will,On my mother's side the Ardens
+will,"Four years and a hundred miles away in Stratford. A cold bed too, since the twins were born. Banishment was a blessing."
+will,yet cannot love nor write it.
+will,Will it restore my gift?
+henslowe,Now where? Will?
+will,To the Palace at Whitehall.
+will," Prithee, Mr. Kempe, break a leg. You too, good Crab."
+kempe,"Crab is nervous. He has never played the Palace. When will you write me a tragedy, Will? I could do it."
+will,"No, they would laugh at Seneca if you played it."
+burbage," My sleeve wants for a button, Mistress Rosaline, where were my seamstress's eyes?"
+will,"I am still owed money for this play, Burbage."
+burbage,Not from me. I only stole it. When are you coming over to the Chamberlain's Men?
+will,When I have fifty pounds.
+burbage,Are you writing?
+will," A comedy. All but done, a pirate comedy, wonderful."
+burbage,What is the chief part?
+will,"Romeo. Wit, swordsman, lover."
+burbage,The title?
+will,Romeo
+burbage,I will play him. Bring it tomorrow.
+will,It's for Henslowe. He paid me.
+burbage,How much?
+will,Ten pounds.
+burbage,You're a liar.
+will,I swear it. He wants Romeo for Ned and the Admiral's Men.
+burbage,Ned is wrong for it.
+will,Done.
+henslowe," Burbage, I will see you hanged for a pickpocket."
+burbage,"The Queen has commanded, she loves a comedy and the Master of the Revels favours us."
+henslowe,And what favour does Mr. Tilney receive from you?
+burbage,Ask him.
+tilney,She comes!
+rosaline,"When will you write me a sonnet, Will?"
+will,I have lost my gift.
+rosaline,You left it in my bed. Come to look for it again.
+will,"Are you to be my muse, ROSALINE?"
+rosaline,Burbage has my keeping but you have my heart.
+will,"You see? The consumptives plot against me. ""Will Shakespeare has a play, let us go and cough through it."""
+will,I feel a scene coming on.
+henslowe,Is it about a pirate's daughter?
+henslowe,You see? Comedy.
+queen,"Well played, Master Crab, I commend you."
+henslowe,"Love and a bit with a dog, that's what they like."
+henslowe,There's a lady knows your play by heart.
+viola,"Did you like Proteus or Valentine best? Proteus for speaking, Valentine for looks."
+nurse,"I liked the dog, for laughs."
+viola,"But Silvia I did not care for much. His fingers were red from fighting and he spoke like a schoolboy at lessons. Stage love will never be true love while the law of the land has our heroines played by pipsqueak boys in petticoats! Oh, when can we see another?"
+nurse,When the Queen commands it.
+viola,But at the playhouse. Nurse?
+nurse,Be still.
+viola,I am not so well-born.
+nurse,Well-monied is the same as well-born and well-married is more so. Lord Wessex was looking at you tonight.
+viola,All the men at court are without poetry. If they look at me they see my father's fortune. I will have poetry in my life. And adventure. And love. Love above all.
+nurse,Like Valentine and Silvia?
+viola,"No . . . not the artful postures of love, but love that over- throws life. Unbiddable, ungovernable, like a riot in the heart, and nothing to be done, come ruin or rapture. Love like there has never been in a play.  I will have love or I will end my days as a . . ."
+nurse,As a nurse.
+viola," But I would be Valentine and Silvia too. Good Nurse, God save you and good night. I would stay asleep my whole life if I could dream myself into a company of players."
+nurse,"Clean your teeth while you dream, then."
+fennyman,This time we take your boots off!
+henslowe,"What have I done, Mr. Fennyman?"
+fennyman,The theatres are all closed by the plague!
+henslowe,"Oh, that."
+fennyman,by order of the Master of the Revels!
+henslowe,"Mr. Fennyman, let me explain about the theatre business.  The natural condition is one of insurmountable obstacles on the road to imminent disaster. Believe me, to be close by the plague is a bagatelle in the ups and downs of owning a theatre."
+fennyman,So what do we do?
+henslowe,"Nothing. Strangely enough , it all turns out well."
+fennyman,How?
+henslowe,I don't know. It's a mystery.
+lambert," Should I kill him, Mr. Fennyman?"
+messenger,"The theatres are reopened. By order of the Master of the Revels, the theatres are reopened"
+frees,Mr. Fennyman! Mr. Tilney has opened the playhouses.
+fennyman,Yes I heard.
+henslowe, If you wouldn't mind
+fennyman,Where is the play?
+henslowe,"Oh, it's coming, it's coming."
+henslowe,Will! The theatres are
+will,"Romeo and Rosaline. Scene One! God, I'm good!"
+henslowe,Rosaline? You mean Ethel.
+will, Richard!
+will,Burbage?
+will,Mr. Tilney
+tilney,"Like you, I found him not at home!"
+will,So this is the favour you find in the Chamberlain's Men.
+rosaline,Will!
+will, Tell Burbage he has lost a new play by Will Shakespeare.
+tilney,What does Burbage care of that? He is readying the Curtain for Kit Marlowe.
+will,You have opened the playhouses?
+tilney,"I have, Master Shakespeare."
+will,But the plague
+tilney," Yes, I know. But he was always hanging around the house."
+rosaline," Willyou're the only one, Will!--in my heart."
+nol, Mr. Henslowe!
+henslowe,"Yes, I heard. The theatres are open. But where is my playwright?"
+henslowe,"Chalk it up, Nol. I'm hungry, too."
+nol,"The special today is a pig's foot marinated in juniper-berry vinegar, served with a buckwheat pancake which has been"
+henslowe,Will! Have you finished?
+will,"Yes. Nearly.  It's all locked safe in here. We need Ralph for the Pirate King. Good morning, Master Nol. You will have a nice little part."
+henslowe,Ned Alleyn and the Admiral's Men are out on tour. I need actors. Those here who are unknown will have a chance to be known.
+actor,"What about the money, Mr. Henslowe?"
+henslowe,It won't cost you a penny! Auditions in half-an-hour!
+ralph,Never when I'm working.
+will,Give me to drink mandragora.
+barman,"Straight up, Will?"
+voice,Give my friend a beaker of your best brandy.
+will,Kit
+marlowe,"How goes it, Will?"
+will,"Wonderful, wonderful."
+marlowe,Burbage says you have a play.
+will,I have. And chinks to show for it.
+marlowe,Not new--my Doctor Faustus.
+will,"I love your early work. ""Was this the face that launched a thousand ships and burnt the topless towers of Ilium?"""
+marlowe,"I have a new one nearly done, and better. The Massacre at Paris."
+will,Good title.
+marlowe,And yours?
+will,"Romeo and Ethel the Pirate's Daughter.  Yes, I know."
+marlowe,What is the story?
+will,"Well, there's a pirate  In truth, I have not written a word."
+marlowe,Romeo isItalian. Always in and out of love.
+will,"Yes, that's good. Until he meets"
+marlowe,Ethel.
+will,Do you think?
+marlowe,The daughter of his enemy.
+will, The daughter of his enemy.
+marlowe,His best friend is killed in a duel by Ethel's brother or something. His name is Mercutio.
+will,Mercutiogood name.
+nol,Will--they're waiting for you!
+will,I'm coming.
+marlowe,I thought your play was for Burbage.
+will,This is a different one.
+marlowe, A different one you haven't written?
+young actor,""" Was this the face that launched a thousand ships, And burnt the topless towers of Ilium? Sweet Helen, make me immortal with a kiss!"""
+henslowe,Thank you.
+second actor,I would like to give you something from Faustus by Christopher Marlowe.
+henslowe,How refreshing.
+second actor,"""Was this the face that launched a thousand ships, And burnt the topless towers of Ilium?"""
+urchin,"""the topless towers of Ilium? Sweet Helen, make me immortal with a--?"""
+henslowe, Thank you!
+wabash,"""W-w-w-w-was th-th-this th-th-the f-f- f-face"""
+henslowe," Very good, Mr. Wabash. Excellent. Report to the property master."
+will,I did not.
+henslowe,"Well, I to my work, you to yours. When can I see pages?"
+will,Tomorrow
+actor,"May I begin, sir?"
+will,Your name?
+will,Take off your hat.
+will,Where did you learn how to do that?
+will,Wait there.
+will,Let me see you. Take off your hat.
+actor,What are we playing?
+nol,Where are the pages?
+will, Where's the boy?
+wabash,B-b-b-b-break a l-l-l-leg!
+will,Follow that boat!
+boatman,"Right you are, governor!"
+will, Yes.
+boatman,"Yes, I've seen you in something. That one about a king."
+will,Really?
+boatman,I had the Christopher Marlowe in my boat once.
+will,Do you know that house?
+boatman,Sir Robert De Lesseps.
+viola,"God save you, mother.  Ho water, nurse."
+nurse,Who asks for him?
+will,"William Shakespeare, actor, poet, and playwright of the Rose."
+nurse,Master Kent ismy nephew.
+will, I will wait.
+nurse,Much god may it do you.
+viola," He sees himself in me! Romeo Montague, a young man of Verona."
+nurse, Verona again.
+viola, A comedy of quarreling families reconciled in the discovery of Romeo to be the very same Capulet cousin stolen from the cradle and fostered to manhood by his Montague mother that was robbed of her own child by the Pirate King!
+servant,Be off!
+nurse,"Your mother, and your father"
+viola," From tomorrow, away in the country for three weeks! Is Master Shakespeare not handsome?"
+nurse,He looks well enough for a mountebank.
+viola,"Oh, Nurse! He would give Thomas Kent the life of Viola De Lesseps's dreaming."
+nurse," My lady, this play will end badly. I will tell."
+viola," You will not tell. As you love me and as I love you, you will bind my breast and buy me a boy's wig!"
+will,Master Plum! What business here?
+musician,"A five shilling business, Will. We play for the dancing."
+servant,"Musicians don't eat, Sir Robert's orders."
+will,I seek Master Thomas Kent.
+sir robert,"She is a beauty, my lord, as would take a king to church for a dowry of a nutmeg."
+wessex,My plantations in Virginia are not mortgaged for a nutmeg. I have an ancient name that will bring you preferment when your grandson is a Wessex. Is she fertile?
+sir robert,"She will breed. If she do not, send her back."
+wessex,Is she obedient?
+sir robert,"As any mule in Christendom. But if you are the man to rider her, their are rubies in the saddlebag."
+wessex,I like her.
+will," By all the stars in heaven, who is she?"
+musician,"Viola de Lesseps. Dream on, Will."
+viola,Master Shakespeare
+wessex,My lady Viola.
+viola,My lord.
+wessex,I have spoken with your father.
+viola,So my lord? I speak with him every day.
+wessex," ""Poet?"""
+will," I was a poet till now, but I have seen beauty that puts my poems at one with the talking ravens at the Tower."
+wessex,By coveting my property. I cannot shed blood in her house but I will cut your throat anon. You have a name?
+will, Christopher Marlowe at your service.
+viola,"Romeo, Romeo . . . a young man of Verona. A comedy. By William Shakespeare."
+will, My lady!
+viola, Who is there?
+will,Will Shakespeare!
+viola,"Anon, good nurse. Anon.  Master Shakespeare?!"
+will,"The same, alas."
+viola,"Oh but why ""alas?"""
+will,A lowly player.
+viola,"Alas indeed, for I thought you the highest poet of my esteem and a writer of plays that capture my heart."
+will,Oh--I am him too!
+viola, I will come again.
+will," Oh, I am fortune's fool, I will be punished for this!"
+viola,If they find you here they will kill you.
+will,You can bring them with a word.
+viola,"Oh, not for the world!"
+john,"""Draw if you be men!  Gregory, remember thy washing blow."""
+nol,"""Part, fools, put up your swords."""
+henslowe,"It starts well, and then it's all long- faced about some Rosaline. Where's the comedy, Will. Where's the dog?  Do you think it is funny?"
+ralph,"I was a Pirate King, now I'm a Nurse. That's funny"
+will,"We are at least six men short, and those we have will be overparted, ranters and stutterers who should be sent back to the stews. My Romeo has let me down. I see disaster."
+henslowe,"We are at least four acts short, Will, if you are looking for disaster."
+will,"Who are you, master?"
+urchin,"I am Ethel, sir, the Pirate's daughter."
+will, I'll be damned if you are!
+fennyman,Is it going well?
+henslowe,Very well.
+fennyman,But nothing is happening.
+henslowe,"Yes, but very well."
+will, Gentlemen! Thank you! You are welcome.
+fennyman,Who is that?
+henslowe,Nobody. The author.
+will,We are about to embark on a great voyage.
+henslowe,It is customary to make a little speech on the first day. It does no harm and authors like it.
+will,You want to know what parts you are to receive. All will be settled as we go
+alleyn,Huzzah! The Admiral's Men are returned to the house!
+fennyman,Who is this?
+alleyn," Silence, you god! I am Hieronimo! I am Tamburlaine! I am Faustus! I am Barrabas, the Jew of Malta--of yes, Master Will, and I am Henry VI. What is the play, and what is my part?"
+fennyman,"A moment, sir!"
+alleyn, Who are you?
+fennyman, I am the money!
+alleyn,Then you may remain so long as you remain silent. Pay attention and you will see how genius creates a legend.
+fennyman," Thank you, sir."
+will,"We are in desperate want of a Mercutio, Ned, a young nobleman of Verona"
+alleyn,And the title of this piece?
+will,Mercutio
+henslowe,Is it?
+alleyn,I will play him!
+will,"Mr. Pope! Mr. Phillips! Welcome, George Bryan! James Armitage!  Sam! My pretty one! Are you ready to fall in love again?"
+sam," I am, Master Shakespeare."
+will, Have they dropped?
+sam," No, no, a touch of cold only. We suspect he is lying but WILL has turned away."
+will,"Master Henslowe, you have your actors."
+fennyman,"I saw his Tamburlaine, you know. Wonderful."
+will,"Yes, I saw it."
+fennyman,"Of course, it was mighty writing. There is no one like Marlowe"
+will,"Better fortune, boy."
+urchin," I was in a play. They cut my head off in Titus Andronicus. When I write plays, they will be like Titus."
+will, You admire it?
+urchin,I like it when they cut heads off. And the daughter mutilated with knives.
+will,Oh. What is your name?
+will,I have to get back.
+montague,"""I would thou wert so happy by thy stay To hear true shrift. Come, madam, let's away."""
+will,Cut round him for now.
+henslowe, What? Who?
+will,Romeo.
+henslowe,The one who came with your letter?
+will,What?
+will,Good
+will," No, no, noDon't spend it all at once!"
+will,Do you understand me?
+will,He is speaking about a baggage we never even meet! What will be left in your purse when he meets his Juliet?
+henslowe,Juliet? You mean Ethel.
+will, What will you do in Act Two when he meets the love of his life?
+will,Of course you have not! I have not written it!
+alleyn,WillWhere is Mercutio?
+will," Locked safe in here. I leave the scene in your safe keeping, Ned, I have a sonnet to write."
+henslowe,A sonnet? You mean a play.
+wessex,Two hours at prayer!
+nurse,"Lady Viola is pious, my lord."
+wessex,"Piety is for Sunday! And two hours at prayer is not piety, it is self- importance!"
+nurse,"It would be better that you return tomorrow, my lord."
+wessex,It would be better that you tell her to get off her knees and show some civility to her six-day lord and master.
+viola,Lord Wessex. You have been waiting.
+wessex,"I am aware of it, but it is beauty's privilege."
+viola,"You flatter, my lord."
+wessex,"No. I have spoken to the Queen.  Her majesty's consent is requisite when a Wessex takes a wife, and once gained, her consent is her command."
+viola,"Do you intend to marry, my lord?"
+wessex,Your father should keep you better informed. He has bought me for you. He returns from his estates to see us married two weeks from Saturday.  You are allowed to show your pleasure.
+viola,"I do not love you, my lord."
+wessex,"How your mind hops about! Your father was a shopkeeper, your children will bear arms, and I will recover my fortune. That is the only matter under discussion today. You will like Virginia."
+viola,Virginia?!
+wessex,"Why, yes! My fortune lies in my plantations. The tobacco weed. I need four thousand pounds to fit out a ship and put my investments to work--I fancy tobacco has a future. We will not stay there long, three or four years . . ."
+viola,But why me?
+wessex,"It was your eyes. No, your lips."
+viola,The Queen has consented?
+wessex,"She wants to inspect you. At Greenwich, come Sunday. Be submissive, modest, grateful and brief."
+viola," I will do my duty, my lord."
+alleyn,"Gentlemen upstage, ladies downstage!"
+will, You did not like the speech?
+alleyn,"The speech is excellent.  ""Oh, then I see Queen Mab hath been with you!"" Excellent and a good length. But then he disappears for the length of a bible."
+will,"There you have his duel, a skirmish of words and swords such as I never wrote, nor anyone. He dies with such passion and poetry as your ever heard: ""a plague on both your houses!"""
+alleyn,He dies?
+burbage,Will!
+will, Did you give her my letter?
+will,"Oh, Thomas! She has cut my strings! I am unmanned, unmended, and unmade, like a puppet in a box."
+boatman,"Writer, is he?"
+will,Row your boat.
+will,She tells me to keep away. She is to marry Lord Wessex. What should I do?
+will,And break her heart and mine?
+will,"She loves me, Thomas!"
+will,No. And yet she does where the ink has run with tears. Was she weeping when she gave you this?
+will,Your aunt?
+will,Like a sickness and its cure together.
+will,"Oh, if I could write the beauty of her eyes! I was born to look in them and know myself."
+will,"Oh, Thomas, her lips! The early morning rose would wither on the branch, if it could feel envy!"
+will,Deeper. Softer. None of your twittering larks! I would banish nightingales from her garden before they interrupt her song.
+will,"Constantly. Without doubt. And plays the lute, she has a natural ear. And her bosom--did I mention her bosom?"
+will,"Oh Thomas, a pair of pippins! As round and rare as golden apples!"
+will," Yes, by God! Love knows nothing of rank or riverbank! It will spark between a queen and the poor vagabond who plays the king, and their love should be minded by each, for love denied blights the soul we owe to God! So tell my lady, William Shakespeare waits for her in the garden!"
+will,"For one kiss, I would defy a thousand Wessexes!"
+viola,"Oh, Will!"
+boatman,"Thank you, my lady!"
+will, Lady?
+boatman,Viola De Lesseps. Known her since she was this high. Wouldn't deceive a child.
+will,Can you love a fool?
+viola,Can you love a player?
+will, Wait! You are still a maid and perhaps as mistook in me as I was mistook in Thomas Kent.
+viola,Answer me only this: are you the author of the plays of William Shakespeare?
+will,I am.
+viola,Then kiss me again for I am not mistook.
+will,"It is strange to me, too."
+nurse,"Go to, go to."
+viola,I would not have thought it. There is something better than a play.
+will,There is.
+viola,Even your play.
+will, Oh
+viola,And that was only my first try.
+will,Well perhaps better than my first. 
+viola,Will
+will,I must. Look-- how pale the window.
+viola, Moonlight!
+will,"No, the morning rooster woke me."
+viola,It was the owl--come to bed
+will," Oh, let Henslowe wait."
+viola, Mr. Henslowe?
+will, Let him be damned for his pages!
+viola,"Oh--no, no!"
+will, There is time. It is still dark.
+viola,It is broad day!  The rooster tells us so!
+will,"It was the owl. Believe me, love, it was the owl."
+viola,You would leave us players without a scene to read today?!
+nurse,"My lady, the house is stirring, it is a new day."
+viola,It is a new world!
+sam, It's you.
+alleyn, Suffering cats!
+will,"Yesyesernot quite rightit is more let me  ""Then have my lips the sin that they have took."""
+alleyn, Well! It was lucky you were here! Why do not I write the rest of your play while you
+will," Yes, yescontinue. Now the Nurse. Where is Ralph?"
+viola, Oh let it be night!
+viola,"Oh, do not go"
+will,I must. I must
+viola," ""Arise fair sun and kill the envious moon Who is already sick and pale with grief That thou her maid art far more fair than she"""
+will,"Yes, some of it is speakable."
+viola," ""It is my lady, O it is my love! O that she knew she were!"""
+will," ""Oh Romeo, Romeo, wherefore art thou Romeo? Deny thy father and refuse thy name."""
+will,"""What man art thou that thus bescreen'd in night So stumblest on my counsel?"""
+will,"""The orchard walls are high and hard to climb, And the place death, considering who thou art, If any of my kinsmen find thee here. If they do see thee, they will murder thee."""
+will,"""Good night, good night. As sweet repose and rest Come to thy heart as that within my breast. O wilt thou leave me so unsatisfied?"""
+viola,That's my line!
+will,"Oh, but it is mine too!"
+will,"""My bounty is as boundless as the sea, My love as deep:"
+viola," Anon, good Nurse"
+will,"""Stay but a little, I will come again."""
+viola," ""I am feared,"
+sam," Oh, she's off again! She says she's going and then she doesn't"
+will, How is it?
+peter, It's all right.
+will,NedI knowI know
+alleyn,It's good.
+will,Oh
+alleyn,The title won't do.
+will,Ah
+alleyn,Romeo and Juliet--just a suggestion.
+will,"Thank you, Ned."
+alleyn,And you are a Warwickshire shit-house.
+henslowe," You mean, no dog of any kind?"
+peter," The Friar married them in secret, then Ned gets into a fight with one of the Capulets, Romeo tries to stop them, he gets in Ned's way, I mean in Mercutio's way, so Tybalt kills Mercutio and then Romeo kills Tybalt. Then the Prince banishes him from Verona."
+henslowe, That must be when he goes on the voyage and gets shipwrecked on the island of the Pirate King.
+fennyman,Cease your prattling! Get out!  A thousand apologies!
+will,Sundayit is Sunday.
+viola,"Oh, but it will end well for love?"
+will,"In heaven, perhaps. It is not a comedy I am writing now. A broad river divides my lovers--family, duty, fate--as unchangeable as nature."
+viola," Yes, this is not life, Will. This is a stolen season."
+viola,Sunday! Greenwich!
+wessex,"Now, pay attention, Nursy. The Queen, Gloriana Regina, God's Chosen Vessel, the Radiant One, who shines her light on us, is at Greenwich today, and prepared, during the evening's festivities, to bestow her gracious favour on my choice of wife--and if we're late for lunch, the old boot will not forgive. So you get you to my lady's chamber and produce her with or without her undergarments."
+will,You cannot! Not for the Queen herself!
+viola,What will you have me do? Marry you instead?
+will," To be the wife of a poor player?--can I wish that for Lady Viola, except in my dreams? And yet I would, if I were free to follow my desire in the harsh light of day."
+viola," You follow your desire freely enough in the night. So, if that is all, to Greenwich I go."
+will,Then I will go with you.
+viola,"You cannot, Wessex will kill you"
+will,I know how to fight!
+viola," Oh, Will! As Thomas Kent my heart belongs to you but as Viola the river divides us, and I will marry Wessex a week from Saturday."
+wessex," By heaven, I will drag her down, by the Queen's command"
+viola,"Good morning, my lord!"
+wessex," Ah! My lady! The tide waits for no man, but I swear it would wait for you!"
+will,"Here we come at last, my lord!"
+wessex, Are you bringing your laundry woman?
+will,"Her chaperone. My lady's country cousin.  My, but you be a handsome gallant, just as she said! You may call me Miss Wilhelmina!"
+wessex,"On a more fortuitous occasion, perhaps"
+will,"Oh, my lord, you will not shake me off, she never needed me more, I sear by your breeches!"
+wessex, Now?
+wessex, The Queen asks for you. Answer well.
+will,"A man, my lord?"
+wessex," There was a man, poet--a theatre poet, I heard--does he come to the house?"
+will,A theatre poet?
+wessex,"An insolent penny-a-page rogue, Marlowe, he said, Christopher Marlowe--has he been to the house?"
+will,"Marlowe? Oh yes, he is the one, lovely waistcoat, shame about the poetry."
+wessex, That dog!
+viola,Your Majesty.
+queen,"Stand up straight, girl."
+viola, Your Majesty.
+queen,What do you love so much?
+viola,Your Majesty
+queen,Speak out! I know who I am. Do you love stories of kings and queens? Feats of arms? Or is it courtly love?
+viola,I love theatre. To have stories acted for me by a company of fellows is indeed
+queen," They are not acted for you, they are acted for me."
+viola,And I love poetry above all.
+queen,Above Lord Wessex?
+viola," Oh, but they can!"
+wessex,Lady Viola isyoung in the world. Your Majesty is wise in it. Nature and truth are the very enemies of playacting. I'll wager my fortune.
+queen,I thought you were here because you had none.
+will,Fifty pounds!
+queen,"Fifty pounds! A very worthy sum on a very worthy question. Can a play show us the very truth and nature of love? I bear witness to the wager, and will be the judge of it as occasion arises.  Have her then, but you are a lordly fool. She has been plucked since I saw her last, and not by you. It takes a woman to know it."
+wessex, Marlowe!
+marlowe,Burbage!
+burbage's voice,Who's there?
+marlowe,Marlowe.
+burbage's voice,Kit!
+marlowe,You are playing my Faustus this afternoon. Don't spend yourself in sport.
+rosaline, This afternoon!--we'll still be here this afternoon.
+burbage,"What do you want, Kit?"
+marlowe,My Massacre at Paris is complete.
+burbage,You have the last act?
+marlowe,You have the money?
+burbage,Tomorrow.
+marlowe, Then tomorrow you will have the pages.
+burbage,Wait!  Will you desist!
+marlowe,Twenty pounds on delivery
+burbage,"What is money to me like us? Besides, if I need a play, I have another waiting, a comedy by Shakespeare."
+marlowe,Romeo?--he gave it to Henslowe.
+burbage,Never!
+marlowe,"Well, I am to Deptford now, I leave my respects, Miss Rosaline."
+burbage,I gave Shakespeare two sovereigns for Romeo!
+marlowe, You did. But Ned Alleyn and the Admiral's Men have the playing of it as the Rose.
+burbage,Treachery!
+alleyn,Are you going to do it like that? And before the humbled actor can reply NED continues.
+burbage,Where is that thieving hack who can't keep his pen in his own ink pot!?
+will,What is this rabble?!
+fennyman," Wonderful, wonderful! And a dog!"
+henslowe,Not with my props!
+viola,Will! What--?
+will,A literary feud. Quite normal.
+will,I dreamed last night of a shipwreck. You were cast ashore in a far country.
+henslowe,We need that for the balcony scene!
+fennyman, My investment! LAMBERT!!!
+henslowe,"I want no more trouble, Mr. Fennyman. As I explained to you, the theatre business"
+fennyman,"Henslowe, you pound of tripe, in my business I would be out of business if I had your courage, so don't tell me about business"
+fennyman, Poxy Pol! You keep yourself to yourself I'll not have you infecting my investment!
+will,It is also a tavern.
+pretty whore,I remember you! The poet!
+second whore," Oh, he's a pretty one! Tell me your story while I tickle your fancy!"
+will,"It is, Thomas, but of good reputation. Come, there is no harm in a drink."
+ralph, Never when I'm working!
+pretty whore,"Never tried it? Never?  I think you are ready, Sam!"
+fennyman, You are welcome to my best house! Here's to the Admiral's Men!
+sam, Iquite liked it.
+fennyman,Master Kent! You have not dipped your wick?
+will," Mr. Fennyman, because you love the theatre you must have a part in my play. I am writing an Apothecary, a small but vital role."
+fennyman," By heaven, I thank you! I will be your Apothecary!"
+whore, And what is this play about?
+ralph,"Well, there's this Nurse"
+fennyman,Mr. Shakespeare has given me the part of the Apothecary!
+henslowe,"The Apothecary? Will, what is the story? Where is the shipwreck? How does the comedy end?"
+will,"By God, I wish I knew."
+henslowe,"By God, Will, if you do not, who does? Let us have pirates, clowns, and a happy ending, or we will send you back to Stratford to your wife!"
+peter, Will! Mr. Henslowe! Gentlemen all!
+will,Ohwhat have I done?
+alleyn, He was the first man among us. A great light has gone out.
+will,"It was I who killed him! God forgive me, God forgive me!"
+wessex,"You look sad, my lady! Let me take you riding."
+viola,"It is not my riding day, my lord."
+wessex,"Bless me, I thought it was a horse."
+viola,I am going to church.
+wessex, I understand of course. It is to be expected.
+viola,It is to be expected on a Sunday.
+wessex,And on a day of mourning. I never met the fellow but once at your house.
+viola," Mourning? Who is dead, my lord?"
+wessex,"Oh!--dear God, I did not think it would be me to tell you. A great loss to playwriting, and to dancing."
+viola, He is dead?
+wessex," Killed last night, in a tavern! Come, then, we'll say a prayer for his soul"
+nurse,My ladymy ladynow is the time to show your breeding.
+wessex,"Oh, spare me, dear ghost, spare me for the love of Christ!"
+viola,Will!
+will,It is worse. I have killed a man.
+will,Marlowe's touch was in my Titus Andronicus and my Henry VI was a house built on his foundations.
+viola,You never spoke so well of him.
+will,He was not dead before. I would exchange all my plays to come for all of his that will never come.
+viola,You lie.
+will,"My love is no lie. I have a wife, yes, and I cannot marry the daughter of Sir Robert de Lesseps. It needed no wife come from Stratford to tell you that. And yet you let me come to your bed."
+viola,"Calf love. I loved the writer, and gave up the prize for a sonnet."
+will,I was the more deceived.
+voila,Yes--you were deceived. For I never loved you till now.
+will,Now?
+viola," I love you, Will, beyond poetry."
+will,"Oh, my love  You ran from me before."
+viola,"You were not dead before. When I thought you dead, I did not care about all the plays that will never come, only that I would never see your face. I saw our end, and it will come."
+will,You cannot marry Wessex!
+viola,If not Wessex the Queen will know the cause and there will be no more Will Shakespeare.
+will,Nono.
+viola," But I will go to Wessex as a widow from these vows, as solemn as they are unsanctified."
+will," For killing Juliet's kinsman Tybalt, the one who killed Romeo's friend Mercutio, Romeo is banished"
+will,"You, Edward. The Friar who married them gives Juliet a potion to drink. It is a secret potion. It makes her seeming dead. She is placed in the tomb of the Capulets. She will awake to life and love when Romeo comes to her side again."
+fennyman,That's me.
+will,And buys a deadly poison. He enters the tomb to say farewell to Juliet who lies there cold as death. He drinks the poison. He dies by her side. And then she wakes and sees him dead.
+henslowe,"Well, that will have them rolling in the aisles."
+fennyman,"Sad and wonderful! I have a blue velvet cap which will do well, I have seen apothecary with a cap just so."
+alleyn, Yes--it will serve. But there's a scene missing between marriage and death.
+will,"The play. All written out for you. I had the clerk at Bridewell do it, he has a good fist for lettering."
+viola,Will you read it for me?
+will," ""Wilt thou be gone? It is not yet near day> It was the nightingale and not the lark That pierced the fearful hollow of thine ear. Nightly she sings on yon pomegranate tree. Believe me, love, it was the nightingale."""
+viola," ""It was the lark, the herald of the morn, No nightingale. Look, love, what envious streaks Do lace the severing clouds in yonder east. Night's candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops. I must be gone and live, or stay and die."""
+will,"""Yon light is not daylight, I know it, I. It is some meteor that the sun exhales To be to thee this night a torchbearer"""
+will,"""thou need'st not to be gone."""
+viola,"""I have more care to stay than will to go. Come death, and welcome. Juliet wills it so. How is't my soul? Let's talk. It is not day."""
+tilney,"You will go far, I fear."
+fennyman,"""Such mortal drugs I have but Mantua's law Is death to any he that utters them."" Then him. Then me."
+webster,My lord!
+wessex, Shakespeare!
+will,You are on my ground.
+wessex," By God, I'll fight the lot of you"
+will,I am more than enough.
+alleyn,Will
+wessex,I rejoiced at his death because I thought it was yours. That is all I know of Marlowe.
+alleyn,"It's true, Will--it was a tavern brawlMarlowe attacked, and got his own knife in the eye. A quarrel about the bill"
+henslowe,"The bill! Oh, vanity, vanity!"
+alleyn,"Not the billing, the bill!"
+will," Oh God, I am free of it!"
+wessex,Close it!
+tilney,My Lord Wessex!
+wessex," Close it! Take it down stone by stone! I want it ploughed into the ground, and sown with quick lime!"
+henslowe,"Mr. Tilney, what is this?"
+tilney,Sedition and indecency!
+henslowe,What?!
+webster,"Master of the Revels, sir, over here, sir."
+tilney," Where, boy?"
+webster, I saw her bubbies!
+tilney, A woman on the stage? A woman?
+webster,I swear it!
+tilney,"So, Henslowe! I say this theatre is closed! On the authority of the powers invested in my by the court--I close this theatre!"
+henslowe,Why so?
+tilney, For lewdness and unshamefacedness! For displaying a female on the public stage!
+webster, her.
+henslowe,He's a woman!
+tilney,That's who I meant! This theatre is closed! Notice will be posted!
+henslowe," Ned, I swear I knew nothing of this!"
+viola, Nobody knew!
+webster, He did! I saw him kissing her bubbies!
+tilney,"Closed! Closed, mark you, Henslowe!"
+henslowe, It is over.
+viola,"I am so sorry, Mr. Henslowe. I wanted to be an actor.  I am sorry, Will."
+wabash,Y-y-y-you w-w-w-were w-w-w-w- wonderful.
+viola,Thank you.
+fennyman,Everything all right?
+fennyman, I would have been goodI would have been great.
+ralph,So would I. We both would.
+fennyman, Lambert!
+alleyn,"Well, Burbage--you never did know when your scene was over."
+burbage,"That can wait. The Master of the Revels despises us for vagrants, tinkers, and peddlers of bombast. But my father, James Burbage, had the first licence to make a company of players from Her Majesty, and he drew from poets the literature of the age. Their fame will be our fame. So let them all know, we are men of parts. We are a brotherhood, and we will be a profession. Will Shakespeare has a play. I have a theatre. The Curtain is yours."
+henslowe,Will!
+wessex,"My ship is moored at Bankside, bound for Virginia on the afternoon tide--please do not weep, Lady De Lesseps, you are gaining a colony."
+de lesseps,"And you are gaining five thousand pounds, my lordby these drafts in my hand."
+wessex,Would you oblige me with fifty or so in gold?--just to settle my accounts at the dockside?
+viola,"Good morning, my lord. I see you are open for business so let's to church."
+nurse,My lord!
+wessex,I will.
+nurse,God bless you!
+wessex,"Thank you. Let go, there's a good nurse."
+makepeace,"Licentiousness is made a show, vice is made a show, vanity and pride likewise made a show! This is the very business of show"
+fennyman,Is this all right?
+wabash, T-t-t-two h-h-households b-both alike in d-d-d-dignity.
+will, We are lost.
+henslowe,"No, it will turn out well."
+will,How will it?
+henslowe,"I don't know, it's a mystery."
+will, Wonderful!
+wabash,W-w-w-was it g-g-g-good?
+sam, Master Shakespeare
+will, Sam?
+sam," It is not my fault, Master Shakespeare. I could do it yesterday."
+will,"Sam! Do me a speech, do me a line."
+sam," ""Parting is such sweet sorrow"""
+henslowe,Another little problem.
+will,What do we do now?
+henslowe,The show must  you know
+will,Go on.
+henslowe,Juliet does not come on for twenty pages. It will be all right.
+will,How will it?
+henslowe,I don't know. It's a mystery.
+henslowe,Can we talk?
+burbage, No Juliet?!
+viola, No Juliet?!
+henslowe,"it will be all right, madam."
+viola,What happened to Sam?
+henslowe,Who are you?
+viola,Thomas Kent!
+henslowe,Do you know it?
+viola, Every word.
+burbage,We will all be put in the clink.
+henslowe, See you in jail.
+fennyman,"""Such mortal drugs I have but Mantua's Law Is death to any he that utters them."" Then him. Then me."
+will,I am fortune's fool.
+fennyman, I was good. I was great.
+nurse, Dead!
+the prince,"""For never was a story of more woe Than this of Juliet and her Romeo."""
+tilney, I arrest you in the name of Queen Elizabeth!
+burbage,"Arrest who, Mr. Tilney?"
+tilney,"Everybody! The Admiral's Men, The Chamberlain's Men and everyone of you ne'er-do-wells who stands in contempt of the authority invested in me by her Majesty."
+burbage,Contempt? You closed the Rose--I have not opened it.
+tilney, That woman is a woman!
+alleyn,What?! A woman?! You mean that goat?!
+tilney,I'll see you all in the clink! In the same of her Majesty Queen Elizabeth
+voice,Mr. Tilney!
+queen,"Have a care with my name, you will wear it out."
+voice,"He is, Ma'am."
+wessex, Your Majesty
+queen,"There was a wager, I rememberas to whether a play can show the very truth and nature of love. I think you lost it today.  You are an eager boy. Did you like the play?"
+webster,"I liked it when she stabbed herself, your Majesty."
+queen,"Master Shakespeare. Next time to you come to Greenwich, Come as yourself and we will speak some more. WILL bows deeply. The QUEEN turns to leave. The waves part for her."
+wessex,Your Majesty!
+queen,"Why, Lord Wessex! Lost your wife so soon?"
+wessex,Indeed I am a bride short. How is this to end?
+queen,"As stories must when love's denied--with tears and a journey. Those whom God has joined in marriage, not even I can put asunder."
+wessex,Fifty shillings.  Pounds.
+queen,Give it to Master Kent. He will see it rightfully home. WESSEX gives his purse to VIOLA.
+will, My Lady Wessex?
+viola,"A hired player no longer. Fifty pounds, Will, for the poet of true love."
+will,I am done with theatre. The playhouse is for dreamers. Look where the dream has brought us.
+viola,It was we ourselves did that. And for my life to come I would not have it otherwise.
+will,I have hurt you and I am sorry for it.
+viola,"If my hurt is to be that you will write no more, then I shall be the sorrier."
+will," A comedy! What will my hero be but the saddest wretch in the kingdom, sick with love?"
+viola,An excellent beginning  Let him bea duke. And your heroine?
+will, Sold in marriage and half way to America.
+viola," At sea, then--a voyage to a new world?she lands upon a vast and empty shore. She is brought to the dukeOrsino."
+will, Orsinogood name
+viola,"But fearful of her virtue, she comes to him dressed as a boy"
+will, and thus unable to declare her love
+viola,But all ends well.
+will,How does it?
+viola,I don't know. It's a mystery
+viola,Nor you for me.
+will,"Good bye, my love, a thousand times good bye."
+viola,Write me well.

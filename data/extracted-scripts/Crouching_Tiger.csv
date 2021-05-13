@@ -1,0 +1,514 @@
+Speaker,Dialogue
+worker,Master Li is here!
+aunt wu,Shu Lien!
+aunt wu,Li Mu Bai is here!
+li,How's everything?
+aunt wu,Fine.  Please come in.
+yu,Mu Bai...It's been too long.
+li,It has.  How's business?
+yu,Good.  And how are you?
+li,Fine.
+yu,Monk Zheng said you were at Wudan Mountain.  He said you were practicing deep meditation.
+li,Yes.
+yu,"The mountain must be so peaceful... I envy you.  My work keeps me so busy, I hardly get any rest."
+li,I left the training early.
+yu,Why?  You're a Wudan fighter. Training is everything.
+li,During my meditation training... I came to a place of deep silence... I was surrounded by light... Time and space disappeared.  I had come to a place my master had never told me about.
+yu,You were enlightened?
+li,No.  I didn't feel the bliss of enlightenment.  Instead... I was surrounded by an endless sorrow.  I couldn't bear it.  I broke off my meditation.  I couldn't go on. There was something... pulling me back.
+yu,What was it?
+li,Something I can't let go of.  You are leaving soon?
+yu,We're preparing a convoy for a delivery to Peking.
+li,Perhaps I could ask you to deliver something to Sir Te for me.
+yu,The Green Destiny Sword?  You're giving it to Sir Te?
+li,I am.  He has always been our greatest protector.
+yu,I don't understand.  How can you part with it?  It has always been with you.
+li,Too many men have died at its edge. It only looks pure because blood washes so easily from its blade.
+yu,"You use it justly, you're worthy of it."
+li,It's time for me to leave it behind.
+yu,So what will you do now?
+yu,Come with me to Peking.  You can give the sword to Sir Te yourself. It'll be just like old times.
+li,First I must visit my master's grave.  It's been many years since Jade Fox murdered him.  I have yet to avenge his death.  And yet I'm thinking of quitting.  I must pray for his forgiveness.
+yu,Join me once you have finished.  I can wait for you in Peking.
+li,Perhaps.
+guards,Ok.  Pass.
+yu,Thanks.  Let's go into the city.
+giao,Everything got here safely.  I'm much obliged.
+yu,Just doing my job.
+giao,Sun Security has been the best since your father started it. You're a credit to his memory.
+yu,Thank you.
+giao,I mean it.
+sir te,"This is Li's personal sword, a great hero's weapon!  He is the only one in the world worthy of carrying it.  It's too fine a gift. I cannot accept it."
+yu,"Sir Te!  It has brought him as much trouble as glory.  Help him to leave these troubles behind. Otherwise, he'll never be able to start anew."
+sir te,All right.  I'll act as the sword's custodian.
+de lu,Governor Yu has arrived.
+sir te,I must change.
+yu, You've always been so good to Li Mu Bai and me.  Please accept our thanks.
+sir te,"Please do not be such a stranger. You'll stay the night as my guest. Now, Shu Lien... tell me something. And forgive me for prying.  Your father was a great friend to me, and I think of you as my own daughter."
+yu,"Please, Sir Te, what is it?"
+sir te,Li Mu Bai giving up his sword and his warrior days... maybe he's trying to tell you something?
+yu,I don't know...
+sir te,"Don't be coy.  I've always known about your feelings for each other. All these years, it's a shame... neither of you is brave enough to admit the truth to the other. You're both wasting precious time."
+yu,I beg your pardon.  Li Mu Bai and I aren't cowards.
+sir te,"When it comes to emotions, even great heroes can be idiots.  Tell me if Li Mu Bai is not more open the next time you see him.  I'll give him an earful!"
+de lu,Sir Te said to leave the sword in here.
+de lu,Who are you?
+jen,I'm your guest today.  I am Governor Yu's daughter.
+de lu,This is Sir Te's study.  You are here to...
+jen,I was looking for a quiet corner.
+de lu,I am Sir Te's head servant.  And this is another of our guests.
+jen,It's heavy for such a thin piece of metal!
+yu,"The handle is heavy.  And the blade is no ordinary metal.  Still, the sword is the lightest of weapons. You're just not used to handling it."
+jen,"But I have had much practice.  As a child in the West, a platoon lived with us.  They'd let me play with their weapons.  The scabbard is so beautiful."
+yu,"Beautiful but dangerous.  Once you see it tainted with blood, its beauty is hard to admire.  It's 400 years old."
+jen,Exquisite!  You said it belongs to...
+yu,My friend Li Mu Bai.  He's given it to Sir Te as a gift.
+jen,Li Mu Bai!  The famous warrior? Why would he give his sword to Sir Te?
+yu,You're too young to understand.
+jen,You're a sword fighter too?
+yu,"Yes, I am.  But I prefer the machete.  Certain moves, however, call for a sword."
+jen,Really?
+jen," It must be exciting to be a fighter, to be totally free!"
+yu,"Fighters have rules too: friendship, trust, integrity... Without rules, we wouldn't survive for long."
+jen,"I've read all about people like you. Roaming wild, beating up anyone who gets in your way!"
+yu,Writers wouldn't sell many books if they told how it really is.
+jen,But you're just like the characters in the stories.
+yu,"Sure.  No place to bathe for days, sleeping in flea-infested beds... They tell you all about that in those books?"
+jen,"You know what I mean.  I'm getting married soon, but I haven't lived the life I want."
+yu,"So I heard.  Congratulations.  It's the most important step in a woman's life, isn't it?"
+jen,"You're not married, are you?"
+yu,What do you think?
+jen,No!  You couldn't roam around freely if you were.
+yu,You're probably right.
+sir te,"Go ahead, Governor Yu."
+sir te,"Two feet 9 inches long.  1 inch wide.  The handle is 1 inch deep, 2.6 inches wide.  Seven-tenths of an inch thick.  With seven rubies missing from the hilt.  You can tell the design dates back to before the Chin era.  Engraved with a technique lost by the time of the Han Dynasty."
+governor yu,"Your knowledge is remarkable, Sir Te."
+sir te,A sword by itself rules nothing. It comes alive only through skillful manipulation.
+governor yu,I see your point.  Please continue.
+sir te,"The Imperial Court isn't the problem.  With royalty and officials everywhere, the Royal Guard keeps security tight.  But Peking is not like the West.  Here, you'll find all sorts of characters.  Proceed with caution in your quest for law and order.  Don't depend only on the court.  Contacts in the Giang Hu underworld can ensure your position.  Be strong, yet supple. This is the way to rule."
+maid,Governess...
+governess,Let me do it.
+jen,Please sit.
+governess,I've made you silk pajamas.  Do you want to change into them?
+jen,Put them down.
+governess,I heard you met Shu Lien today.
+jen,Do you know her?
+governess,She's one of those.  Your mother would not want you consorting with her kind.
+jen,I'll socialize with whomever I please.
+governess,Don't invite danger into your father's house.
+jen,I'm tired now.
+governess,"Go to bed then.  Miss has grown up, and is getting married soon.  God knows what the future will bring."
+jen,It will be just the same.  Enough! I'm tired.
+governess,Autumn is coming.  I'll shut the windows for you.
+master bo,"Chilly, eh?"
+nightman,"Yes, Master Bo."
+bo,Someone help!  Stop him!  He's on the roof!  The sword's been stolen! Stop thief!  Stop him!
+tsai,It's Jade Fox!
+may,We must avenge mother!
+bo,Do something!  He's getting away!
+yu,"Return the sword, and I'll let you go."
+yu,You've been trained at Wudan?
+tsai,You're mistaken.  We're just street performers.  We were rehearsing.
+may,Father!
+bo,You were rehearsing?  Who are you trying to fool?
+bo,Where did that thief go?
+bo,Governor Yu's house!
+yu,Get down here!  Give back the sword!
+de lu,Sir Te awaits you.
+bo,I'm sure the thief is in the Yu household.
+sir te,How dare you imply?
+bo,But I say --
+sir te,-- Enough.
+yu,Has Governor Yu ever seen the sword?
+sir te,"Yes, though I doubt he's involved in this."
+yu,But the sword could be in his compound.
+sir te,Then someone's trying to set him up. We should inform Li Mu Bai.
+madam yu,What is it?
+maid,"Madam Yu, someone's put up posters."
+madam yu,Let me see.
+governess,"Someone is after Jade Fox. Preposterous, looking for her here!"
+bo,Where are they?
+homeless man,I don't know.  I haven't seen them in two days.
+maid,There is a Miss Shu Lien here to see you.
+governess,Miss is busy right now.
+maid,I'll tell her.
+jen,Show her in.
+governess,This spells trouble.
+jen,I have a guest.
+maid,This way please.
+jen,I've missed you.
+yu,How so?
+jen,I'm bored.
+yu,You're doing calligraphy?
+jen,I'll write your name.  Just for fun.
+yu,"I never realized my name looks like ""sword."""
+yu,You write gracefully.  Calligraphy is so similar to fencing.
+jen,Maybe it is.  I wouldn't know.
+jen,Please.
+yu,Thank you for seeing me.  I hear your wedding day is near.  You must be overwhelmed by the preparations.
+jen,I'm hardly doing a thing.  The less I think of it the better.  My parents are arranging everything. The Gous are a very powerful family. My marrying one will be good for my father's career.
+yu,You are fornuate to marry into such a noble family.
+jen,"Am I?  I wish I were like the heroes in the books I read.  Like you and Li Mu Bai.  I guess I'm happy to be marrying.  But to be free to live my own life, to choose whom I love... That is true happiness."
+yu,Do you think so?  Let me tell you a story.
+jen,About you and Li Mu Bai?
+yu,Yes.  Did you know I was once engaged to be married?
+jen,"No, really?"
+yu,"His name was Meng Si Zhao.  He was a brother to Li Mu Bai by oath. One day, while in battle, he was killed by the sword of Li Mu Bai's enemy.  After, Li Mu Bai and I went through a lot together.  Our feelings for each other grew stronger.  But how could we dishonor Meng's memory?  So the freedom you talk about, I too desire it.  But I have never tasted it."
+jen,"Too bad for Meng, but it's not your fault, or Li Mu Bai's."
+yu,"I am not an aristocrat, as you are... but I must still respect a woman's duties."
+jen,"Don't distance us.  From now on, let's be like sisters."
+yu,"Then as a sister, let me wish you happiness in your marriage."
+madam yu,What a godforsaken place!  Can't your father be appointed closer to civilization?  Jen... are you listening to me?
+tsai,Let's go!
+tsai,Who are you?
+bo,Wait!  I'm a friend!
+tsai,I don't care about your sword.
+bo,Why were you spying on the Yus?
+tsai,"I'm looking for someone.  Jade Fox. I'm a police inspector from Shaan Xi, Gen Su district.  Jade Fox is a master criminal.  I hear she infiltrated the Yus.  She must have come with them when they transferred here.  But with Yu's reputation, I can't just go in and accuse her."
+bo,This Jade Fox is a woman?
+tsai,Yes.
+bo,Then leave her to me.
+tsai,"Pardon me, but I doubt you can handle her.  My wife was quite a martial arts expert.  Jade Fox killed her.  So you see, this is personal.  Leave her to me."
+may,It's ready! 
+bo,I'm ready for anything!
+may,Father gets first dip.
+tsai,They're gone.
+may,What does it say?
+tsai,"""We'll settle this at midnight on Yellow Hill.""  Good, the fox is out of her hole."
+sir te,"Shu Lien, look who's here."
+li,Sir Te believes it's a ploy cast suspicion on Governor Yu.
+yu,But something is going on at the Yu household.
+li,What have you discovered?
+li,Jade Fox?  Impossible.
+yu,You always suspected she'd fled to the West.
+li,I didn't think she'd dare come back to Peking!
+yu,Is there any place safer than under the nose of Governor Yu?
+li,So I shall avenge my master's death after all.
+yu,Be careful.  Sir Te requires discretion.  Official business is difficult enough.  Don't let personal feelings make it worse. And I don't know... even this poster... could be some sort of trap.
+li,Did you see who posted it?
+yu,No.
+li,It says Jade Fox is hiding at Yu's. On the night of the theft there was a brawl near Yu's.  Were you involved?
+yu,"It was Bo, Sir Te's man.  I hear he followed the thief to the Yus'."
+li,Have you questioned him yet?
+yu,"No, not yet..."
+li,But your men are watching over Yu's compund?
+yu,"No, I'd already sent them home. You can blame me for losing the sword, but please trust that I'll get it back soon using my own methods."
+li,That's not what I meant.  I don't care about the sword.
+yu,What do you mean?  Didn't you come back here for it?
+li,I don't know it was stolen until I got here.
+yu,"Then, why did you come?"
+li,"Well, we had talked..."
+de lu,"Pardon my intrusion.  Master Li, your room is ready."
+li,Thank you.  Please lead the way.
+bo,The fox doesn't care much for punctuality.  Still no sign of her.
+tsai,Enough!  Show yourself.
+fox,Tsai... you dog!  You will pay for your stubbornness.
+bo,"That's what you think, old witch!"
+tsai,"If you surrender now, you'll suffer less.  But if you resist, I won't stop until you're dead."
+may,Father!  Let me avenge my mother's death.
+fox,"You'll soon end up like her, you little whore!"
+bo,You'll pay for that!
+tsai, She's going to paralyze you!
+tsai,May!
+fox,"Tsai, you filthy mongrel!  An ambush!"
+may,"Father, are you all right?"
+li,"Wudan should have gotten rid of you long ago.  It's been a long time, Jade Fox!  You don't remember me... But you should remember my master. You infiltrated Wudan while I was away.  You stole our master!  Now it's time for you to pay!"
+fox,"Your master underestimated us women. Sure, he'd sleep with me, but he would never teach me.  He deserved to die by a woman's hand!"
+li,"You stole the secrets of Wudan's highest martial arts.  But after ten years of training, your moves are still undisciplined.  And today, under a Wudan sword... you will die!"
+fox,"Disciple, we'll kill them all!"
+bo,Another one!
+fox,I must get rid of Tsai!
+li,Who are you?  Why is the Green Destiny in your possession?
+li,"My name is Li Mu Bai.  The Green Destiny is mine.  Jade Fox can't be your master.  Where did you learn that ""Xuan Piu"" move?"
+li,"Tell me, who is your master?"
+fox,We must kill them!
+may,Father!
+te,This is Tsai?
+may,My father.  Police Inspector from Shaan.
+te,This should be reported to Governor Yu.  The victim is an officer.  You believe the killer is hiding out in his compound.
+yu,I'd bet my life on it!
+te, Come with me.
+sir te,"This needs to be resolved, and quickly."
+li,I'll get into the Yu household and get her.  I'll ferret out Fox and her gang.
+yu,"We must be careful.  Governor Yu is a court official, and in charge of security.  Any disturbance will cast suspicion on him.  It might get Sir Te in trouble."
+sir te,This is a delicate matter.
+yu,"Sir Te, can you find some excuse to invite Madam Yu and her daughter?"
+sir te,What do you have in mind?
+yu,The best way to trap a fox is through her cubs.
+madam yu,Madam Te is certainly spoiling us with these wedding gifts.  She's being so considerate.
+yu,I'm sorry she's not feeling well enough to receive you today.
+madam yu,I heard Sir Te lost something.  And now Madame Te's not feeling well...
+yu,"We know who stole the missing item. If the thief returns it, I'm sure Sir Te will pursue the matter no further."
+madam yu,That's good.  Sometimes the help can't keep their hands to themselves. It's very embarassing.
+yu,Sir Te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
+madam yu,But don't be too lenient.
+yu,No mercy will be shown toward the murderer who turned up in Peking.
+madam yu,A murderer?
+yu,"Yes.  The very killer of Li Mu Bai's own master.  Last night, she killed a policeman who had tracked her down."
+madam yu,A female criminal!  Now that's news!
+jen,You say she killed a policeman?
+yu,"Yes, from the West.  He went undercover and and followed her here,"
+madam yu,Maybe the murderer and the thief are one and the same.
+yu,I doubt it.  This thief... it very unusual...
+yu,...And most likely smarter than a mere killer.
+jen," Greetings, Sir Te."
+sir te,"Hello, Madam Yu.  This is Li Mu Bai, the renowned swordsman."
+li,Delighted to meet you.
+te,Miss Yu is soon to be married.
+li,Congratulations.
+may,Why don't you come in?
+bo,I'm standing guard.
+may,Come in.  It's cold.
+may,Come in.  We don't have to fear Jade Fox if we're together.
+li,Isn't it a bit too late to be out? You've brought me the sword?
+figure,I do as I please.
+li,Where's your master?
+figure,What's it to you?
+li,Had enough flying?  You've got potential.  You've studied the Wudan Manual but you don't understand it.  You need a real master.
+figure,Do you think you are a real master?
+li,"Like most things, I am nothing. It's the same for this sword.  All of it is simply a state of mind."
+figure,Stop talking like a monk!  Just fight!
+li,Then tell me where Jade Fox is.
+figure,On guard!
+li,Real sharpness comes without effort.
+li,No growth without assistant.  No action without reaction.  No desire without restraint.  Now give yourself up and find yourself again. There is a lesson for you.
+figure,Go ahead.
+li,"Why should I?  You need practice. I can teach you to fight with the Green Destiny, but first you must learn to hold it in stillness."
+figure,Why do you want to teach me?
+li,I've always wanted a disciple worthy of Wudan's secrets.
+figure,And if I use them to kill you?
+li,"That's a risk I'm willing to take. Deep down, you're good.  Even Jade Fox couldn't corrupt you."
+figure,Wudan is a whorehouse!  Keep your lessons!
+fox,You're home late... or should I say early?
+jen,Why are you still here?  You killed a policeman.  You should leave! You'll bring ruin on my whole family.
+fox,"They wouldn't have found me if you hadn't stolen the sword.  Like a little girl, you thought stealing would be fun?  You, too, are responsible for that death.  Come with me.  You don't want to waste your life as the wife of some bureaucrat.  Denied your talent... As a master and disciple we will rule."
+jen,I'll never live as a thief!
+fox,You're already a thief.
+jen,That was just for fun.  How can I leave?  Where would I go?
+fox,Wherever we want.  We'll get rid of anyone in our way.  Even your father.
+jen,Shut up!
+fox,"It's the Giang Hu fighter lifestyle... kill or be killed. Exciting, isn't it?"
+jen,I owe you nothing.
+fox,"Yes, you do!  You are still my disciple."
+jen,You think you've been teaching me all these years from the manual? You couldn't even decipher the symbols!
+fox,I studied the diagrams.  But you hid the details!
+jen,"You wouldn't have understood, even if I had tried to explain.  You know... you've gone as far as you can go.  I hid my skills so as not to hurt you."
+fox,"If I hadn't seen you fight with Li Mu Bai, I'd still be ignorant of all you've hidden from me."
+jen,"Master... I started learning from you in secret when I was 10.  You enchanted me with the world of Giang Hu.  But once I realized I could surpass you, I became so frightened!  Everything fell apart. I had no one to guide me, no one to learn from."
+fox,"Believe me, I've a lesson or two left to teach you!"
+yu,The sword is back... are you happy?
+li,"I admit, getting it back makes me realize how much I'd missed it."
+yu,But it's not your sword anymore. You gave it to Sir Te.
+li,True.  But I must borrow it for one last mission.  Jade Fox must die at its edge.  Did you know what you were hiding when you covered for that girl?
+yu,"My job was to get the sword back, without embarassing anyone.  I wasn't about to ruin her life, or her father's."
+li,"You did your job well.  But, this girl... I saw her last night."
+yu,I knew she would intrigue you.
+li,She needs direction... and training.
+yu,"She's an aristocrat's daughter. She's not one of us.  In any case, it will all be over soon.  You'll kill Fox, and she'll marry."
+li,That's not for her.  She should come to Wudan and become a disciple.
+yu,But Wudan does not accept women.
+li,"For her, they might make an exception.  If not, I'm afraid she'll become a poisoned dragon."
+yu,"It's not our affair.  Even if Wudan accepts her, her husband might object."
+li,"I thought by giving away the sword, I could escape the Giang Hu world. But the cycle of bloodshed continues."
+yu,I wish there were something more I could do to help you.
+li,"Just be patient with me, Shu Lien."
+jen,Lo?
+lo,Jen!
+jen,You shouldn't have come.
+lo,With all the traffic on your rooftop these days... it took me a while to get in here.  I can't wait any longer.  I was wrong to let you go.  Come back with me.  You'll be happy in the desert.  You'll be free there.
+jen,You've been looking for me all this time?
+madam yu,Jen... stop playing with it.
+jen,I won't break it.
+madam yu,"Lower the shade, don't let them see you!"
+lo,Let's go!
+lo,Come get your comb.
+lo,Hurry back to your mother.
+lo,She's mine.
+lo,Let's stop a moment.
+jen,Give it back!
+lo, You're tired.  You need rest.  Your horse needs water.  There's a creek up here.
+lo,"Well, there used to be!  What's your name?  I'm Lo.  The Hans call me Dark Cloud.  I'm not that tall or big, but I'm quick as lightning."
+jen,My comb!
+lo,"If you like that arrow, I can make you a bow.  Great for hunting wild chicken.  They're delicious."
+lo,"You need to eat, understand?  Then you'll have the strength to fight. Understand?"
+lo,You're eating too fast.  Slowly.
+lo,You've got quite a temper.  It's better this way.
+jen,You coward!
+lo,Still in a bad mood?  At least you're speaking.  What's your name?
+lo,I didn't think the Hans had names like that.
+lo,"Relax.  If I had wanted to, I would already have done it.  You must be dying for a bath.  Fresh water's hard to get here.  But I managed to bring some up.  You can wear my clothes when you're done.  They're clean.  Don't worry.  I'll sing, so you'll know where I am.  After the bath, you'll be calmer."
+lo,No more hitting on the head!  All this trouble for a comb?
+jen,It's mine.  It means a lot to me. A barbarian like you wouldn't understand.
+lo,Not true.  I can use it to pick fleas from my horse.
+jen,"By the way, I'm a real Manchurian."
+lo,I'm sorry... I guessed wrong.  I though you were a Han.
+jen,Give me back my comb.
+lo,I don't take orders from anyone.
+jen,Give it back.
+lo,"When I was a boy, one night, I saw a thousand shooting stars.  I thought, where did they all go? I'm an orphan.  I used to look for stars alone.  I thought if I rode to the other end of the desert, I'd find them.  I've been riding in the desert ever since."
+jen,"And so, the little boy became a fearsome bandit.  He couldn't find the stars, so he stole my comb."
+lo,"Out here, you always fight for survival.  You have to be part of a gang to stand a chance.  Slowly, your gang becomes your family.  All that Dark Cloud stuff is just to scare people and make my life easier."
+jen,So you're still that little boy looking for shooting stars.
+lo,I am a man.  And now I've found the brightest star of all.
+lo,Your father's men are looking for you.
+lo,"Your father's men are still looking for you.  They're still out there, circling closer."
+jen,Let them look.
+lo,It is trouble for me.
+jen,Don't send me back!
+lo,"You must decide.  You might get tired of this life.  You might begin to miss your family.  If it were our daughter, we'd look for her too.  She would miss us.  Jen... I want you to be mine forever.  I will make my mark on the world.  I will earn your parents' respect. We have a legend.  Anyone who dares to jump from the mountain, God will grant his wish.  Long ago, a young man's parents were ill, so he jumped.  He didn't die.  He wasn't even hurt.  He floated away, far away, never to return.  He knew his wish had come true.  If you believe, it will happen.  The elders say, ""A faithful heart makes wishes come true."""
+jen,Keep it safe.  Return it to me when we are together again.
+lo,I will.
+jen," If you don't, I'll come after you. And I won't let you off so easy."
+lo,"Wherever I went, someone always recognized me.  I really tried. Later, I heard you came to Peking. I was afraid I'd never see you again.  So I came.  I can't let you marry."
+jen, Go.
+lo,Jen...
+jen, Don't ever come back.
+lo,So it's over?
+jen,Yes.
+maid,We heard noises.
+jen,It was just a cat.
+yu,You think Jade Fox will show up?
+li,"She's out there, but I doubt she'll show herself.  We'll keep our eyes open.  Sooner or later, she'll come for the girl."
+lo, Jen!  Come with me!  You're mine!
+lo,Come with me to the desert!  Jen! Come with me to Xin Jiang!
+li,Where is Jade Fox?
+yu, Come with me!  Hurry!
+yu, You thought she'd give it all up and go back West with you?
+lo,She's mine.
+li,"Either way, you are no good to her dead.  With the Gou and Yu clans hunting you, you'll soon be in their hands."
+lo,I don't care anymore.
+li,"If you truly loved her, you wouldn't say that."
+yu,Don't you want to see her again.
+li,All right.  I'll write you an introduction.  Take it to Wudan. Wait there for news from me.
+lo,All right.
+sir te,"When will this end?  They take it, they put it back, they take it again.  My home is turning into a warehouse."
+te,Speak!
+bo,"Jen has run away!  Gou found the wedding chamber empty.  Governor Yu requests your assistance.  You know the Giang Hu underworld.  He wants to find her, and keep her from harm."
+li,"Sir Te, leave this to us.  Don't worry."
+waitress,What can I serve you?
+jen,The cup is dirty.
+jen, Long.
+jen,Anywhere there's action.
+jen,Don't bother.
+jen,So what if I don't?
+jen,He is my defeated foe!
+yu,Have some tea.
+li,Shu Lien... The things we touch have no permanence.  My master would say... there is nothing we can hold on to in this world.  Only by letting go can we truly possess what is real.
+yu,Not everything is an illusion.  My hand... wasn't that real?
+li,"Your hand, rough and callused from machete practice... All this time, I've never had the courage to touch it."
+li,"Giang Hu is a world of tigers and dragons, full of corruption... I tried sincerely to give it up but I have brought us only trouble."
+yu,To repress one's feelings only makes them stronger.
+li,"You're right, but I don't know what to do.  I want to be with you... just like this.  It gives me a sense of peace."
+waiter,Please follow me.
+jen,I want a clean room.
+waiter,We have plenty.  Your order?
+jen,"Steamed whole cod, bite-size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine."
+waiter, I have to order from a bigger restaurant.
+jen,Hurry then.
+mi biao,I am Iron Arm Mi.  I heard a true master has arrived.  I have come to seek a lesson.
+mi biao, You asked for it!
+jen,What kind of Iron Arm are you?
+jen,Southern Duck?  I don't eat anything with two feet.  Who could remember such long-winded names?
+jen,Who are you?
+jen, Gou?  I hate that name.  It makes me puke!  Too bad you're named Gou. You'll be the first to feel my sword today.
+monk jing,Hold it!  Don't you know Monk Jing?
+jen,"A monk, in a place like this?  You need a lesson!"
+monk jing,Who are you?
+jen,Who am I?  I am... I am the Invincible Sword Goddess.  Armed with the Incredible... Green Destiny.  Be you Li or Southern Crane... lower your head... and ask for mercy.  I am the desert dragon. I leave no trace.  Today I fly over Eu-Mei.  Tomorrow... I'll kick over Wudan Mountain!
+mi biao,Her sword was just too powerful.
+monk jing,"I've traveled everywhere, but never met anyone so uncivilized."
+yu,Her husband.
+li, We're close to your headquarters. Go home and check in.
+yu,What about you?
+li,I'll look around and catch up later.
+yu,Not a bad idea.  Tonight we'll get a good night's sleep at headquarters.
+yu,It's you!  How's everything here?
+captain,Fine.  You've been gone a while.
+yu,"Yes, and I leave again tomorrow. Your wife was due?"
+ah wai,"Yeah, a baby girl."
+yu,Good!
+ah wai,I'll be happy if she's half as strong as you.
+yu,Mrs. Wu...
+aunt wu,You're back!
+yu,How's the arm?  Still sore?
+aunt wu,Much better.  You've been gone so long.
+yu,Li Mu Bai is coming to stay the night.
+aunt wu, I'll go and make up his room!
+jen,Sister Shu Lien...
+yu,Here you must be in proper attire.
+jen,I'm just borrowing some clean clothes.  I'm not staying.
+yu,I'll give them to you.
+jen,I was just passing by and wondered how you were.
+jen,"You, sister..."
+yu,"Look at the trouble you've caused. Now you know what Giang Hu life is really like.  If you think of me as your sister, let me give you some sisterly advice.  You can run from marriage, but not your parents."
+jen,They forced me to marry!
+yu,Go back to them first.  Then you can decide about Lo.
+jen,You know about Lo?
+yu,He really loves you.  Come back to Peking with me.  We'll find a solution.
+jen,Where is he now?
+yu,Li Mu Bai has made arrangements. He sent him to Wudan Mountain.
+jen,You're working together to set me up!  I'm leaving!
+yu,"How dare you accuse us?  I always knew you had stolen the sword! I've done nothing but protect you and your family.  And you're repaid me with nothing but contempt.  Li Mu Bai himself spared you, and all you do is insult him.  We wanted some peace and you've ruined it all! You're no sister of mine!"
+jen,"What do I care?  You were never a real friend anyway.  But I wonder, how long could you last as my enemy?"
+yu,Put the sword down!
+yu, Jen!
+yu,Everyone out.  Shut the doors.
+yu,Fine... the friendship is over.
+yu,Don't touch it!  That's Li Mu Bai's sword.
+jen,Come and get it if you can.
+yu,"Without the Green Destiny, you are nothing."
+jen,Don't be a sore loser.  Go ahead. Take your pick.  I'll wait.  Go ahead.
+yu,Give me the sword.
+jen,Take it!
+li, Stop it!  You don't deserve the Green Destiny.
+jen,Not another lecture!  On guard!
+li,Let's end this here.
+jen,Only the sword will settle this.
+li,I only let you go because I wanted to see the real you.
+jen,What do you know about a true heart?
+jen,What do you want?
+li,"What I've always wanted, to teach you."
+jen,"All right.  If you can take back the sword in three moves, I'll go with you."
+jen,Give it back!
+li,Kneel!
+jen,Never!
+li,Then you have no use for the sword.
+fox,"Sooner or later, they'd drag you back to Peking.  Your parents will never accept you again.  But why go home?  We've gone this far, we won't stop now.  You'll always be my lady.  At last, we'll be our own masters.  We'll be happy.  That's the most important thing.  All we have left is each other, right? Lie down and rest."
+aunt wu,She's crazy.  You should have killed her.
+yu,I didn't have the heart.
+aunt wu,"Well, Li Mu Bai can do it."
+jen,Is it me or the sword you want?
+li,You've been drugged!
+li,Where is Jade Fox?
+yu,What happened?
+li,Jade Fox drugged her.  How did you get here?
+yu,We followed Jade Fox.
+li,And so you die.
+fox,And so shall you!
+yu,A poisoned needle!
+fox,"You deserve to die, but the life I was hoping to take... was Jen's. Ten years I devoted to you.  But you deceived me!  You hid the manual's true meaning.  I never improved... but your progress was limitless!  You know what poison is? An eight-year-old girl, full of deceit.  That's poison!  Jen!  My only family... my only enemy..."
+yu,You can't die!  Tell us what poison you used!  You can't die!  Tell us the antidote!  You can't let Li Mu Bai die!
+jen,She used Purple Yin... Purple Yin poison.  It goes straight to the heart.
+li,My blood will soon reverse its flow. It's the same poison she used to kill my master.  There is no antidote.
+yu,That can't be!  Everything has an antithesis!  Why not this?
+jen,"The antidote exists.  She taught it to me.  The formula is simple, but it takes time to prepare.  Trust me. As you have helped me, let me help you."
+li,All right.  Hurry.  I will hold on as long as I can.
+yu, Take my horse and go to the compound. Give this to Mrs. Wu.  She'll help you.  Hurry!
+jen,Spare your energy.  I'll be back!
+jen,Where is Mrs. Wu?
+aunt wu,Stop it!
+jen,Shu Lien told me to show you this.
+aunt wu,Let her in.
+yu,"Mu Bai, hold on.  Give me some hope..."
+li,Shu Lien...
+yu,Save your strength.
+li,My life is departing.  I've only one breath left.
+yu,Use it to meditate.  Free yourself from this world as you have been taught.  Let your soul rise to eternity with your last breath.  Do not waste it... for me.
+li,"I've already wasted my whole life. I want to tell you with my last breath... I have always loved you. I would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you.  Because of your love... I will never be a lonely spirit."
+jen,He's gone?
+yu,Bo... please take this sword back to Sir Te.
+yu," Now you must go to Wudan Mountain. Lo awaits you there.  Promise me one thing, whatever path you take in this life... be true to yourself."
+jen,Do you remember the legend of the young man?
+lo,"""A faithful heart makes wishes come true."""
+jen,"Make a wish, Lo."
+lo," To be back in the desert, together again."

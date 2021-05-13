@@ -1,0 +1,605 @@
+Speaker,Dialogue
+mark,"In grid section fourteen twenty-eight, the particles appear predominantly ""coarse,"" but as we move to twenty-nine, the particles are much finer, and should be ideal for chem analysis."
+martinez,"Mark just discovered ""dirt."" Alert the media."
+mark,"What's your job today, Martinez? Confirming the MAV is still upright?"
+martinez,Visual inspection of equipment is imperative to mission success.
+lewis,"Which leads to Martinez responding, which leads to us listening, which leads to me being annoyed."
+mark,"Martinez, Commander Lewis would like you please shut your smart mouth."
+voice,Speaking for the smart people of the world...
+beck,We would prefer you use a different adjective to describe Martinez' mouth.
+martinez,Did Beck just insult me?
+mark,Doctor Beck. And yes.
+voice,"Happy to turn their radios off from here, Commander..."
+johanssen,Just say the word.
+mark,"Johanssen, constant communication is the hallmark of a --"
+lewis,Shut `em off.
+alex,"Accepted. How many samples do we need, Commander?"
+lewis,Seven. One hundred grams each. Drill at least thirty centimeters down.
+johanssen,Um... Commander? You should come inside...
+lewis,What is it?
+johanssen,We got a mission update. Storm warning.
+lewis,I saw the warning in the morning briefing. We'll be inside long before it hits.
+johanssen,They've upgraded their estimate.  The storm's gonna be worse.
+lewis,"""...twelve-hundred kilometers in"
+johanssen,That's tracking right towards us.
+lewis,"""...based on current escalation, estimate a force of...  ""Eighty-six hundred Newtons."""
+mark,What's the Abort Force?
+beck,Seventy-five hundred.
+martinez,Anything above that and the MAV could tip.
+vogel,We're scrubbed?
+lewis," ""Begin abort procedures."""
+martinez,Maybe it won't be as bad as they say.
+vogel,They're estimating with a margin of error. We can wait it out. 
+mark, Let's wait it out.
+johanssen,Commander?
+lewis,Prep for emergency departure.
+mark,COMMANDER --
+lewis,We're scrubbed.
+lewis,"Visibility is almost zero. If you get lost, home in on my suit's telemetry. The wind's gonna be rougher away from the Hab, so be ready."
+mark,Hey. Maybe we could shore up the MAV. Make tipping less likely.
+lewis,How?
+mark,We could use cables from the solar farm as guy lines.
+johanssen,WATNEY!!!
+lewis,What happened?
+johanssen,Something hit him --
+lewis,"Watney, report --  WATNEY, REPORT!"
+johanssen beck,"He's offline. I don't know -- Commander, before we lost where he is -- telemetry, his decompression alarm went off --"
+lewis johanssen,Shit! Johanssen where did -- He was right in front of you last see him? me and then he was gone. He flew off due west --
+johanssen, I can't see anything --
+vogel,Doctor Beck! How long can a person survive decompression?
+beck,Less than minute.
+lewis,Line up and walk west. Small steps. He's probably prone. We don't want to step over him. 
+martinez,Commander -- The MAV's got an 8 degree
+lewis,Copy that --
+beck,"Johanssen, Watney's bio-monitor sent something before going offline. My computer just says ""Bad Packet"" --"
+johanssen,It didn't finish transmitting.  I have the raw packet. It's plaintext:
+beck,Copy.  Blood pressure zero. Pulse rate zero. Temperature normal.
+lewis,Temperature normal?
+beck,It takes a while for the... it takes a while for the body to cool.
+lewis,"Copy. If it tips, can you launch before it completely falls over? "
+lewis,Copy that. Everyone home in on Martinez' suit. That'll get you to the airlock. Get in and prep for launch.
+vogel,"What about you, Commander?"
+lewis,"I'm searching a little more. Get moving. And Martinez, if you start to top, launch."
+lewis,"I just ordered you to. You three, get to the ship.  GO."
+lewis,"Johanssen, would the rover IR camera do any good?"
+beck,What's she thinking? She's a geologist. She knows IR can't get through a sandstorm.
+vogel,She's grasping. For anything.
+martinez,Commander. We're tilting 11.6 degrees. One good gust and we're tipping.
+martinez,"No way. It's made to see Hermes in orbit, not the metal in a single suit."
+beck,"Commander, I know you don't want to hear this, but Watn... Mark's dead."
+martinez,Roger.
+beck,My friend just died. I don't want my Commander to die too.
+lewis,Nothing?
+martinez,It can barely see the Hab. There's not ENOUGH MET--
+johanssen vogel,13 degrees -- -- We're past balance. We'll never rock back --
+beck,Let it tip. We can't leave her.
+martinez,"We'll never be able to fix it if it tips. I got one trick left, then I'm following orders."
+vogel,You are firing the OMS? MARTINEZ JOHANSSEN
+beck,Commander. You need to get back to the ship. Now.
+martinez,"Agreed. He's gone, Ma'am..."
+martinez,Still at pilot release. Ready for launch.
+lewis,Launch.
+teddy,"At around 4:30 a.m., central standard time, our satellites detected a storm approaching the Ares 3 mission site on Mars. "
+mark,Fuck.
+mark,Okay. Okay...
+mark,"Then I just need to direct the hydrogen into a small area and burn it. Luckily, in the history of humanity, nothing bad has ever happened from lighting hydrogen on fire. "
+mark,So. Yes. I blew myself up.  Best guess? I forgot to account for the excess oxygen I've been exhaling when I did my calculations. Because I'm stupid.
+teddy,"Our nation was blessed to have Mark serving in our space program. His loss will be deeply felt, but the men and women of NASA will soldier forth, onward and upward, unbroken in the mission of their agency. In doing so, they honor the legacy Mark leaves behind, and they ensure his sacrifice will not be in vain."
+vincent,"I thought you gave a lovely speech, by the way."
+teddy,It's not gonna happen.
+vincent,We're funded for five Ares missions. I think I can get Congress to authorize a sixth.
+teddy,No.
+vincent,They evac'd after eighteen sols. There's half a mission worth of supplies up there. I can sell another mission at a fraction of the cost. I just need to know what's left of our assets.
+teddy,You're not the only one who needs satellite time. We've got the Ares 4 supply missions coming up. We should be focusing on the Schiaparelli Crater.
+vincent,"I'm talking about securing us another mission. We have twelve satellites in orbit, we can surely spare a few hours --"
+teddy,"It's not about the satellite time, Vince."
+vincent,And?
+teddy,The second we point the satellites at the Hab... I broadcast pictures of Mark Watney's dead body to the world.
+vincent, You're afraid of a PR problem?
+teddy,Of course I'm afraid of a PR problem. Another mission? Congress won't reimburse us for a paper clip if we put a dead astronaut on the cover of The Washington Post.
+vincent,So... what do we do? He's not going to decompose. He'll be there forever.
+teddy,Meteorology estimates he'll be covered in sand from normal weather activity within a year.
+vincent,We can't wait a year for this. We have work to do.
+teddy,Ares 5 won't even launch for another five years. We have plenty of time.
+vincent,"Okay, consider this. Right now, the world is on our side. Sympathy for Watney's family is high..."
+mindy,Acidalia Planitia...
+woman,Oh you have GOT to be SHITTING ME --
+teddy,How sure?
+vincent,Nearly 100%.
+annie,Do you understand the shitstorm that's about to hit us?
+teddy,"Annie, one thing at a time.  Prove it to me."
+vincent," For starters, the solar panels have been cleaned."
+teddy,They could have been cleaned by wind.
+vincent,"Look at Rover 2. According to the logs, Commander Lewis took it out on Sol 17. Plugged it into the Hab to recharge. It's been moved."
+teddy,She could have forgotten to log the move.
+vincent,Here's the clincher. Check the MDV. It's been taken apart. There's no way they do that without telling us. 
+annie,Why don't we talk to Lewis? Let's go to CAPCOM and ask her directly right now.
+teddy,No. If Watney is really alive... we don't want the Ares 3 crew to know.
+annie,What? How can you not tell them?
+teddy,They have another ten months on their trip home. Space travel is dangerous. We need them alert and undistracted.
+annie,They already think he's dead.
+vincent,And they'd be devastated to find out they abandoned him alive.
+annie,You're on board with this?
+vincent,We have to protect the crew. There's nothing they can do anyway. Let them deal with the emotional trauma when they're not trapped in a spaceship.
+teddy,How do we handle the public?
+annie,We have twenty-four hours before we're required to release the pics.
+teddy,We'll need to release a statement with them. We don't want people working it out on their own.
+annie,"""Dear America. Remember that astronaut we thought we killed and had a nice funeral for? Turns out he's alive and we left him on Mars. Our bad. Sincerely, NASA."""
+teddy, I need to get on a plane to Chicago.
+vincent, Mark's parents.
+teddy, They should hear it from me before it breaks on the news.
+annie,"They'll be happy to hear their son's alive, at least."
+teddy,"He's alive. But if my math is right, he's gonna starve to death long before we can help him.  I'm not exactly looking forward to that conversation."
+vincent,Can you even imagine what he's going through? He's fifty million miles from home. He thinks he's totally alone and that we all gave up on him. What kind of effect does that have on a man's psychology?  What's he thinking about right now?
+mark,...if I have to listen to any more goddamn disco music.
+mark,But here's the rub. I've got two rovers designed to go a max distance of 35 kilometers before they need to be recharged at the Hab. That's problem A. Problem B is it'll take me... roughly fifty days to make the journey. So I have to be able to live for fifty days. Inside a rover with marginal life support the size of a small van. 
+mark,"Okay, so... success? I've doubled my battery life by scavenging Rover 1. BUT. If I use the heater, it'll eat up half my battery power every day. If I don't use the heater, I will be slowly killed by the laws of thermodynamics.  I'd like to solve this problem, but unfortunately my brain is frozen."
+mark,"But. As long as I don't break it...  I almost said ""everything will be fine"" out loud. My point is..."
+mark,"I'm not cold anymore. And yes, I could choose to think about the fact that I'm warm because I have a decaying radioactive isotope riding shotgun next to me, but right now I have bigger problems on my hands. I've scoured every single data file on Commander Lewis' personal drive, and this is officially the LEAST disco song she owns."
+reporter 1,Where is Watney going? 
+vincent,We believe he's preparing for a journey. He's conducting incremental tests -- taking Rover 2 out for longer and longer trips each time.
+reporter 2,To what end? Why would he leave the relative safety of the Hab?
+vincent,Communication. We believe he plans to travel to the Ares 4 launch site in order to make contact with us. But it would be a dangerous gamble.
+reporter 3,He'd be risking his life to talk to you?
+vincent," This is the problem Mark faces. He's alone. And he needs to make contact to survive. But if we could talk to him, we'd tell him to stay put. Mark needs to trust we're doing everything in our power to bring him home alive."
+annie,"Don't say ""Bring him home alive."" It reminds the world he might die."
+venkat,You think people might forget that?
+annie,"You asked how you did and I'm giving you my answer. My answer is ""Eh."" And yes, I'm going to make everyone forget there's a strong likelihood Mark Watney is going to die because that's what you pay me for and unfortunately I need this job because I'm currently paying alimony to two deadbeat ex-husbands because somehow gender equality has bitten me square in the ass."
+venkat,Hard to believe tha--
+annie,I left them.
+teddy,"Don't say ""Bring him home alive,"" Vincent."
+vincent,"You know, these interviews aren't easy. God forbid I try to say something proactive and positive."
+teddy,Annie...
+annie,No more Vincent on television. Copy that.
+teddy,Seventy-six kilometers. Am I reading that right?
+mindy,Are you asking me?
+teddy,I am.
+mindy,"Yes, sir. Mark drove straight away from the Hab for almost two hours, did a short EVA, then drove for another two. We think the EVA was to change batteries."
+gruff man,Are we doing a daddy/daughter thing today? Where's the Director of SatCon? 
+vincent,Ms. Park is the person who figured out Mark was alive in the first place. She's in charge of tracking him now.
+teddy,"Quit being a dick, Mitch. Where's Mark going? Is this another test?"
+mindy,He's seventy-six kilometers away from the Hab. If it's a test and it doesn't work... he's dead.
+teddy,He didn't load up the Oxygenator or the Water Reclaimer?
+mindy,"I didn't see that happen, no sir."
+teddy,You didn't see it?
+mindy,"Every forty-one hours, we have a seventeen minute gap. It's just the way the orbits work. So... it's possible we missed something."
+teddy,I want that gap down to four minutes. I'm giving you total authority over satellite trajectories and orbital adjustments. Make it happen.
+mindy, Okay.
+teddy,"Let's assume Ms. Park didn't miss something, so Mark's not going to Ares 4. Yet. But he's smart enough to figure out that's his only chance. Bruce, what's the earliest we could get a presupply there?"
+bruce,"With the positions of Earth and Mars, it'll take nine months. And it'll take us six months to build it in the first place."
+teddy,"Three months.  You're gonna say that's impossible, then I'm gonna give a speech about the blinding capabilities of the JPL team. And then you'll do the math in your head and say something like ""The overtime alone will be a nightmare."""
+bruce, The overtime will be a nightmare.
+teddy,Get started. I'll find you the money.
+mitch,It's time to tell the crew.
+vincent,"Mitch, we discussed this."
+mitch,You discussed this. But I'm the one who decides what's best for the crew. They deserve to know.
+teddy,"Sorry, Mitch. I'm with Vincent. They need to concentrate on getting home."
+mitch,Bullshit.
+teddy,"Once we have a real rescue plan, we'll tell them. Otherwise it's moot. Bruce has three months to get the payload done. That's all that matters right now."
+bruce,We'll do our best.
+teddy,Mark dies if you don't.
+mark,I know what I'm gonna do.
+mindy,He's on the move again --
+vincent,Where the hell is he going? He hasn't changed course in thirteen days. And
+mindy,Unless he's not taking a direct route. Maybe he's trying to avoid some obstacle... 
+vincent,What obstacle? It's Acidalia Planitia. There's nothing out there but --
+technician,Hey -- c'mon --
+vincent,I'll buy you a new one.  What's the Hab's location?
+vincent,I know where he's going.
+technician,Who's he talking to?
+mindy,I'm honestly not sure.
+vincent,What are the odds Mark can get it working again?
+bruce,Hard to say. We lost contact in `97. We think it was battery failure.  Though I'd like to point out it lasted three times longer than expected in any scenario.
+vincent,"Nobody's criticizing JPL's work, Bruce. I want talk to everyone who was here in"
+bruce,They're already waiting for you.
+vincent,This the replica?
+tim,"As soon as I received the high-gain response, I directed Pathfinder to take a panoramic image."
+vincent,Have you received it yet?
+tim,"Yes, but I thought we would all rather look at this black screen instead of a vibrant red planet."
+bruce," Tim is our finest comm tech, and we all appreciate his acerbic wit."
+tim,Incoming.
+vincent,Martian surface... more surface...
+bruce,There's the Hab!
+vincent,What's that?
+tim,"Thirty-two minute round trip communications time. He can only ask yes/no questions, and all we can do is point the camera. This won't exactly be an Algonquin round table of snappy repartee."
+bruce,Tim.
+tim,Roger that. Pointing the camera...
+mark,"Somehow, we need to have complex astrophysical engineering conversations using only a still-frame camera. From 1996. Luckily, the camera spins 360, so I can make an alphabet. I just can't use our alphabet. Twenty-six letters plus question card into 360 gives us 13 degrees of arc. Too narrow. I wouldn't know what the camera was pointing at. So. Hexadecimals to the rescue..."
+tim," ""Glad to hear it. Really looking forward to not dying."""
+bruce,Tell him. Hm. Tell him...
+tim,"He says... ""They don't know I'm alive? WHAT THE--""  ""What the... f-word... f-word in gerund form... f-word again... is wrong with you... f-words."""
+vincent,"Mark, please watch your language..."
+mitch,"I made the mistake of typing it into Google.  Problem is, Mark's right. This is only gonna get worse the longer we wait. We need to tell the crew."
+teddy,You're bringing this up while Vincent's in Pasadena so he can't argue the other side.
+mitch,"I shouldn't have to clear this with you or Vincent or anyone else.  It's time, Teddy."
+lewis,Go ahead.
+lewis,Copy. Coming to you.
+lewis,You're in a hurry.
+martinez,My son turned three yesterday. Should be some pics of the party.
+johanssen,"All right, we've got a batch of personals. Dispatching them to your laptops... I don't need to read Vogel's weird German fetish emails..."
+vogel,They are telemetry updates.
+johanssen,"Whatever does it for you. We've got a system update, I'll take care of that, and... huh. There's a voice message. Addressed to the whole crew."
+lewis, Play it.
+martinez,He... He's alive?
+vogel,Watney lives.
+beck,Holy shit. Commander! He's alive!
+lewis,I left him behind.
+johanssen,Commander... it wasn't...
+beck,We all left together.
+lewis,You were following orders.  I left him behind.
+mark,"They've got a room full of people trying to micromanage my crops. Which is awesome. Look, I don't mean to sound arrogant here, but I'm the best botanist on the planet. So."
+annie,I ask for a picture and I get the goddamn Fonz?
+annie,It's not gonna work. I need something with less-Happy-Days and more... Mark's face.
+teddy,Let's release the photo when we detail the rescue operation. I want to announce we're launching some supplies to him next year during the Hohmann Transfer window.
+teddy,"Good, but Annie will handle camera appearances."
+teddy,"Nine-month travel time, that puts the probe to Mars on Sol 868. Did we get the Botany Team's analysis?"
+mitch,Grudgingly?
+teddy,"Get him in line, Vincent. We can't afford any miscommunication. I hate this margin. 912 sols worth of food. We get there on 868. And that's assuming nothing goes wrong..."
+vincent,Complete loss of pressure boiled off most of the water. 
+annie,How long does he have?
+vincent,"He can still eat the potatoes he has, he just can't grow any more. We estimate they'll give him about 200 sols."
+teddy,And rations get him to what? Sol 409?
+annie,By Sol 868 he'll be long dead.
+teddy,We're gonna have to launch as soon as possible. Which changes our travel time.
+mitch,We're working on it. Prelim estimates call for a four-hundred fourteen day trip.
+teddy, Forty-seven days to make this probe.
+annie,How long does it normally take?
+vincent,Six months. Minimum.
+teddy,I'm gonna let you call Bruce and give him the news.
+bruce,Okay.  Okay.
+martinez,"""How's the Hermes? Cramped and claustrophobic? Every day I go outside and look at the vast horizons just because I can.""  ""Tell the others I said hello."""
+mike,"Rich? Wake up. Sorry, they're asking for the probe courses."
+rich,What time is it?
+rich,"It's all right. All twenty-five models will take four-hundred fourteen days to reach Mars. They vary only slightly in thrust duration, and the fuel requirement is nearly identical."
+mike," Four-hundred fourteen days. Not an ideal time to launch, is it?"
+rich,"Earth and Mars are really badly positioned. Heck, it's almost easier to..."
+mike,Almost easier to what?
+rich, I need more coffee...
+mike,Almost easier to what?
+vincent,"""...the probe will take 414 days to reach you, and will deliver enough food to last"
+mindy,Tell him about the name.
+vincent,"""We've officially named the probe `Iris'..."""
+teddy,"Okay, let's ask the...  Let's ask the very, very expensive question: is this probe gonna be ready on time?"
+bruce,We're behind. 
+teddy,Give me a number.
+bruce,"Fifteen days. If I had another fifteen days, I could get it done."
+teddy,"All right, let's create fifteen days. Thirteen days to mount the probe. Can we reduce?"
+vincent,It... actually only takes three days to mount it. We can get that down to two. But the other ten are for testing and inspections.
+teddy,How often do those inspections reveal a problem?
+mitch,Are you suggesting we don't do the inspections?
+teddy,Right now I'm asking how often they reveal a problem.
+vincent,About one in twenty launches. But that's grounds for a countdown halt. We can't take that chance.
+teddy,Anyone else know a safer way to buy more time?
+vincent,Teddy...
+teddy,"It's on me, Vincent.  You've got your two weeks. Get it done."
+mark,"So. I have to hold out until the probe gets here with more food. And this is what ""minimal calorie count"" looks like.  Oh good. Meatloaf."
+mitch,"Do you believe in God, Vincent?"
+vincent,Several. My mother's Catholic and my father's Hindu.
+mitch,We'll take all the help we can get.
+launcher interface,"Getting a little shimmy, Flight."
+mitch,Say again?
+launcher interface,"Whoa! Flight, we're getting a large precession!"
+guidance telemetry,Force on Iris at 7 G's. Intermittent signal loss.
+mitch,"Launch, what's happening?"
+launcher interface,It's spinning on the long axis with a 17 degree precession.
+comms,"We've lost readings on the probe, Flight."
+mitch, Shit. It shook loose in the bay.
+launcher interface,"Loss of signal, Flight."
+guidance telemetry,"L.O.S. here, too. Same here."
+mitch,SatCon?
+satcon,No satellite acquisition of signal.
+capcom,"Flight, US Destroyer Stockton reports debris falling from sky."
+mitch,Roger.
+voice,Their astronaut is going to die.
+zhu,"Perhaps. Perhaps not.  The Taiyang Shen's booster. Our engineers have run the numbers, and it has enough fuel for a Mars injection orbit."
+guo, Why hasn't NASA approached us?
+zhu,They don't know. Our booster technology is classified.
+guo,So if we do nothing...
+zhu,The world would never know we could have helped.
+guo,"Then. Merely for the sake of argument, let's say we decide to help them..."
+zhu,We'd be giving up a booster and effectively cancelling Taiyang Shen.
+guo,We need to keep this among scientists. A cooperation between space agencies...
+teddy,Yes.
+bruce,"All right, thanks to our friends in China, we get one more chance at this. We finished the Iris probe in sixty-three days. Now we get to do it again in twenty-eight..."
+vincent,"We're jettisoning any sort of landing system -- the idea is we're only sending rations, so they can crash land on Mars..."
+secretary,WAIT --
+rich,You should hang up the phone.
+vincent,I'm sorry -- who are you?
+rich,My name is Rich Purnell and I work in astrodynamics and you should hang up the phone right now.
+vincent, I'll call you back.
+annie,"What the hell is ""Project Elrond?"""
+vincent,I had to make something up.
+annie,"""Elrond?"""
+mitch, Because it's a secret meeting.
+annie,"How do you know that? Why does ""Elrond"" mean ""secret meeting?"""
+bruce,The Council of Elrond. From Lord of the Rings. It's the meeting where they decide to destroy the One Ring.
+annie,I so quit right now.
+teddy," If we're calling something Project Elrond, I would like my codename to be ""Glorfindel."""
+annie,Oh my god I hate every one of you.
+mitch,Teddy doesn't even know what this is about?
+vincent,Tell them exactly what you told me.
+rich,I can get the Hermes back to Mars by Sol
+mitch,What?
+teddy,How?
+rich,"Okay... let's pretend this stapler is the Hermes. And you are... I'm sorry, what's your name again? "
+teddy,Teddy.  I'm the Director of NASA.
+rich,"Okay, Teddy, you're Earth. And right now the Hermes is heading towards you and is about to start its month-long deceleration to intercept. But, instead, I'm proposing...  We start accelerating immediately, to preserve velocity and gain even more. We don't intercept Earth at all, but we come close enough to use a gravity assist to adjust course. While we're doing that..."
+vincent,The Taiyeng Shen.
+rich,"Pick up whatever provisions we need... and then we're accelerating towards Mars.  You're Mars. And we're going too fast at this point to fall into orbit, so it's a flyby."
+bruce,What good is a flyby if we can't get Watney off the surface?
+vincent,Watney would have to intercept using the MAV.
+rich,And we head back home. I've done the math. It checks out.
+teddy,Rich?
+rich,Yes sir?
+teddy,Get out.
+vincent,I believe so.
+teddy,And we need to use the Taiyeng Shen?
+vincent,Yes.
+annie,What am I missing? Why is that important?
+vincent,Because we can only do one.
+teddy,"Send Watney enough food to last until Ares 4, or send Hermes back to get him right now."
+vincent," Both plans require the Taiyang Shen, so we have to choose."
+annie,What about the Hermes crew? We'd be asking them to add...  533 days to their mission.
+mitch,They wouldn't hesitate. Not for a second. That's why Vincent called this meeting. He wants us to decide instead.
+vincent,"It's a matter of life and death, Mitch. We need to make this decision."
+mitch,She's the Mission Commander. Life and death decisions are her damn job.
+teddy,Can the Hermes function for 533 days beyond the scheduled mission end?
+vincent,"It should. The Hermes was made to do all five Ares missions, so it's only halfway through lifespan."
+annie,But if something went wrong...
+vincent,We would lose the crew. And the Ares Program with them.
+bruce,"So... what? We either have a high chance of killing one person, or a low chance of killing six people. How do we make that decision?"
+vincent,We don't. Teddy does.
+teddy,We still have the chance to bring five astronauts home safe and sound. I'm not risking their lives.
+mitch,Let them make that decision.
+teddy,Mitch. We're going with option one.
+mitch,You goddamn coward.
+mindy,He's been doing EVAs throughout the day.
+vincent,And nobody gave him instructions? Did JPL schedule something?
+mindy,He's at the Rover.  We're receiving a transmission.
+vincent,Commander Lewis' geo-compositing experiments.
+mark,"We evac'd eighteen sols into a thirty-one sol mission... Which means we've got thirteen sols of experiment and research schedules. For each of us. So. Commander Lewis... your work's in good hands. Beck -- I'll be honest with you, I don't understand chemolithotrophic detection. At all. But I'm doing my best. Johanssen, I know you don't like it when I touch the ChemCam, but guess what? I'm touching the ChemCam. Vogel, I think I've got a new cataloguing system for the core samples that I've titled ""Das Core Samples"" out of respect for the Fatherland. And Martinez... I still don't know what it is you do. Why did we bring you? No idea. "
+vogel,I have a problem.
+vogel,"It's an email from my wife. The subject line says ""Our Children,"" but the computer won't open the attachment."
+johanssen,Let's take a look.  Huh. This isn't a jpg. It's a plain ASCII text file. Looks like... I don't know what this looks like. Math equations. Does this make any sense to you?
+vogel," ""Rich Purnell Maneuver."" Ja. It is a course maneuver for the Hermes..."
+lewis,...and the mission would conclude with Earth intercept 211 days later.
+martinez,Would this really work?
+lewis,We ran the numbers. They check out.
+vogel, It's a brilliant course.
+beck,Why all the cloak and dagger?
+lewis,NASA rejected the idea. They'd rather take a big risk on Watney than a small risk on all of us. Whoever snuck it in Vogel's email obviously disagreed.
+martinez,So. We're talking about going directly against NASA's decision?
+lewis,"Yes. If we do the maneuver, they'll have to send the supply ship or we'll die. We have the opportunity to force their hand."
+johanssen,Are we gonna do it?
+lewis,"If it were up to me, we'd already be on our way."
+martinez,"Isn't it? Up to you, I mean."
+lewis,"Not this time. This is something NASA expressly rejected. We're talking about mutiny. Which is not a word I use lightly. We do this together, or not at all. Before you answer, consider the consequences. If we mess up the supply rendezvous, we die. If we mess up the Earth gravity assist, we die. If we do everything perfectly, we add 533 days to our mission. 533 more days before we see our families again. 533 days of unplanned space travel where anything could go wrong. Something might break that we can't fix. If it's mission critical, we die."
+martinez,Sign me up.
+lewis,"Easy, cowboy. You and I are military. There's a good chance we'd be court- martialed when we got home. As for the rest of you, I guarantee they'll never send you up again."
+beck,If we go for it... how would it work?
+vogel, I plot the course and execute it.
+johanssen,Remote Override. They can take over the Hermes from Mission Control.
+lewis,Can you disable it?
+johanssen,"Hermes has four redundant flight computers, each connected to three redundant comm systems. We can't shut down the comms; we'd lose telemetry and guidance. We can't shut down the computers; we need to control the ship. I'd have to disable the Remote Override on each system... It's part of the OS, I'd have to jump over the code... "
+beck,"Johanssen used to go by the hacker handle ""Lady Sorrow"" in high school. Just so we're all on the same page."
+johanssen,"Beck is a liar. And he should keep our conversations private.  But, yeah. I can do it."
+lewis,"It has to be unanimous. If anyone says no, that's it. We go home as planned. But I vote yes."
+martinez,I vote yes.
+vogel,"If we do this, it would be over nine hundred days of space. That is enough space for one life.  Yes."
+beck,Let's go get him.
+lewis,Johanssen?
+capcom,"Flight, CAPCOM."
+brendan,Go CAPCOM.
+capcom,Unscheduled status update from Hermes.
+brendan,Roger. Read it out.
+capcom,"I...I don't get it, Flight. No real status. Just a single sentence."
+brendan,What's it say?
+capcom,"Message reads: ""Houston, be advised: Rich Purnell is a steely-eyed missile man."""
+brendan,What? Who the hell is Rich Purnell?
+guidance,"Flight, Guidance."
+brendan,Go Guidance.
+guidance,Hermes is off-course.
+brendan,"CAPCOM, advise Hermes they're drifting. Guidance, get a correction ready --"
+guidance,"Negative, Flight. It's not drift, they've adjusted course. Deliberate"
+brendan,"What the hell? CAPCOM, ask them what the hell."
+capcom,"Roger Flight. Message sent. Minimum reply time 3 minutes, 4 seconds."
+brendan,"Telemetry, any chance this is instrumentation failure?"
+telemetry,"Negative, Flight."
+brendan,"Oh god. Guidance, Flight. "
+guidance,Go Flight.
+brendan,Work out how long they can stay on this course before it's irreversible.
+guidance,"Working on that now, Flight."
+brendan,And somebody find out who the hell Rich Purnell is!
+teddy,Annie will go before the media this morning and inform them of NASA's decision to reroute the Hermes to Mars.
+mitch,That seems like the smart move. Considering the circumstances.
+teddy,You may have killed the whole crew.
+mitch,Whoever gave them the maneuver only passed along information. The crew made the decision on their own.
+teddy,"We're fighting the same war. Every time something goes wrong, the world forgets why we fly. I'm trying to keep us airborne. This is bigger than one person."
+mitch,No. It's not.
+teddy,When this is over... I'll expect your resignation. 
+mitch, I understand.
+teddy, Bring our astronauts home.
+marissa,Five hundred and thirty-three days longer? And you said yes to this?
+martinez,I did. He would have done the same for me. You know that.
+marissa,And you think I'm gonna forgive you?
+martinez,I do.
+mitch,"All due respect to your CNSA protocol, we haven't done things that way since Apollo 9 --"
+mark,"Here's the cool part. I leave this morning for the Schiaparelli crater, where I will commandeer the Ares 4 lander. Nobody explicitly gave me permission to do this, and they can't until I'm aboard the Ares 4. So I will take control of a craft in international waters without permission. Which, by definition, makes me a pirate.  Mark Watney, Space Pirate."
+vincent,How's our boy doing?
+mindy,"So far, so good. He's sticking to schedule. Drives for four hours before noon. Then sets the solar panels. And waits thirteen hours while they recharge. Sleeps somewhere in there. Then starts again."
+vincent,How's his morale?
+mindy,"He's asked us to call him ""Captain Blondebeard."""
+vincent," Mars would be governed by maritime law, so technically --"
+mindy,"Yeah, he explained it to us."
+bruce,"Okay, we're gonna start by stating, for the record, that you're not gonna like this."
+mitch,"The problem is the intercept velocity. The Hermes cannot enter Mars orbit, or they'll never have enough fuel to make it home. The MAV is only designed to get to Low Mars Orbit. So in order for Mark to escape Mars' gravity entirely and intercept the Hermes..."
+vincent,He needs to be going fast.
+bruce, Which means we need to make the MAV lighter. A lot lighter. Five-thousand kilograms lighter.
+vincent,You can do that?
+bruce,"There were some gimmes right off the bat. The design presumes 500 kilograms of Martian soil and samples. Obviously, we won't do that."
+mitch,"There's just one passenger instead of six. With suits and gear, that saves another 500. Then we ditch the life support. We don't need it. We'll have Watney use his EVA suit for the whole trip."
+vincent,How will he use the controls?
+mitch,He won't. Martinez will pilot the MAV remotely from the Hermes.
+vincent,We've never had a manned ship controlled remotely before.  But... I'm excited for the opportunities that affords.
+bruce,"If we go remote, we can lose the control panels. Then we dump the secondary and tertiary comm systems."
+vincent,You're going to have a remote controlled ascent with no backup comms?
+mitch,"He's not even to the bad stuff yet, Vincent."
+vincent,You better skip to the bad stuff.
+bruce,"We have to remove the nose airlock, the"
+vincent, You're taking the front of the ship off?
+bruce,Sure. The nose airlock alone is 400 kilograms.
+vincent,You're going to launch a man into space with a giant hole in the front of the ship?
+bruce,Well... no. We're gonna have him cover it with Hab canvas.
+vincent,You're sending him to space under a tarp.
+bruce,Yes. Can I go on? 
+vincent," I'm not really sure I want you to, but okay."
+mindy,"Mark says... ""Are you f-word-ing kidding me?"""
+vincent,"Do you think he meant it like...  ""Are you kidding me?"""
+mindy, It's... possible he meant it the first way?
+johanssen,And... you killed him.
+lewis,Try it again.
+lewis,"Martinez will fly the MAV. Johanssen will sysop the ascent. Beck and Vogel, I want you in Airlock 2 with the outer door open before the MAV even launches. Once we reach intercept, it'll be Beck's job to get Watney."
+beck,He might be in bad shape. The stripped down MAV will get up to 12 g's during the launch. He could be knocked unconscious and may have internal bleeding.
+lewis,"Well, then it's a good thing you're our doctor. What's the intercept plan?"
+beck,"We finished attaching the tethers into one long line. It's 214 meters long. I'll have the MMU, so moving around should be easy."
+lewis,How fast a relative velocity can you handle?
+beck,Once I get to Mark? I can grab the MAV at 5 meters per second. 10 is like jumping onto a moving train. Any more than that and I might miss.
+lewis,We've got some leeway. The launch will be 52 minutes before the intercept and it takes 12 minutes. As soon as Mark's engine cuts out we'll know our intercept point and velocity.
+beck,"Good. And 214 meters isn't a hard limit, per se."
+lewis,Yes. It is.
+beck,"I take off the tether, I could get way out to --"
+lewis,"Not an option. Vogel, you're Beck's backup. All goes well, you're pulling them back aboard with the tether. If things go wrong, you're going out after them."
+vogel,Ja.
+lewis,All right. Let's go get our boy.
+annie,"If something goes wrong, what can Mission Control do?"
+vincent,Not a damned thing.  It's all happening twelve light-minutes away. That means it takes twenty-four minutes for them to get the answer to any question they ask. The whole launch is twelve minutes long. They're on their own.
+annie,"Not that we have a choice, but... are we sure we want to be broadcasting this to the world? I mean, if something goes WRONG --"
+lewis,"About two minutes, Watney. How you doing down there?"
+mark,"It's good to hear your voice, Commander. I'm eager to get up to you."
+lewis,"We're on the case. Remember, you'll be pulling some pretty heavy G's. It's okay to pass out. You're in Martinez' hands."
+mark,Tell that asshole no barrel-rolls.
+lewis,"Copy that, MAV. CAPCOM..."
+johanssen,Go.
+lewis,Remote Command...
+martinez,Go.
+lewis,Recovery...
+beck,Go.
+vogel,Go.
+lewis,Pilot...
+mark,Go.
+martinez,Main engines start.
+lewis,"About five seconds, Watney. Hang on."
+mark,"See you in a few, Commander."
+johanssen,Velocity 741 meters per second. Altitude 1350 meters...
+lewis,That's too low --
+martinez,I know. It's fighting me --
+johanssen,"Velocity 850, altitude 1843 --"
+lewis,"Watney? Watney, do you read? Can you report?"
+johanssen,He's well below target altitude.
+lewis,How far below?
+johanssen,Working on it -- Main shutdown in 3...
+martinez,Back to automatic guidance. Confirm shutdown.
+lewis,Watney? Do you read?
+lewis,Copy.
+johanssen,I have interval pings. Intercept velocity will be 11 meters per second...
+johanssen,Distance at intercept will be --  We'll be 68 kilometers apart.
+beck,Did she say 68 kilometers? Kilometers?
+martinez,Oh my god...
+lewis,"Keep it together. Work the problem. Martinez, do we have any juice in the MAV?"
+martinez,"Negative, Commander. They ditched the OMS system to make launch weight."
+lewis,"Then we have to go him. Johanssen, time to intercept?"
+johanssen,"39 minutes, 12 seconds --"
+lewis,What if we point our attitude thrusters all the same direction?
+martinez,Depends on how much fuel we want to save for attitude adjustments on the trip home. 
+lewis,How much do you need?
+martinez,I could get by with maybe 20 percent of what's left.
+lewis,JOHANSSEN --
+johanssen, Use 75.5 percent of remaining attitude adjust fuel. That'll bring the intercept range to zero.
+lewis,Do it.
+johanssen,"Hang on -- that gets the range to zero, but the intercept velocity will be 42 meters per second --"
+lewis,"Then we have 39 minutes to figure out how to slow down. Martinez, burn the jets."
+mark,MAV to Hermes --
+mark,"Affirmative, Commander. "
+mark,My chest hurts. I think I broke some ribs.  How are you?
+mark,Yeah. The canvas didn't hold...
+lewis,That's consistent with what we saw.
+lewis,"We've corrected the intercept range, but we've got a problem with the intercept velocity."
+lewis,42 meters per second.
+mark,Well. Shit.
+mark,"I could find something sharp in here and poke a hole in the glove of my EVA suit. I could use the escaping air as a thruster and fly my way to you. Since the source is on my arm, I could direct it pretty easy."
+lewis,I can't see you having any control if you did that. You'd be eyeballing the intercept and using a thrust vector you can barely control.
+mark,I would get to fly around like Iron Man.
+lewis,We should have left him on Mars.
+lewis,Maybe it's not the worst idea.
+martinez,"No, it actually is. The worst idea. Ever."
+lewis,"Not his part. But using atmosphere as thrust...  Martinez, get Vogel's station up and running..."
+martinez,It's up. What do you need?
+lewis,I need to know what happens if we blow the VAL.
+martinez,You want to open the Vehicular Airlock?
+lewis,It would give us a good kick.
+martinez,Yeah. And it might blow the nose of the ship off in the process.
+johanssen,And... all the air would leave. And we need air. To not die.
+lewis,We'll seal the bridge and reactor room. We let everywhere else go vacuo.
+martinez,But we'd still have the same problem as Watney. We can't direct the thrust.
+lewis,We don't have to. The VAL is in the nose. We just point the ship at Mark.
+martinez, A breach at the VAL would decelerate us 29 meters per second.
+johanssen,Which gives us a relative velocity of 13 meters per second.
+lewis,Beck -- you hearing this?
+martinez,"How do we open the airlock doors? There's no way to open them remotely, and if anyone's nearby when it blows..."
+lewis,Right... right...  Vogel?
+lewis,Take your suit off.  I need you to come back in and make a bomb.
+mark,"Did you say ""bomb?"" You guys are making a bomb without me?"
+vogel,"Um... Again, please, Commander."
+vogel,"Probably. But... I feel obliged to mention that setting off an explosive device on a spacecraft is a terrible, terrible idea."
+vogel, Ja.
+lewis,Beck -- leave your suit on. Meet Johanssen at Airlock 1. We'll open the outer door. I need you to place the charge on the inner door...
+beck,Copy. On my way.
+mark,"Commander, I can't let you guys do this. I'm ready to puncture the suit. Let's go with the Iron Man plan."
+lewis,Absolutely not.
+mark,"The thing is, I'm selfish. And I want the memorials back home to be just me. I don't want the rest of you losers in them.  Commander... call it off."
+lewis,"Oh. Okay. Well, if you want us to call it off, then I guess we have to oh wait... wait a minute. Yep. I'm looking at my shoulder patch and it turns out I'm Commander. So shut up."
+mark, Smart ass.
+johanssen,Bomb?
+vogel," Bomb. In a pure oxygen environment, 16.7 million Joules will be released for every kilogram of sugar used. Eight times more powerful than a stick of dynamite."
+johanssen,How do we activate it?
+vogel,Can you run this to one of our lighting panels?
+johanssen,Make sure you're not still here when this goes off.
+beck,Bomb is set. On my way.
+martinez,"Guys, I'm running the numbers -- even with optimal VAL blow, we're gonna be off on our angle."
+lewis,What's the new intercept distance?  Johanssen.
+johanssen,260 meters. Approximate.
+lewis,That's too far...
+martinez,Commander?
+lewis,The intercept distance is gonna be too far. I'm going untethered.
+beck,"Commander, I can do this --"
+lewis,"It's not a debate, Beck. I'm not risking another crew member. "
+lewis,We sure know how to cut it close.
+johanssen,10 seconds...
+martinez,Strap in.
+lewis,Brace for deceleration.
+johanssen,Bridge seal holding.
+martinez,Damage?
+lewis,Copy.
+johanssen,312 meters.
+mark,You said 312? Great. I'll wave at you guys as I go by.
+lewis,Mark -- you're still WAY TOO FAR -- I'm not gonna make it --
+mark,Commander. Seriously.  I got this.
+mark, I have visual on the Commander.
+lewis,Johanssen -- what's my relative velocity to Mark?
+mark,Contact.
+mark,You have terrible taste in music.
+mark,Hi guys.
+johanssen,"Oh, hey Mark. Haven't seen you in a while."
+martinez,Yeah. What've you been up to?
+mark,"Oh. You know. Same old, same old."
+vogel,You smell horrible.
+mark,I haven't showered in a year and a half. Cut me some slack.
+johanssen,You don't know what you're asking us here.
+martinez,"Yeah, captain, we may need to put him back."
+mark,I missed you guys.
+mark,"Welcome to the Astronaut Candidate Program. Pay attention. This could save your life.  Trust me, I know what I'm talking about."
+annie,"The Ares 5 team will rendezvous with the Hermes approximately 48 minutes after launch. From there, they've got 414 days of space travel ahead of them, arriving at Mars on March 30th. And I'll let the Director of Mars Missions, Vincent Kapoor, brief you on the particulars."
+vincent,Good morning. Their mission is scheduled for 41 Sols. Your briefs detail the research and experiment schedules...
+mindy,"Flight, CAPCOM. Ready to begin preflight check."
+brendan,"Go ahead, CAPCOM."
+wen,Go.

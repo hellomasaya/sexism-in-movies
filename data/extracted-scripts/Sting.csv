@@ -1,0 +1,724 @@
+Speaker,Dialogue
+phone girl,"Beat it, Mottola."
+phone girl,"8720...Yes, hold on a second.  Mr. Granger, Chicago on the line."
+granger,Yeh?
+combs,"Granger, this is Combs.  Why haven't we heard from ya?  Everybody else is in."
+granger,"We had a few problems with the Law this morning.  The Mayor promised the Jaycees to get tough on the rackets again, so he shut everybody down for a couple hours to make it look good.  Nothing serious, it just put us a little behind for the day."
+combs,"You been making your payoffs, haven't ya?"
+granger,Hell yes.  He does this every year. There's nothing to worry about.
+combs,"Okay, finish your count and get it up here as soon as you can.  I don't wanta be here all night."
+granger,"Believe me, the Man's gonna be real happy.  Looks like we cleared over ten grand this week."
+combs, We cleared 22 here.
+granger,"Well, hell, you got the whole Chicago south side.  How do ya expect the eight lousy spots I've got to compete with that?"
+combs," They did 14 grand in Evanston, 16.5 is Gary, and 20 in Cicero.  Looks like you're bringing up the rear, Granger."
+granger,I just got the count.  We'll put
+combs,We'll be waitin'.
+granger, Mottola.
+granger, Take this up to the city on the 4:15.  They'll be waitin' for it at the clearing house.  And don't stop for no drinks.  You can get a cab down the street.
+thief," You fuckin' nigger-lover.  I'll get you for this someday, sucker egg."
+black man,The wallet.  You gotta go after him. He's got all the money.
+stranger,"Don't worry, we got the wallet. What happened?  He get ya with the knife?"
+black man, Give it to me!  Please.  I gotta know it's all there!
+stranger,"You just sit tight, old man.  We're gonna have to get you to a doctor.  I'll call a cop."
+black man,"No, no cops!"
+stranger, You wanted by the law or somethin'?
+black man,"Naw, it's okay."
+stranger,You're crazy carryin' that kinda money in this neighborhood.  No wonder you got hit.
+stranger,You ain't goin' nowhere on that leg.
+black man,"I gotta!  Look, I run some slots down in West Bend for a mob here. I got a little behind on my payoffs so they figure I been holdin' out on 'em.  They gave me to 4:00 to come up with the cash.  I don't get it there I'm dead."
+stranger,"It don't look good, gramps, it's ten of now."
+black man,I got a hundred bucks for you and your friend if you deliver the money for me.
+stranger, I dunno.  That little mug that got ya is mad enough at me already -- what if he's out there waitin' around a corner with some friends.
+black man,"He won't know you're carryin' it. C'mon, you gotta help me out."
+stranger," Sorry, pal.  I'll fix you up, call you a doc, but I ain't gonna walk into a bunch of knives for ya."
+black man, How bout you?  I'll give you the whole hundred!
+stranger,What makes you think you can trust him?  He didn't do shit.
+mottola,"Hey, butt out, chicken liver.  I gave him back his wallet, didn't I?  How far is this place?"
+black man,1811 Mason.  Put it in Box 3C.  You won't have no trouble.  There's five thousand dollars there and here's a hundred for you.
+mottola," All right.  I'll make your drop for you, old man.  And don't worry, you can trust me."
+stranger,"If that punk and his pals decide to search ya, you'll never fool 'em carryin' it there."
+black man, What do we do?
+stranger,You got a bag or somethin?
+black man,No.
+stranger,How 'bout a handkerchief?
+black man,Here.
+stranger,Let me have the money.
+stranger,"You better stick that other in here too, if you wanta keep it."
+black man," Just hurry, will ya."
+stranger, Ain't no hard guy in the world gonna frisk ya there.
+mottola,"Thanks.  So long, partner.  Don't worry, everything's gonna be all right."
+cabbie,Where to?
+mottola,Which way is Mason?
+cabbie,About 20 blocks south.
+mottola,"Okay, go north.  The Joliet Station -- Fast."
+cabbie,What's so funny?
+mottola,I just made the world's easiest five grand.
+black man,"Jesus, what a bundle.  Did you know he was that loaded?"
+stranger,"Hell no, I just cut into him.  I woulda settled for pawning one of them shoes."
+hooker," 'With plenty of money and you-oo- oo, Oh baby, what I wouldn't do-oo- oo...'"
+crystal," Hi, Hooker, you gettin' married or somethin'?"
+hooker,Come into a little dough.  You wanna get outa here tonight?
+crystal,Can't.  I got a 10 o'clock show.  I need the five bucks.
+hooker,I'll spend fifty on ya.
+jimmy, Hooker!
+hooker,"How ya doin', Jimmy."
+jimmy," Ain't seen you in months, boy. Thought maybe you took a fall."
+hooker,"Naw, just a little hard times, that's all.  It's all over now."
+jimmy,You gonna have a go here?  How 'bout a ten spot on the line here.  The 4-9 been lookin' good today.  Lotsa action on 28th Street
+hooker, Three grand on the black.
+jimmy, You sure you wanna start off that big?  Bet like that could put a real dent in us.
+hooker,I feel lucky tonight.
+jimmy,"Aw, come on, Hooker, why don't you just..."
+hooker,"Three grand on the black, Jimmy."
+jimmy,"Sorry, Hooker.  Good thing that ball came up red. Guy could get in trouble around here, losin' a bet that big."
+hooker,Spin it again.
+hooker,"Spin it anyway, Jimmy."
+hooker,"Don't worry, pal.  I knew it was my night."
+crystal," Thanks for the evening, Hooker.  I can still make the 10 o'clock.  If you wanna spend 50 bucks on me again, mail it."
+hooker," Aw, the hell with ya."
+greer,They found Mottola.  He was drunk in a dive in Joliet.  Never got on the train.
+combs," I don't wanta hear about his day, Greer.  What happened to the money?"
+greer,He lost it to a coupla con artists on his way outa the spot.
+combs,How much?
+greer,Twelve thousand.
+combs,"All right.  Better get on the phone to New York.  See what the big mick wants to do about it.  I gotta pretty good idea, though."
+floyd,"Doyle, can I see you a minute?"
+lonnegan," I'm busy, Floyd."
+floyd,It's important.  We had a little trouble in Chicago today.  One of our runners got hit for 12 grand.
+lonnegan, Which one?
+floyd,Mottola.
+lonnegan,You sure he didn't just pocket it?
+floyd,"No, we checked his story with a tipster.  He was cleaned by two grifters on 47th."
+lonnegan,They workin' for anybody?
+floyd,I don't know.  Could be.  We're runnin' that down now.
+lonnegan,"All right, mark Mottola up a little and put him on a bus.  Nothin' fancy, just enough to keep him from coming back.  Get some local people to take care of the other two.  We gotta discourage this kinda thing."
+hooker,"Howdy, Louise."
+louise," Goddamn, Johnny Hooker, you're a sharp hunky in them linens.  If you wasn't so pale, I'da sworn you had class."
+coleman,"Turn that down, Leroy."
+alva,"Oh, Johnny, Luther said you was somethin' to see today."
+hooker,"I'll never be as good as that mark, Alva."
+alva,"Well, we gonna hear all about it when we get back from church. Leroy, get your jacket on, boy."
+hooker,You goin' to church now?
+alva,"They been havin' late bingo down there.  I'm gonna call on the Lord for a little cash, while he's still payin' off.  Luther, you look in on that child from time to time, will ya?"
+eirie kid,"Hey, Luther told me he was carrying a wad, but I didn't figure this much."
+hooker,"Which way did he do, Eirie?"
+eirie kid,Straight north.  He was gonna take it all and run.
+hooker, The bastard.  He can blow his nose all the way.
+coleman,You're late.  Where you been?
+hooker, I had some appointments.
+coleman, How much did ya lose?
+hooker, All of it.
+coleman, In one goddamn night?  What are ya sprayin' money around like that for? You coulda been nailed.
+hooker,I checked the place out.  There weren't no dicks in there.
+coleman,"You're a con man, and you blew it like a pimp.  I didn't teach ya to be no pimp."
+hooker,What's eatin' you?  I've blown money before.
+coleman,"No class grifter woulda' done it, that's all."
+hooker,You think my play is bad?
+coleman,I think it's the best...
+coleman,...It's the only reason I ain't quit before now.
+hooker, What?
+coleman,"I'm gettin' too slow for this racket.  I done the best I'm gonna do.  You hang on too long, you start embarrassin' yourself."
+hooker,What are you talkin' about?  We just took off the biggest score we've ever had.  We can do anything we want now.
+coleman,It's nothin' compared to what you could be makin' on the Big Con. You're wastin' your time workin' street marks.
+hooker,"Hey look.  You think I'm gonna run out on ya or somethin'?  Just cause we hit it big.  Luther, I owe you everything.  If you hadn't taught me con, I wouldn't know nothin'."
+coleman," Aw hell, you sound like some goddamn sucker.  You know everything I know.  You got nothin' more to learn from me."
+hooker,But you played the Big Con.  You said it was nothin'.  A game for flakes and mama's boys.
+coleman,"And I'm tellin' ya now, you're a fool if you don't get into it.  A bigger fool than I was.  I been lookin' for this one all my life, Johnny.  Now I got a chance to step out at the top."
+hooker, What the hell you gonna do with yourself?
+coleman,"Aw, I got a brother down in K.C., runs a freight outlet.  I can go halfsies with 'em!  It ain't too exciting, but it's mostly legal."
+coleman,"Straighten up, kid.  I wouldn't turn ya out if ya weren't ready.  I got a guy named Henry Gondorff I want you to look up.  There ain't a better insideman alive.  He'll teach ya everything ya gotta know."
+hooker,"You'll take a cut of what I make, won't ya?"
+coleman,"I'm out, Johnny."
+hooker,If that's the way you want it.
+coleman,That's the way I want it.
+hooker,"How do you like that Coleman, huh? After three years."
+eirie kid,"Aw come on, it was the only thing to do.  He knew he was holdin' ya back."
+hooker,We were partners.  If it weren't for Luther I'd still be hustlin' pinball down at Gianelli's.  I don't need anything more than I got.
+hooker,You ain't gonna have nothin' if you don't lay off them games of chance. There's a depression on ya know.
+hooker,There's always a depression on.
+eirie kid,"If you saved a little, you wouldn't have to grift so much."
+hooker,I like griftin'.
+eirie kid,"You could buy yourself some things. Clothes, or a nice car..."
+hooker,"I don't look any good in clothes and I don't know how to drive. What else ya got to sell, Eirie?"
+eirie kid,Forget it.
+hooker,"Hi there, Snyder.  Things a little slow down at the Bunco Department tonight, eh?  Somebody lose the dominoes?"
+snyder,"You scored blood money today, Hooker.  You need a friend."
+hooker," Aw, find yourself a shoplifter to roll."
+hooker, You can stake out my toilet if you want.
+snyder," I'll tell ya what you did, smart boy.  You tied into a loaded mark on 47th across from Maxies.  You and Coleman played the switch for him and blew him off to a cab on 49th.  If he hadn't been a numbers runner for Doyle Lonnegan, it woulda been perfect."
+hooker, You're crazy.  I'm not stupid enough to play for rackets money.
+snyder,"Not intentionally maybe, but that don't make no difference to Lonnegan. He'll swat you like any fly."
+hooker,I'll square it with the fixer.
+snyder,"Nobody can buy you a prayer, if I put the finger on ya."
+snyder,I figure your end of the score was at least 3 gees.  I want 2 no matter what it was.
+hooker, My end was only one.
+snyder, Then you'll have to come up with another grand somewhere.
+hooker,All right.
+snyder," You're a smart egg, Hooker.  No use dyin' for 2 grand."
+eirie kid,I thought you blew all your money.
+hooker,I did.  That stuff I gave him was counterfeit.  They'll pinch him the first place he tries to spend it.
+eirie kid," What the hell you gonna do when Snyder rushes his finger right to Lonnegan?  You're committin' suicide, kid."
+hooker," Aw Christ, it doesn't make no difference now.  If Snyder knows about it so does everybody else. He never gets anything first...Damn, there's no answer at Luther's."
+eirie kid,"Listen to me, Hooker.  What ever you do, don't go back to your place tonight, don't go anyplace you usually go, ya hear me?  Get outa town or somethin', but..."
+hooker," C'mon Luther, get up.  You gotta get up, Luther."
+hooker," Excuse me, sir.  Treasury Dept... I'd like to ask you a few questions."
+man, What for?  I haven't done anything.
+hooker,"We don't doubt that, but there's a counterfeiting operation passing bad money in the station.  Have you made any purchases here today?"
+man," Yes, a ticket to Chicago."
+hooker,"Then I'm afraid we'll have to impound your money until we're sure that it's all good.  Can I see your wallet and your ticket, please?"
+man, But I got a train to make.
+hooker, It'll only take 20 minutes or so. You can pick it up at the window down the hall.
+man,But what about all these other people?
+hooker," I been here since three this morning, Charlie, and I never knew there was so much ugliness in people.  You try to help 'em and they spit on you.  I shoulda let ya go and gotten yourself arrested for passin' false notes."
+man,"I'm sorry, really I am, but my train leaves in ten minutes."
+hooker,"All right, I'll give ya a break.  ...in the back and run it through right away.  We'll have you outta there in a couple minutes."
+man,Thank you.  You don't know how much I appreciate this.
+hooker, Think nothin' of it.
+hooker,"Excuse me, I'm looking for a guy named Henry Gondorff.  You know him?"
+billie, No.
+hooker,Luther Coleman sent me.
+billie, You Hooker?
+hooker,Yeh.
+billie,Why didn't you say so.  I thought maybe you was a copper or somethin'.
+billie,It's the room in the back.  He wasn't expecting you so soon though.
+hooker, The great Henry Gondorff.
+gondorff,"Turn the goddamn thing off, will ya."
+hooker,You sober?
+gondorff,"I can talk, can't I?"
+gondorff,"Glad to meet ya, kid.  You're a real horse's ass."
+hooker,"Yeh, Luther said you could teach me something.  I already know how to drink."
+gondorff, I'm sorry about Luther.  He was the best street worker I ever saw.
+hooker,He had you down as a big-timer. What happened?
+gondorff,"Aw, I conned a Senator from Florida on a stocks deal.  A real lop-ear. He thought he was gonna take over General Electric.  Some Chantoozie woke him up, though, and he put the feds on me."
+hooker,You mean you blew it.
+gondorff, Luther didn't tell me you had a big mouth.
+hooker,"He didn't tell me you was a fuck- up, either.  You played the Big Con since then."
+gondorff,"No, I lammed it around for a while while things cooled off.  Philly, Denver, Baltimore, nuthin' towns."
+gondorff,"But don't kid yourself, friend, I still know how."
+gondorff," You gonna stay for breakfast, or do you already know how to eat?"
+hooker, I picked something up on the way.
+gondorff," Lonnegan after you, too?"
+hooker,I don't know.  Haven't seen anybody.
+gondorff,"You never do, kid."
+floyd,We got word from Chicago.  They got one of the grifters last night. The nigger.
+lonnegan,What about the other one?
+floyd,They're still looking for him.
+lonnegan,Who's got the contract?
+floyd,Combs gave it to Reilly and Cole.
+lonnegan,Hackers.
+floyd,"They staked out the other guy's place last night, but he never showed.  They figure maybe he skipped town.  You wanna follow 'em up?"
+lonnegan,You see the guy in the red sweater over there?
+lonnegan,"Name's Danny McCoy.  No Neck McCoy we called him.  Runs a few protection rackets for Carnello while he's waiting for something bigger to come along.  Me and Danny been friends since we were six. Take a good look at that face, Floyd, cause if he ever finds out we let one lousy grifter beat us, you'll have to kill him and every other hood in Chicago who'd like to do the same thing.  You understand what I'm sayin'?"
+floyd,Yes sir.
+lonnegan,Good lad.
+billie,"You feeling all right this morning, Henry?"
+gondorff,"Fine, Billie."
+billie,You mind opening the round a little early today?  We got some business coming in before hours.
+gondorff," Great little countess, that Billie. Runs a good house up there, too. One of the few left that Luciano doesn't own."
+hooker," Gondorff, you gonna teach me the Big Con or not?"
+gondorff, You didn't act much like you wanted to learn it.
+hooker,I wanna play for Lonnegan.
+gondorff, You know anything about him?
+hooker," Yeh, he croaked Luther.  What else do I gotta know."
+hooker," Aw right, he runs the numbers outta the south side."
+gondorff," And a packing company, a chain of Savings and Loans and half the politicians in Chicago and New York. There ain't a fix in the world gonna cool him out if he blows on ya."
+hooker,I'll take him anyway.
+gondorff, Why?
+hooker, 'Cause I don't know enough about killin' to kill him.
+gondorff,"You can't do it alone, ya know.  It takes a mob of guys like you and enough money to make 'em look good."
+hooker,We'll get by without 'em.
+gondorff,This isn't like playin' winos on the street.  You gotta do more than outrun the guy.
+hooker, I never played for winos.
+gondorff," You gotta keep Lonnegan's con, even after you spent his money.  And no matter how much you take from his, he'll get more."
+hooker,"You're sacred of 'em, aren't ya?"
+gondorff,"Right down to my socks, turkey.  If I'da been half as scared a that lop-ear, I wouldn't a fallen asleep on 'em.  Lonnegan might kill me, but at least he won't bore me to death."
+hooker,Then you'll do it?
+gondorff,"If I can find a mob that'll risk it. But no matter what happens, I don't want you comin' back to me halfway through and sayin' it's not enough... cause it's all you got."
+twist, These are Combs' favorite torpedoes. Riley and Cole.
+twist,"They do most of the small jobs, but Lonnegan might not wanna use 'em on you 'cause they're kinda messy.  No class."
+twist,"We got reason to believe Riley was the guy who hit Luther.  But if you see either one of these two, find yourself a crowd, or take 'em someplace you know you can handle 'em."
+gondorff,"But most of all let us know.  If they got a hit on you, we gotta fold up the con.  You're too exposed.  You got that?"
+hooker,You sure it'll be one of these two?
+twist,No.  They're just the only ones we know of.
+billie," Set me up five more beers, will ya Danny."
+snyder,You the owner here?
+billie,That's right.
+snyder, Lieutenant Snyder.  Bunco.
+billie,"Joliet badge, Snyder.  Don't cut much up here."
+snyder, I'm lookin' for a guy on the lam from a counterfeiting rap.  Thought he mighta come in here.
+billie,Don't think so.  I know everybody in the place and I always bounce the lamsters.
+snyder,All right if I look around your lobby?
+billie,"No, but you're welcome to a free beer before you go."
+snyder, I don't really need your permission.
+singleton,"Lonnegan's a fast egg, Henry.  He's not gonna sit still for a standard play."
+gondorff,"Everybody'll sit still for somethin'. What did ya find out about the train, Eddie?"
+niles,"He's been taking the 8:10 Century Limited outa New York on Friday and getting in here early Saturday morning.  He usually stays a day to check on his policy operations, and then flies back."
+gondorff,Wonder why he doesn't fly both ways.
+niles,"The porters say he runs a braced card game in one of the cars.  $100 minimum, straight poker.  Last time he pulled in here ten grand heavier than he left New York."
+gondorff,"Fancies himself a gambler, huh?"
+twist,Lotta plungers ride that train just to play him.
+gondorff," See J.J., he's slowly down already."
+snyder,Which way are the rooms?
+billie,Who told ya this guy was in here?
+snyder,Nobody.  I just know what kinda women he likes.  I'm gonna check all the joyhouses till I find him.
+billie,Maybe I could help ya if ya told me his name.
+snyder,I think I'll keep that to myself. Which way are the rooms?
+billie,Right through there.  But I wouldn't go in there if I were you. 
+snyder," What are ya gonna do, call the cops?"
+billie,I don't have to.  You'll be bustin' in on the Chief of Police just up the hall. 
+snyder,"Keep your nose clean, lady.  He can't spend all his time here."
+singleton,"I think we ought to play him on the Rag.  It's the tightest game we got, and it's not all over the papers yet."
+niles,"No good, J.J.  You're not gonna con stocks to a banker.  Lonnegan's too smart for that."
+twist,"What are you going to do, con the payoff to a gambler?"
+snyder,Twist is right.  It won't work.
+gondorff,We'll use the wire.  Never known a gambler who wouldn't like to beat the ponies.
+niles,The wire is ten years outa date.
+gondorff,That's why he won't know it.
+singleton,I'm not sure I know it.
+gondorff,"We'll give him the hook on the train, and play him here.  You think I can get in that poker game, Eddie?"
+niles,All you gotta do is show up with some money and look like a fool.
+gondorff,I also gotta win.
+gondorff,"By the way, any of you guys been passing off any green goods lately?"
+gondorff,"Billie, if that Dick comes in again, stall him till I can get a look at him.  And let me pay ya for these beers."
+billie,What are you talking about?  It's on the house.
+gondorff," Naw, I want ya to have this."
+gondorff,Don't look at it till ya go to bed though or it'll turn to paper.
+niles,Looks all right.  It's big enough and off the street.
+garfield,I don't know.  This is kinda short notice.  I'm not sure we can get it all done by Saturday.
+niles,Got to.  Gondorff's ridin' the mark in from New York on the Century.
+twist,We'll take it.  You manage the building at the end of the alley?
+old man, For fifteen years.
+twist,I'll need a room over there that faces this way.  How much a week?
+old man,Only rents by the month.  Two hundred and fifty for the two of them.
+twist, This is the last time I expect to see you down here.
+old man, Never heard of the place.
+garfield,Been a while since I stocked a wire store.  Not many mobs playing that anymore.
+niles,All we need is the bookie setup for now.  We'll worry about the telegraph office later.
+garfield,"All right, I'll rent ya everything I got in the warehouse for two grand.  That'll give ya phones, cages, blackboards and ticker gear. You supply the guys to move 'em. If you want a counter and bar, that's another grand.  I don't know where the hell I'm gonna get 'em though."
+niles,"C'mon, you can do better than that. We ain't no heel grifters."
+garfield,"You want the stuff tomorrow or don't ya?  It's gonna take hours just to clean it up.  Besides, Gondorff's still a hot item.  Where am I gonna be if he gets hit?"
+niles,"Just give us what ya can, Benny. We'll send a truck down."
+twist, You wanna work flat rate or percentage?
+garfield,Who's the mark?
+twist,Doyle Lonnegan.
+garfield,Flat rate.
+gondorff, Guy in the blue pinstripe and grey fedora.
+hooker,He's not as tough as he'd like to think.
+gondorff, Neither are we.
+gondorff,I hear there's a friendly poker game on this train tonight.  You know anything about that?
+conductor,A little.
+gondorff,You think you could get me in that game?
+conductor,I don't know.  There's usually a waiting list.
+conductor," That'll get you first alternate, sir."
+conductor, I'll see what I can do.
+twist," How ya doin', Lacey."
+lacey," Good to see ya again, Twist."
+boudreau,Twist!  When did you get back in town?
+twist,Coupla days ago.  I'm workin' a big one with Gondorff on the North Side.
+twist,"Listen Duke, we're setting up a wire store.  I need a twenty man boost right away."
+boudreau,I got twenty or so in here tonight. Take your pick.
+twist,"These guys have gotta be the quill, Duky.  We can't afford to rank the joint."
+boudreau," Get me the sheet, Jake.  Let's see who's in town."
+boudreau,"Twist, you know this guy?"
+twist," No.  Never saw him before.  He's a dick, though."
+eirie kid,"Hello, Snyder.  What are you doin' up here?"
+snyder,I'm on vacation.  You seen your friend lately?
+eirie kid,"Yeh, he packed it in and enrolled in detective school."
+snyder,"You see him, you tell him to pay his debts before I get him."
+boudreau,"Paltrow, Sterling, Furey, and the Big Alabama are in from New Orleans. Fiskin and the Boone Kid from Denver, and Phillips, Barnett and Limehouse Chappie from New York. Those and the guys outside should give ya 30 or so to choose from."
+twist,"Good, have 'em down at Stenner's old Pool Hall before 3:00.  We're gonna run through the route tonight."
+boudreau,"Okay, Twist, but you know if this blows up, I can't do ya no good downtown.  Gondorff is Federal."
+twist,"Don't worry about it, pal."
+singleton,You in?
+gondorff,"Yeh, I think so.  I gave the kay- ducer a C-note.  You find out the deck?"
+singleton,"He usually plays with a Royal or a Cadenza.  I got you one of each.  He likes to cold deck low, 8's or 9's."
+gondorff,"Nice work, J.J."
+woman," Keep your mitts off me, ya big lug. If I'da wanted you handlin' me I woulda asked ya."
+hooker,She got him clean.  He hasn't missed it.
+gondorff,Fifteen grand.  Looks like he's expecting a big night.
+hooker,He's waitin' for you in the card room.
+gondorff,Let him wait.
+gondorff,"You just worry about your end, kid."
+hooker,If we ever get to it.
+lonnegan, Where the hell is this guy?
+conductor,I don't know.  He said he'd be here.
+lonnegan,"All right, let's start without him. Mr. Clemens, give me the cards."
+gondorff,Sorry I'm late boys.  I was takin' a crap.
+conductor," Mr. Shaw is a bookmaker from Chicago.  Mr. Shaw, meet Mr. Clayton from Pittsburgh, Mr. Jameson, Chicago, Mr. Lonnegan, New York and Mr. Lombard, Philadelphia."
+conductor,"Straight poker, gentlemen.  100 dollar minimum, table stakes.  We assume you're good for your debts."
+lonnegan," Mr. Shaw, we usually require a tie at this table.  If you don't have one, we can get ya one."
+gondorff,"Yeh, that'd be real nice of ya, Mr. Lonneman."
+lonnegan, Lonnegan.
+curly,Name's Curly Jackson.  I worked for Gad Bryan outa Baltimore.
+twist,"You ever played the Wire, Curly?"
+curly,"Used to rope for it long ago.  I can shill, mark board, anything you want.  I don't run with riffraff and I only drink on weekends.  Me specialty is an Englishman."
+twist,"All right, Curly, you're in.  We got a rack of suits over there. Get yourself a nice tweed one."
+curly, That's all right.  I got all my own stuff.
+gondorff, See ya and raise three.
+lonnegan, See and raise five.
+gondorff,Five and call.
+gondorff,"Tough luck, Lonnihan, but that's what you get for playin' with your head up your ass.  Couple more like that and we can all go to bed early, huh boys."
+garfield,"We bought ya a tap into Moe Anenberg's wire.  He's got eyes at every track in the country.  You'll get race results, odds, scratches, pole positions, everything; and just as fast as Western Union gets 'em."
+niles,Does J.J. know how to use this thing?
+garfield,All he's gotta do is read.
+duff,Buck Duff.  I was in Maxwell's boost in Troy.
+twist,You the Duff that didn't come up with his end when Little Jeff was sent up?
+duff,Wasn't no problem a mine.
+twist,"He was a con man, wasn't he?"
+duff,He was a tear-off rat.  He got what he deserved.  No sense helpin' pay his bills.
+twist," Shove off, Duff."
+eirie kid, Names's Joe Eirie.
+twist,You played for any particular mobs?
+eirie kid,No.
+twist,You know the Wire at all?
+eirie kid,No...I never played no Big Con before.  But Luther Coleman was a friend a mine.  I thought maybe there was something I could do.
+twist, You get that nose in Duke Boudreau's tonight?
+twist,"You got moxie, Eirie.  Get yourself a suit."
+lonnegan,Pass.
+gondorff,Two and call.
+jameson,"Well, I'm out."
+gondorff,"Don't worry about it, pal.  Lemongan here wouldn'ta let you in the game if you weren't a chump."
+lonnegan," I've had enough of your lip, Shaw."
+gondorff," Just take it easy there, Larrabee."
+jameson,Let's take a break for a couple minutes and cool off.
+lonnegan," I've had it with that bum, Floyd. Stack me a cooler."
+floyd," You've only been playin three hours, Doyle."
+lonnegan, I don't care.  Load me a deck.  Set it up for threes and nines.  I'll cut it in on his deal.
+floyd, What do ya want the others to get?
+lonnegan,Nothin'.  They gotta be outa there early.  I'm gonna bust that bastard in one play.
+clayton, Fold.
+lonnegan," See, and raise the rest."
+gondorff,Call.
+gondorff," Well that's all for me tonight, boys.  I'm gonna leave ya some cab fare."
+gondorff," You owe me 15 grand, pal."
+lonnegan, I guess I left it in my room.
+gondorff," You come to a game like this, you bring your money."
+gondorff,"All right, buddy, I'm gonna send a boy by your room in five minutes, and you better have that jack, or it's gonna be all over Chicago that your name ain't worth a dime."
+hooker,How'd ya do?
+gondorff, Well we got some workin' money anyway.
+gondorff," Okay, kid, you're on.  But I gotta tell ya, its a hard act to follow."
+floyd,I know I give him four threes.  We can't let him get away with that.
+lonnegan,What am I supposed to do?  Call him for cheating better than me?
+hooker,My name's Carver.  Mr. Shaw sent me.
+lonnegan,"Your boss is quite a card player, Carver.  How does he do it?"
+hooker, He cheats.
+lonnegan, I couldn't find my wallet.
+hooker,"Yeh, he knows that."
+lonnegan, What do you mean?
+hooker, He hired a dame to take it from ya.
+hooker,"You were set up, Lonnegan.  Shaw's been planning to beat your game for months.  He was just waiting for you to cheat him so he could clip ya."
+lonnegan," I could have you put under this train for this, errand boy."
+hooker, So could Shaw.
+lonnegan,Then why the rat?
+hooker,Cause I'm tired of bein' his nigger.  I want you to help me break him.
+lonnegan," C'mon, I'll give ya a lift home."
+lonnegan,What's the matter?  You gotta get back to Shaw?
+hooker,"Naw, he picked up some jane in the bar.  Can't see him till morning anyway."
+lonnegan,"All right, then."
+lonnegan,Why me?  Shaw probably has lotsa enemies to choose from.
+hooker,I need somebody respectable...but not completely legit.  What I'm gonna do isn't very legal.
+lonnegan," I'm a banker, friend.  That's legit in this state."
+hooker,All you gotta do is place a bet for me at Shaw's place.  I'll supply all the money and the information.
+hooker,"If you help me out, I'll pay ya back the money you owe Shaw, myself."
+lonnegan,That's worth fifteen grand to ya?
+hooker,Maybe a couple million.
+lonnegan,"You're dreamin', kid."
+hooker," 660 Marshall Street.  Tomorrow at 12:30, if you're interested."
+lonnegan," If I'm not there by quarter of, I'm not coming."
+gondorff,No signs of trouble?
+hooker,What do ya mean?
+gondorff,"You know, somebody tailin' ya.  A torpedo or somethin'."
+hooker," No, not a thing."
+hooker,You think he'll show?
+gondorff,Did he say he wouldn't?
+hooker,No.
+gondorff, He'll show.
+gondorff,"Eddie, cut that out, will ya."
+voice,Carver?
+lonnegan,"You should always look to the back too, kid."
+hooker, I was afraid you weren't gonna come. We haven't got much time.
+lonnegan, Get on with it then.
+hooker," All you do is take this two grand across the street to Shaw's place and bet it on that pony.  There's nothin' to it, but don't take too much time.  We only have 3 or 4 minutes after you get the call."
+lonnegan,"You're not gonna break him with a $2,000 bet."
+hooker,"This is just a test.  The big one comes later.  Be careful with that though, it's all I got."
+lonnegan,And you were gonna pay me back?
+hooker,I am after this race.
+hooker,I gotta get back before Shaw misses me.  Good luck.
+lonnegan,We're waitin' for a call.
+twist,Bluenote at 6 to 1 on the nose.
+singleton,Look at that.  He's got four apes with him.
+gondorff,"That's what I like about these guys, J.J... They always got protection against things we'd never do to 'em."
+sheet writer,"Yes, Mr. Ruth, 20,000 on Dancing Cloud."
+gondorff,"Never get enough, huh pal?  I'd think you'd get tired of losin', Honnigan."
+lonnegan, The name is Lonnegan.
+gondorff," Make sure you see cash from this guy, Eddie.  He's got the name for bettin' money he don't have."
+lonnegan,Two-thousand on Bluenote.
+niles, Is that all?
+lonnegan, That's all.
+caller,"Ladies and Gentlemen.  This is Arnold Rowe, your caller for the second race at Belmont in New York. A mile and 1/8.  Four year olds and up.  And they're off!"
+caller,"Around the first turn it's a War Eagle first by a length, Jail Bate second by one and a half, Dancing Cloud third by a half on the outside, followed by Lucky Lady, Mojo, Wits' End and Bluenote."
+gondorff, That's not where we want him to sit.
+eirie kid,C'mon War Eagle.  That Dancing Cloud's a hell of a finisher.  War Eagle's gonna have to open up a little more on 'em.
+lonnegan,You know anything about a horse named Bluenote?
+eirie kid,"Naw, he's never done much.  Probably in here just to round out the field. War Eagle's where you wanna have your money."
+caller,"Into the clubhouse turn, it's War Eagle by two lengths, Dancing Cloud has moved up to second by a half, Lucky Lady is third by three followed by Jail Bait, Mojo, Bluenote and Wits' End."
+lonnegan," You really picked a winner, kid."
+hooker,Give 'em a little time.
+caller,"Into the backstretch it's War Eagle still by a length, Dancing Cloud closing on the inside, is second by two, Lucky Lady is third by one and a half, followed by Bluenote, Jail Bait, Wits' End and Mojo."
+hooker,"You're doin' great, Eirie.  He loves ya."
+caller,"Into the far turn, it's Dancing Cloud now by half a length, War Eagle is second by two, Bluenote is third by a half and moving fast on the outside.  Lucky Lady is fourth by four lengths, followed by Jail Bait, Wits' End and Mojo."
+caller,"Coming down the stretch, it's Dancing Cloud by one length, War Eagle and Bluenote are neck and neck by two.  Now it's Dancing Cloud, Bluenote and War Eagle.  Dancing Cloud and Bluenote head to head..."
+caller,"Dancing Cloud, Bluenote.  Dancing Cloud, Bluenote.  It's Bluenote by a nose.  Dancing Cloud is second by two, War Eagle third by three and a half.  Time for a mile and 1/8, 2:01 and 6/10 seconds."
+curly, Bloody awful.  Who in blazes is Bluenote?
+lonnegan," War Eagle's where you want to have your money, huh?"
+gondorff, Show this bum out.
+gondorff,"Go on, ya goddamn ninny."
+gondorff, And tell him not to bring his garbage men in here no more.  This is a class joint.
+gondorff,"He's gaffed, kid.  He should start coming to you now."
+lonnegan,"All right, Riley.  What the hell happened?"
+riley, We missed him.
+lonnegan,You weren't hired to miss him.
+riley,There wasn't any way he coulda known we was in there.  We made a clean pick on the lock and didn't leave no footprints in the hall. Somebody musta wised him up.
+lonnegan,"Yeh, and what does Cole say about that?"
+riley,I don't know.  He took it hard.
+lonnegan,"All right, get outa here.  You're outta work."
+lonnegan,We'll put Salino on it.  I need somebody careful.
+combs,Salino?  Why waste our best people on a small-time job like this?  It ain't no heavy gee we're after. The guy's a five and dime grifter.
+lonnegan,Then why ain't he dead?
+combs,"They didn't think he'd be so cagey, that's all.  They'll get him next time."
+lonnegan,"Use Salino.  It'll take a little longer, but there won't be any holes in it."
+lonnegan,And tell Cole I wanta see him when he gets in.
+combs,He's not comin' in.  Not to get bounced off a job anyway.
+lonnegan,"He had his chance and all he did was shoot up a rooming house.  Made a lotte noise and woke up a few cops, but didn't hit nothin'."
+lonnegan," This is Salino's job now, Vince. If Cole wants to muscle in on it, that's his business.  But he's breakin' the rules and when Salino finds out about it, I can't feel sorry for what's gonna happen to him."
+hooker,"Well, what did I tell ya?"
+lonnegan,"You're a lucky man, all right."
+hooker,"Lucky, hell.  I could do it every day."
+lonnegan,Why don't ya then.
+hooker,'Cause it's better to do it all at once.  We're puttin' down 400 grand next week.  At 5-1 we make 2 million. Twenty per cent of that is yours if ya stick with us.
+lonnegan,"You got a system, Carver?"
+hooker,You stayin' in or not?
+lonnegan,I'm in.
+hooker," It's foolproof.  We got a partner downtown runs the central office of the Western Union.  Race results from all over the country come in there and go right across his desk on their way to the bookies.  All he does in hold them up a couple minutes until he can call us and get a bet down on the winner.  Then he releases the results to the bookies and we clean up on a race that's already been run.  It can't miss, unless the Western Union Dicks get onto it."
+lonnegan,You got the 400 grand yet?
+hooker,"Not yet, but...  Hey, there's only a grand here."
+lonnegan, I think we oughta place another bet tomorrow.
+hooker, What is this?  That's my money. You tryin' to muscle me?
+lonnegan," If your system's as foolproof as you say, you'll get even more."
+hooker, I gotta talk to me partner first. We can't afford to expose our game too much.
+lonnegan,Let me talk to him.
+hooker, No.
+lonnegan,"You want your money back?  Try and get it in a court of law.  C'mon, don't be a sorehead.  I'll make it worth your while.  Migth even help ya finance the big play if this one works out."
+hooker,Four o'clock tomorrow.  Pick me up at Dewey Lyle's.
+hooker,Twist?  I told him the tale.  He wants to see ya.
+twist,"All right, when?"
+hooker,"Tomorrow, after 4:00.  Stay inside, I'll come in and get ya.  And be hard on him for a while; he's talking money."
+twist,"Okay, Tootsie."
+gondorff,Well you found him again and we're gonna have to do somethin' about it. What else haven't ya been tellin' me?
+hooker,Nothin'.  I told ya everything there is.
+gondorff,Then why'd ya move outa your room?
+hooker,It was too noisy.
+gondorff,"You can't play your friends like marks, Hooker."
+gondorff,You know how easy it'd be for one of Lonnegan's guys to nail you?
+hooker,"All we need is a couple days, Henry. A couple days and we'll get Lonnegan down and stomp on 'em."
+gondorff,"You just won't learn, will ya. Hell, you come in here, I teach you stuff maybe five guys in this world know, stuff most grifters couldn't do even if they knew it, and all you wanna do is run down a bullet.  You're just like all them new jerks. Lotsa nerve and no brains.  And ten years from now when me and the others are through and you dumb guys are all dead there won't be one gee left who knows the Big Con was anything more than a way to make a livin'."
+hooker,A couple days; that's all I'm askin'.  I can stay clear that long.
+gondorff," Christ, they'll probably miss you and hit me."
+loretta,You done?
+hooker,"Yeh, I guess I shoulda had the meat loaf."
+loretta, It isn't any better.
+hooker,Where's June today?
+loretta, She don't work here no more.  I'm fillin' in for a couple days... till I can get a train outa here.
+hooker,Where you goin'?
+loretta, I don't know.  Depends what train I get on.
+twist, Excuse me.  We're here to paint Mr. Harmon's office.
+receptionist, Mr. Harmon's office?  Hold on just a second.
+lonnegan,What happened to your face?
+hooker,Had a little fight with a raggle down on 13th.  She got me with her ring.
+harmon,Brigham signed it all right.  I can't understand why he didn't tell me.
+singleton,"Ah, he's like all them supervisors. They think they're too good for regular people.  He says he was in here a while ago and the place was a mess."
+twist,We'll try and hurry so we don't keep you out of your office too long.
+harmon,Why can't I work with you in there?
+singleton,"Look pal, we gotta cover the floor, the furniture, everything, so we don't spill on nothing.  Now if you wanta sit in there with a tarp over your head, you're welcome to it."
+harmon,"All right, how long will you be?"
+twist,Hour or two at the most.  We do good work.
+hooker,We'll go to the side door.
+hooker,"Les, I got Mr. Lonnegan with me. He wants to see you a second."
+twist, What the hell's the matter with you. We coulda met at a club or somethin'.
+hooker,I thought it might be good for him to see the setup.
+twist, Well we can't talk in here.  They're having the place painted.
+twist," Miss Barnes, I'm going home a little early today.  Tell anyone that calls that they can reach me here in the morning.  Thank you."
+twist,"Can't do it.  There're telegraph inspectors all over the place.  I got 750 grand coming in from the coast, and I'm not gonna blow it for a lousy 14 gees.  We'll get somebody else to do our betting."
+lonnegan,I could come up with 750 grand in a day if I had a reason to.
+twist,But who says you will.  I got a guy I can depend on.  He's liquidating everything he has for this.  You wouldn't even give Carver his money back.
+lonnegan,"I need more proof, that's all. Anybody can get lucky once."
+twist, On a 6-1 shot?  The hell with ya. We'll keep the deal we got.
+lonnegan,"If it works again tomorrow, I'll have a half million in cash here by"
+twist, We were getting 50 from our guy.
+lonnegan,With 20% coming off the top for me laying your bet.  Either way you
+lonnegan,"A week's a long time, friend. Anything can happen.  All of it bad."
+hooker,"He's right, Les."
+twist,"Yeh, and what if we play tomorrow and he doesn't come up with the money.  We risk our whole operation for nothing.  I'll say when we make our bets."
+lonnegan,Not if you want me to keep makin' 'em for ya.
+hooker,"And what do we know about your guy. He says a week, but who knows if it's a month?  Lonnegan here's a banker.  He can get that dough with no questions asked."
+twist,"All right.  Be at the booth at 1:00. I'll give you all three places this time, Lonnegan.  That better be proof enough."
+man,Are you Lieutenant William Snyder?
+snyder,"I don't know, what's up?"
+man,F.B.I... The Captain'd like a few words with ya.  Ya got a couple minutes?
+snyder," Yeh, sure."
+snyder,What is this?  I got work to do.
+polk,"Sit down and shut up, will ya.  Try not to live up to all my expectations.  We were told you know a hustle artist named Johnny Hooker."
+polk,Do ya know him or don't ya?
+snyder,"Yeh, but I don't know where he is."
+polk,Well we do.  He's chummin' around with a Big C named Henry Gondorff. Ring any bells?
+snyder,Sure.  Every bunco man in the country knows Gondorff.
+polk,"There's word he's gonna run a con on the North Side here.  We got a year-old Florida warrant on him, but it's a thin beef, and he can beat it in court unless we catch him cold.  All we want you to do is pick up Hooker for us."
+snyder,Why don't you pick him up yourself?
+polk,"Cause the stoolies are used to street dicks jumpin' him.  If word gets around that Feds are in on it too, Gondorff'll fold up the whole thing."
+snyder,Wouldn't that be too bad.  You'd hafta move outa this nice office ya got.
+polk," Don't crack wise to me, flatfoot. I spent a lotta time in dumps like this, eatin' Gondorff's dust while the bunco squad gets rich tippin' him off.  But it's not gonna happen this time.  We're not even gonna let the police know we're here.  If you keep your mouth shut and do a job, there'll be a promotion in it for ya.  And you better take it, cause I can make ya work for us without it."
+snyder,What the hell good is Hooker to ya?
+polk,He's gonna set up Gondorff for us.
+snyder,He'll never do it.
+polk, I think he will.
+singleton,"Visitation is still up by two at the three-quarters.  Single Action second, Fasanella third."
+billie,What's the line on Visitation?
+billie,He'll probably fall down.
+gondorff,How ya doin'?
+singleton," Nothin' yet.  I got a good one on the lead at Hialeah, but he's fadin'."
+billie,"Best we had was Cat's Eye in the second at Del Mar, and he was only 5-2.  Not many longshots comin' in today."
+singleton, Billie.  You ready?
+billie,"Yeh, go ahead."
+singleton,"At the finish, it's Single Action by two, Fasanella second, Visitation third.  Line on Single Action... 3 to 2. Hell with it, that's no good."
+gondorff,"We don't need big odds on this one, J.J.  Take anything you get at 3-1 or better."
+singleton," Okay, the Fairfield Stakes at Santa Anita.  Mile and a quarter for 3 year olds and up."
+gondorff,"He's gonna hit ya with 20 grand, Eddie.  How much cash we got?"
+niles,Not enough to cover a bet that big.
+gondorff,"Get a couple extra guys in the line, then.  We'll give him the shut-out."
+singleton,"Okay, Billie, here we go."
+singleton,"At the wire it's Wrecking Crew the winner by five, Grand Theft second, Wingless third.  That's our boy."
+gondorff,"All right, Furey, your horse is Wingless.  Paltrow, the Big Alabama and Phillips'll take Grand Theft. Rodgers and Eirie have Wrecking Crew.  Jackson -- His Dandy, Cowan -- Change of Heart, Fiskin and Chappie -- Made to Order.  Eirie, he gets a bang outa seein' you lose, so we oughta use that on 'em.  If you play the birds of a feather routine we worked on, it should steam him up pretty good. You think you can handle that?"
+eirie kid," Yeh, sure."
+gondorff,"O.K., you guys in line take your time, and I wanta see lotsa joy on Wrecking Crew."
+voice,"Wrecking Crew at 4-1, Grand Theft to place, Made to Order to show."
+lonnegan," C'mon, let's hurry up there."
+caller,"Ladies and Gentlemen, this is Arnold Rowe, your caller for the $100,000 Fairfield Stakes at Hollywood Park in Los Angeles.  A mile and 3/8 for three year olds and up.  And they're off!"
+lonnegan, Twenty-thousand on Wrecking Crew.
+niles,"I'm sorry, sir.  We can't take bets after the race is started."
+gondorff,"Don't take it so hard, pal.  You probably woulda lost it."
+caller,"And around the first turn it's Wrecking Crew by a half length, Grand Theft second by one, His Dandy is third by one half, followed by Change of Heart, Back Flip, Made to Order and High Ground."
+eirie kid,Who you got?
+lonnegan, Wrecking Crew.
+eirie kid,Me too.  Maybe it's our day.
+hooker,What happened?
+lonnegan,I didn't get the bet down in time.
+hooker," Oh, Jesus."
+niles, Looks like he's sulking.
+gondorff,"If we're lucky, this'll bring him back stronger than ever."
+caller,"Coming for home, it's Wrecking Crew by six lengths, Made to Order is second by two and a half, High Ground is third by a length and Grand Theft is coming fast on the rail.  It's Wrecking Crew, Made to Order and Grand Theft.  Wrecking Crew wins it by five lengths, Grand Theft is second by a nose, Made to Order is third by two.  Time for one and 3/8 mile, 2:11 and 4/10 seconds."
+eirie kid,"We won!  We won!  You hear that!  I won 30,000!  You hear that!"
+lonnegan,Tell your friend I'll have the money here by post-time tomorrow. We'll take the first race where the odds are 4-1 or better.  And make sure I can get to that window this time.
+hooker,How am I gonna do that?
+lonnegan," I don't know, figure something out."
+hooker,"Meat loaf, apple pie and a cup of coffee."
+loretta, Sixty-five.
+hooker,What time you get off work here?
+loretta,2:00 A.M.
+hooker,You doin' anything tonight?
+loretta," Yeh, sleepin'."
+hooker,You got a back door to this place?
+loretta,No.  What's wrong with the front?
+hooker," Look, I don't have time to fuck around.  There's somebody out there I don't need to see.  You got a fire escape or anything?"
+loretta,No.
+hooker,"All right, do me a favor.  Go into the bathroom, open the window and wait for me there."
+loretta,What the hell for?
+hooker,Just do what I tell ya and everything'll be jake.
+loretta,What does this guy want?
+hooker, He'd like to kill me.
+cole,"Salino, hey look.  I didn't mean to move in on..."
+polk,"Hello, Mr. Hooker.  Captain Polk, F.B.I...  Have a seat."
+polk, You want a drink or something?
+hooker,No.
+polk,We want to talk to ya about Henry Gondorff.
+hooker,Don't think I know him.
+polk,"Well give yourself a couple seconds, crumb.  You wouldn't wanna lie to me.  Lt. Snyder here says you done a lotta griftin' in this town."
+hooker,Lt. Snyder doesn't know shit.
+hooker,You got nothin' on me.
+polk,"We'll get it, and if we can't, we'll just make it up.  Grand larceny, extortion.  Counterfeiting, anything you want."
+polk,"Look, I got nothin' against you, but you're in trouble here.  All you gotta do is tell us when Gondorff's gonna play his chump. We come in at the sting, make the pinch, and you walk out free as a bird.  No questions, no court appearance, nothing."
+hooker,No.
+polk,"You've already done time twice, and judges don't like three time losers. You wanna sit in the can for forty years, startin' tonight?"
+hooker,I'll make parole.
+polk,"Like hell.  You won't even get a review till you're seventy.  And if the board starts to go soft, we'll let ya out in the yard some night with a hard-nose young bull who'll put fifty slugs in your face and ask what you were doin' there later."
+polk,"Don't be a sap, kid.  You could save us a little trouble.  But Henry Gondorff is through whether you help us or not.  There's nothin' left to do now but save yourself."
+hooker, Will you wait until the chump is played?
+polk,Hell yes.  We don't care about the mark.  He deserves what he gets.
+hooker," I mean completely played.  Until he's beat and the score is taken. You come in before we beat him and I'll kill him.  You'll have a tough time explaining that, won't ya."
+polk,"All right, Hooker, but you take it on the lam, and we'll shoot you down on sight."
+hooker, Just as long as I get to finish the play.
+gondorff,"What's the matter, kid?  You're not sayin' much."
+hooker,"Just a little nervous, that's all."
+gondorff,Luther always told me to bite my toenails when I get nervous.  You see yourself doin' that and you realize it ain't worth it.
+billie,"Things are a little slow tonight, Henry.  I wanna open the round for the girls."
+gondorff,"Take it easy, you won't lose him now.  We had him 10 years ago when he decided to be somebody.  Believe me, I've seen enough to know."
+hooker," How many guys you conned in your life, Henry?"
+gondorff,"Two or three hundred I guess. Sometimes played two a day when I was in Shea's mob.  We had it down to a business.  Yeh, kid, it really stunk.  No sense in bein' a grifter if it's the same as bein' a citizen."
+gondorff,I better do some packin'.  I'm gonna be a hot number again after tomorrow.
+hooker,Then why you doin' it?
+gondorff,"Seems worthwhile, doesn't it? Maybe it's just for the cave-in on Lonnegan's face when we put in the sting."
+hooker,Henry.
+hooker,Yeh.
+hooker, I appreciate your stickin' your neck out.  I wouldn't have asked ya if it weren't for Luther.
+gondorff,"Ain't nothin' gonna make up for Luther, kid.  Revenge is for suckers.  I been griftin' 30 years and never got any."
+loretta,Looks like he missed ya.
+hooker,"Yeh, this time anyway."
+loretta,"Good night, Mrs. Hillard."
+hooker," I, ah...thought you might wanna come out for a while.  Maybe have a drink or somethin'."
+loretta,"You move right along, don't ya."
+hooker," I don't mean nothin' by it.  I just don't know many regular girls, that's all."
+loretta,"And you expect me to come over, just like that."
+hooker,"If I expected somethin', I wouldn't be still standin' out here in the hall."
+loretta, I don't even know you.
+hooker, You know me.  I'm just like you... It's two in the morning and I don't know nobody.
+billie,"C'mon, Henry, knock off.  You've done everything you can."
+gunman,"She was gonna kill ya, kid."
+gunman," Her name's Loretta Salino. Lonnegan's people set her up in the diner.  C'mon, let's get outa here."
+polk," Whoever Gondorff's playin' for is bound to be a wheel.  As soon as we're inside, I want you to get the guy outa there as fast as possible, before the reporters show up.  We can't afford to embarrass any big shots."
+hooker,She coulda killed me last night.
+gunman,Too many people coulda seen ya go in her room.  She was a professional. Used to work in the Dutch Schultz gang.
+hooker,Who are you?
+gunman,Gondorff asked me to look after ya.
+hooker,How do I know you're tellin' the truth.
+gunman,"Don't have much choice, do ya?"
+lonnegan, Five hundred grand on Syphon.
+niles," Hold on, I'll have to get the manager."
+gondorff,What's the problem?
+niles, He wants to put a half million on Syphon.
+gondorff," I can't lay that off in time.  We lose a bet that big, it could break us."
+lonnegan," If ya win it could make ya, too."
+gondorff, What are the odds on Syphon?
+niles,Eight to one.
+gondorff,"A half mill on an eight to one shot. You're dumber than I thought, Lonnegan."
+lonnegan,You're more gutless than I thought.
+gondorff, Take it.
+caller,"Ladies and gentlemen, this is Arnold Rowe, your caller for the San Antonio Handicap at Pimlico in Baltimore -- A mile and 1/16 for three-year-olds.  And they're off."
+caller,"And around the first turn it's King's Image by a neck, Syphon is second by one, Key to the Vault third by one half, followed by Mr. Moonlight, Red Ridge, Moneyman and No Charge."
+twist,"Sorry, but I just couldn't wait. Did everything go all right?"
+lonnegan," Take it easy.  Everything's all right.  I put it on Syphon, on the nose."
+twist, On the nose!  I said place.  Place it on Syphon.  That horse is going to run second.
+lonnegan,You give me my goddamn money back! You hear me?  There's been a mistake!
+niles,"I'm sorry, sir.  The betting's closed."
+lonnegan,"You give me my money back.  There's been a mistake, do you hear me?"
+polk," All right, Hooker, you can go."
+snyder,C'mon.  We gotta get you outa here.
+lonnegan,My money's back there.
+snyder,We'll worry about that later.
+caller,"And the winner is King's Image by four lengths, Syphon is second, by two, Moneyman third by two and one half.  Time for 1 and 1/16 miles, 1:21 and 2/10 seconds."
+polk,He's gone.
+gondorff," Nice con, Hickey.  I thought you were Feds myself, when you first came in."
+hickey,"No problem, Henry.  Snyder went for it all the way.  You shoulda seen the rag he lit under Lonnegan."
+gondorff,"Okay, let's take this place apart and get outa here.  You can get your splits from Eddie at Boudreau's tonight."
+gondorff,"You beat him, kid."
+hooker," You were right, Henry.  It's not enough... But it's close."
+gondorff,You wanta wait for your share?
+hooker,"Naw, I'd just blow it."

@@ -1,0 +1,549 @@
+Speaker,Dialogue
+cassie,"Ah, negative on that request commercial freighter 'Nan-Shan'.  I've already got an inbound on that approach pending a beacon-fix.  Hold on my mark until I get back with some confirmation.  Rimward Traffic Control out."
+parsons,"That's the second time I ran it, and it still reads the same."
+cassie,Better tell the boss.
+parsons,Toss you for it.
+hiroko,Fuck!  Holo off.
+hiroko,What kind of 'something'?
+hiroko,I'm on my way.
+urioste,You didn't wipe your feet coming in.
+kamen,"Well, it's okay.  You didn't tell me it was monsoon season going out."
+parsons,"Hey, buenos dias, cowboy.  When d'you blow in?"
+kamen,Just got back.  Missed anything?
+parsons,"Ahh, don't pay any attention to Urioste. She's still pissed that Noguchi wouldn't let her go off on your hunting trip."
+kamen,"Wasn't my trip, I just did the driving. 'Sides, freezing my butt off out in the wet taking pot-shots at the local wildlife isn't my idea of a good time, either."
+parsons,Where'd you leave them?
+kamen,Camped out by the navi-beacon out on Linson's Range.  They're making their own way back tomorrow.
+cassie,MarsCo went belly-up on the Dow Jones.
+kamen,Shit.  When?
+cassie,Yesterday.  We got the Network feed from Gateway; it was the top story on 'Sixty Seconds'.  Biggest market crash since twenty-four.
+kamen,Fucking great.  I invested some money in them.
+cassie,"You win some, you loose some."
+kamen,"I lose 'em all, that's why I'm still out here on this rock.  Anything else you wanna ruin my day with?"
+cassie,"No, but I got something that might interest you."
+hiroko,What've you got?
+cassie,A pair of incomings.  They popped-up on the medium-range about thirteen twenty-four local time.
+parsons,"We figured on it being a magnetic anomaly, but we ran a back-trace just to make sure."
+cassie,Yeah.  Turns out they dropped straight out of hyperspace.
+hiroko,Sounds like a couple of escape shuttles.
+parsons,That's what we thought.
+hiroko,Have you got an updated Lloyds' Almanac to cross-reff them through?
+parsons,Done it already.  Nothing matches.
+cassie,"And if you thought that was interesting, watch this..."
+kamen,Jesus.
+parsons,"Yeah, exactly.  Those're pre-programmed course adjustments you're looking at."
+kamen,"Tactical nukes, maybe?"
+hiroko,Where're they headed?
+cassie,"We ran a trajectory simulation.  If they carry on along that path, it's possible they'll make intra-orbital insertion."
+hiroko,"I don't know what to make of this.  Get a copy of the telemetry relayed back to Antarctica Traffic Control.  Better alert the nearest RimCorp Base, too."
+parsons,Fort Powell.  What do we tell 'em?
+hiroko,Just give them the facts.  They can leap to their own conclusions.
+ackland,Little fuckers move too fast.  Let's do a sweep and catch 'em on the other side.
+minh,Crazy idiots.
+beauvais,"Ahhh, they're just letting off some steam; don't let 'em get to you. Ackland and York aren't such bad guys when you get to know 'em.  Just a couple of weekend warriors..."
+minh,Thanks.
+beauvais,"Good argument for gun-control.  What are you going after, rhino?"
+minh,"Nah.  I just wanna squeeze off a few rounds.  'Sides, they tagged the rhinos for the migration project, so they're protected.  They'll dock you a month's pay for just mentioning it."
+kamen,See that sheathing on the suspension? Eaten away.  Same thing with the pumps on the base air purifiers.  The algae out here just isn't good on these new plastics.
+hiroko,"We haven't used Big Bertha since we relocated the generator module. That was four months ago.  I can't ask for them to keep bringing spares in on the shuttle, it's already costing too much as it is."
+kamen,"If you want these things kept in working condition, that's the only choice you've got."
+diller,Maybe she wouldn't be so tetchy if she got laid every once-in-a-while.
+guttierez,You offering?
+diller,Nah.  Freeze my dick off.
+hiroko,"I don't know.  I think we'll have to run it on a rota; one month down, one month operational."
+diller,Miss Noguchi!  You're wanted in admin.
+hiroko,Thanks.
+cassie,"Seven minutes ago, the third course change in an hour.  Those incomings are going to skim past the communications platform just a little too close for comfort."
+hiroko,Can we move it to a different orbit in time?
+parsons,Already working on it.
+hiroko,"Get off an all-bands emergency distress, and put it on a repeater."
+kamen,Relay station like us out in the middle of the boonies; why bother? All you're gonna do is punch a temporary hole in the traffic control net.  That'd be small potatoes even for terrorists.
+parsons,Can you patch me a temporary loop on DCMGS?
+cassie,"Okay, give me the numbers."
+parsons,They've changed their heading again.
+hiroko,Compensate!
+parsons,Punch me in a solution for their delta-vee.
+cassie,What do you need?
+parsons,"A three-second burn to port, on my mark."
+cassie,It's on the board.
+cassie,Picking up velocity.
+hiroko,Match it!
+parsons,Not gonna make it...
+parsons,Goddammit!
+york,Shit!  What's that?
+ackland,"Meteor, I guess."
+ackland,D'you feel any impact shock?
+ackland,"Me either.  I tell you, I used to be with a mining outfit on Callisto, and when something like that hits... believe me, you know about it."
+york,Do you wanna head back and call it in?
+kamen,"Hey, boss.  Wondered where you'd gotten to."
+hiroko,I just... wanted to be put on my own for a while.  Clear my head.
+kamen,"Didn't feel like whoopin' it up with the rest of us blue collars, huh?"
+hiroko,"I've got a lot of thinking to do.  'Sides, the room was getting too crowded for me."
+kamen,"Not too much of the socializing type, then?"
+hiroko,"No, not really.  More sort of the  'claustrophobic' type."
+kamen,Is that a fact.
+hiroko,Uh-huh.  Used to get it pretty bad.  I'd wake up in a cold sweat and want to claw open a vacuum hatch.
+kamen,"How long you been out here for now, anyway?  Three months?"
+hiroko,Four.
+kamen,And before that?
+hiroko,Six month stint on Datus.
+kamen,Only six?
+hiroko,What is this?  'Twenty Questions'?
+kamen,Just curious.  There's a lot of talk goes around.
+hiroko,I don't know.  I guess I've just never found anywhere I really felt at home.
+kamen,What is that?
+hiroko,Real man' drink.
+kamen,Seltzer?
+hiroko,Want some?
+kamen,I'll stick with my own.
+hiroko,Any luck raising Ackland's party?
+kamen,"Nothing.  With the satellite down, we can't transmit over the mountain range. He's most likely sitting there wondering why he can't raise us."
+hiroko,"First light, we'll take a chopper out there and tell them to head back."
+kamen,'We'?  You wanna fly out there with me?
+hiroko,Sure.  Do me good to stretch my legs.
+kamen,"Don't worry about it.  If the Network goes by the book, like everyone figures they will, a Marine gunboat from Powell'll drop-by for a look- see in four-or-five days.  They can go poke around out there and find whatever it was hit us.  All we've gotta do is sit tight."
+hiroko,Do you think Ackland'll sit tight?
+kamen,There'd have to be a helluva good reason for him not to.
+ackland,Found anything?
+york,Nada. No radiation... no movement... nothing.
+ackland,"Well, just keep looking.  It's gotta be... whoa, Jesus!"
+york,What is it?
+ackland,It's a rhino.
+york,Is it dead?
+ackland,"No, it's still breathing.  Kinda clammy though.  Are you sure your stick's not broken."
+york,"Yeah, it's fine."
+ackland,"God, I hope that thing didn't bring down a virus."
+york,I told you we... what's that?
+ackland,"Looks like a spore.  Fungus of some kind, maybe?"
+york,Bloody big if it is.  Top's open.
+ackland,It's hollow.  Think our rhino must've ate something that didn't agree with him.
+york,Let's get back and call this in.
+ackland,Wait a minute.
+york,What is that... is that metal fragments?
+ackland,This is very fucking weird.
+york,Another one?
+ackland,Yeah.  This's closed.
+cut to,"...A SHORT DISTANCE ACROSS THE CLEARING.  SOMETHING is watching them from the trees; something with a heat-vision P.O.V.  A PREDATOR.  We see the flare of ACKLAND's gunshots, then SNAP IN to see the multi- colored from of his body toppling over, trailing a purplish FACEHUGGER, before we..."
+york,"Oh, God; oh, shit; oh, God."
+cut to,"A PREDATOR-VISION SHOT, watching the color-bloom of YORK dragging ACKLAND's body away from the crater.  It CLOSES IN on the FACEHUGGER, giving us a muted X-ray-type VIEW of circulatory fluid pumping around the HUGGER and into ACKLAND."
+beauvais,Jesus Christ!  What happened?
+york,Give me a hand with Ack.
+beauvais,How bad is... oh my God.
+beauvais,What is that?
+york,Don't... uuh... don't know.  Help me... uuh... help me get him inside. Shit!
+beauvais,Have you tried prising it off?
+york,I wanted to get him back here; get him back to base.
+minh,Forget it.  We lost the satellite link. It's dead.
+beauvais,We've got no option.  We're gonna have to get it off.
+minh,Oh man...
+york,"Get real, Beauvais!  That thing might chew his fucking face off for all be know!"
+beauvais,Minh...
+minh,Yep...
+beauvais,How do you know it's not already?
+york,"I don't, but I think we should just wait and let the Doc take a look..."
+kamen,Wake up.  We're at the beacon.
+kamen,Looks like trouble.
+hiroko,"Fabrique Nationale tactical autoloader. Uses twelve mill hollow 'O' rounds, with through the barrel smart laser-sighting. Sure, I can handle this."
+kamen,Okay.  Watch were you point it...
+kamen,Yeah.  Somebody won.
+hiroko,Check out the tent.
+hiroko,Hold on...
+kamen,Jesus palomino...
+kamen,"Wait a minute, Doc..."
+revna,Is this it?
+kamen,Yeah.  Found it curled up in a corner of the tent.  Any idea?
+revna,Never come across one of these before. Maybe the original survey team did.  I'll run it through records and see what comes up.
+kamen,"Hey, Jan.  See if you can get someone to check out the chopper."
+guttierez,What's the problem?
+kamen,She was running a little sluggish on the way back.  Think the turbines might be playing up.
+guttierez,Give me twenty minutes and I'll do it myself.
+kamen,Appreciate that.
+revna,Where're the bodies?
+hiroko,Bagged and in the back.  They're not a pretty sight.
+hiroko,"I'm going to need you to co-sign the report.  Until we come up with something, this'll be treated as first degree murder."
+kamen,Agreed.
+hiroko,"When we get the link back, and I send this in, I.C.C.'ll throw a fit."
+kamen,"Ah, don't worry about I.C.C.  They're the least of your problems right now."
+hiroko,What do you mean?
+urioste,Sorry.  Can I have a word?
+hiroko,Sure.  What's up?
+urioste,Three-Pump failed a half-hour ago.  The algae must have clogged up an intake duct.
+kamen,Think I spoke too soon...
+hiroko,Again?  How long before we start noticing the difference?
+urioste,"I reckon it'll be another day before the smell gets unbearable. Beauvais usually fixes it, but... ah..."
+hiroko,Can you handle it?
+urioste,"Sure, I can manage.  But I'm not going into the Pit on my own."
+kamen,"Yeah, no problem.  Ask Diller, he's good with his hands."
+cassie,I'll go along with that.
+parsons,Parsons.      Yeah.  Hold on.
+ackland,"Hey, c'mon Doc, I feel fine.  Really."
+revna,Headache?  Dehydration?
+ackland,"The head's okay, but I could sink a six-pack."
+revna,Forget that.  I want you off alcohol for at least seventy-two hours. I've got some toxin build-up tests still to run.
+kamen,"What happened out there, Ack?"
+ackland,We... watched a meteor hit over Linson's.
+hiroko,A meteor?
+ackland,"Yeah, it impacted really off.  We went out to the crash-site... and... uh... that's... that's all."
+kamen,Nothing else?
+ackland,No.
+kamen,Show him 'Fido'.
+revna,Ring any bells?
+ackland,"Not really, no.  Ugly little sonuvabitch. What is it?"
+kamen,We thought you might be able to tell us. I found it by your cot at the camp.  You were out cold.
+ackland,What did York say?
+hiroko,York's vanished.
+ackland,Vanished?
+hiroko,"Beauvais and Minh are dead, Ackland.  York's gone awol, unless you can help us go some way toward disproving our suspicion, he's the prime suspect right now."
+ackland,Can I... um... have some water?  Please?
+revna,Sure.
+kamen,Do you believe him?
+hiroko,Ackland?  I don't know him well enough to say.  If we were back on Earth we could run him though an Aldhoven test and find out for sure. There's not much we can do out here.
+kamen,You should try this seasoned stuff.  It's good.
+guttierez,Got a present for you.
+hiroko,"Oh, I've been looking for this!  Where was it?"
+guttierez,"You left it in the chopper.  Oh, and before I forget, Don?  I ran that test you wanted on the turbines."
+kamen,And...?
+guttierez,"And, nothing.  They checked out just fine."
+diller,"What's the matter, girl?  You smell something?"
+cassie,"Rhinos look a little antsy,"
+diller,Yeah.  Never seem 'em act like this before.
+cassie,Do you hear that?
+diller,Yeah...
+cassie,I don't believe it.
+diller,He looks in a bad way.  Help me get him up to Infirmary.
+cassie,Wait a minute...
+ackland,Oh.  Oh God...
+revna,What is it?
+ackland,"It's nothing, Doc.  Just a... touch of indigestion... something."
+revna,Do you want a tablet?
+ackland,Uh-huh.
+revna,That sounds nasty.  I'll give you a couple of Demazine.
+ackland,Yeah...
+revna,"Hold on, it's alright.  I'm gonna give  you a shot..."
+hiroko,What happened?
+diller,York just turned up outside.  We're trying to get him into Infirmary.
+cassie,"The door's sealed from inside.  Doc Revna's in there, and it sounds like Ackland's going nuts."
+hiroko,Force the door.
+diller,Can't.  It's pressure sealed.
+guttierez,Here...
+diller,Thanks.
+hiroko,"Get after it, don't let it get away!"
+cassie,Oh my God...
+parsons,It left a melted trail on the deck all the way down to here...
+hiroko,What is that?
+diller,Secondary fluidic shunt for the sewage system.  I found the grating ripped right off.  The little fucker was strong.
+hiroko,Where does that lead to?
+parsons,"Central Pumping.  All the waste gets  treated, broken-down, and flushed out into the swamp.  If it wanted a quick exit then it really lucked- out."
+hiroko,You've checked that end?
+guttierez,"Not yet, no."
+hiroko,Do it.  I don't want that thing on my installation.  I want it caught and destroyed.
+kamen,"Cornering it shouldn't be a problem.  Each part of this station is basically a self-sufficient deep-space transport module running off external couplers.  If we disconnect them and seal off every section, we've got a ceiling of about thirty-six hours on internal power.  That should give us ample time to find it."
+hiroko,"Alright.  Pull some trackers and headsets out of stores, and I'll sign a release for the weapons.  Cassie, organise a team roster and put it on the board."
+diller,Okay.
+hiroko,"One final point.  Killing this sonuvabitch ought to be a reward in itself.  However, just to add a little incentive... I'm authorizing a hefty bonus in the next pay-packet for whoever does."
+york,"...I mean, these... these mothers were... were huge.  They look like bushmen, but they had all this hi-tech shit strapped all over 'em. They must've wasted Beauvais and Minh inside thirty seconds.  Minh got off a couple of shots from that cannon of his, but he might as well have been using a B-B gun.  I don't know how the hell I made it out of there alive."
+kamen,"Don't worry about it, Yorkie.  You're safe now.  Go get come rest."
+hiroko,"So, what do you think?"
+kamen,"What do I think?  I think if those Marines from Powell don't shift their butts getting here, we're gonna get caught up to our necks in the middle of something we shouldn't."
+de vries,"C'mon, man.  One more sweep."
+guttierez,"One more sweep... one more sweep.  I'm getting tired of one more fuckin' sweep. We're been lookin' for this thing for three days now, and found zip."
+de vries,"Ah, quit griping.  Keeps you in shape doesn't it?"
+guttierez,Hey!  I was in shape before we started doing this.
+de vries,Listen to that...
+guttierez,Listen to what?
+de vries,That's what I mean.  This is the quietest I've ever heard it.  It's unnatural.
+guttierez,De Vries?
+de vries,Yeah?
+guttierez,Next time you have a thought like that? Keep it to yourself.
+de vries,Something spooking the rhinos?
+guttierez,I dunno.
+diller,What is that...is that it?
+urioste,No.  I... think that's a regulator valve. Hold on.
+urioste,Are you getting anything?
+urioste,They're always like that.  Head-Office are real cheap when it comes to spares.  Wave that thing in the corner...
+diller,The room's clean.
+urioste,Great.
+guttierez,That's real peculiar behavior.
+de vries,"Hey, Guttierez?"
+guttierez,What?
+de vries,Take a look at this.
+guttierez,One of 'em must have escaped.
+de vries,"That's impossible, man.  This fence is high-tensile.  The breaking tolerance'd stand up to the strain of a rhino, easy. I know, I put it up."
+guttierez,There's no way a rhino'd survive that drop.
+de vries,Goldsmith's gonna be plenty pissed at losing one of her babies.
+guttierez,That's a fact.
+de vries,What?
+guttierez,Just got a reading...
+kamen,How's it going?
+parsons,"Yeah, 'Good Evening' to you, too."
+kamen,"You should hit the sack, too."
+parsons,"Nah, I'll stick it out for another hour or so."
+kamen,What time's sundown?
+parsons,'Bout five minutes.
+kamen,Give me a yell is something happens.
+parsons,"You got it, cowboy."
+guttierez,It's up there somewhere...
+de vries,What?  Are you nuts?  Just the two of us?
+guttierez,"I've seen this mother, De Vries.  We can bag it, no problem."
+de vries,"Forget it, man."
+guttierez,C'mon De Vries.  Think of the bonus.
+de vries,Fuck the bonus.  I hate heights.  You wouldn't get me up there even if it wasn't night.
+de vries,What the hell are you doing?
+guttierez,"Hey, fair enough.  If you won't come, I'll handle it myself."
+de vries,Wait a minute!
+guttierez,What?
+de vries,I'll come with you.
+guttierez,"Anything you say, Mammacitta."
+de vries,Careful of that edging there...
+guttierez,"Yeah, I got it."
+de vries,Where's that flashlight?
+guttierez,It's moving slow.  About... eleven metres. On the left.
+thomas,The door to the food storage locker was smashed open.  It must have come straight out of here.
+hiroko,Alright.  Keep your eyes peeled.
+guttierez,"Hold it, hold it..."
+de vries,What's wrong?
+guttierez,I'm picking up another signal.
+de vries,What?  Where?
+guttierez,"Just behind us, over to the right."
+de vries,Can't see a thing.  Are you sure?
+guttierez,"Yeah, I..."
+de vries,How?
+guttierez,I dunno.  Might be a glitch.
+de vries,"Oh, man.  That's no glitch!"
+guttierez,"It's alright, it's cool..."
+de vries,Is it still moving?
+guttierez,"No, he's stopped; he's totally still. Just take it nice and easy, babe. Nice and easy..."
+guttierez,Holy shit...
+de vries,"Oh, nice going, man!  It was a lemur! A goddamn lemur!"
+guttierez,"Uh... sorry about that, boss.  Everything's fine.  False alarm, that's all."
+de vries,"Hey, look; let's forget it.  There's nothing up here."
+urioste,I've dropped my torch into the water. Give me about... uh... a meter- and-a-half's worth of slack.
+diller,Annie!
+guttierez,The hell was that?
+kamen,"Kev, wha...?"
+parsons,Oh my God...
+hiroko,Move!  Get out of the way!
+hiroko,Get the door!
+hiroko,No!
+predator,No!
+thomas,"Come on, man.  Leave it alone."
+guttierez,"Oh, God.  Dear Lord Jesus..."
+de vries,"This is like a bad dream, man.  A bad fucking dream."
+hiroko,Rob?  I want you to evac everybody from the non-connective modules into admin. That goes double for anybody...
+hiroko,Are you okay?
+kamen,I'll survive.
+de vries,What's with the dog?
+guttierez,"Hey; c'mon now, girl.  It's alright.  Let's just get this knot undone..."
+kamen,Jan!
+de vries,"Get out of there, man!"
+thomas,Catch this!
+guttierez,Chew on this!
+guttierez,"Get your ass out of here, boss!"
+hiroko,Oh my God...
+cassie,Shit.
+guttierez,De Vries!
+thomas,"Yo' momma, boneface!"
+hiroko,What?
+kamen,"I'm out of ammo.  Get inside, get inside!"
+hiroko,They're in with the rhino!
+de vries,Jesus!
+parsons,Seal everything now!
+cassie,What's happening?
+parsons,"Cassie, thank Christ!  We're under attack."
+cassie,We're what!?
+york,The son-of-bitches got into 'E' wing! They're ripping it apart!
+parsons,Fuck!  Somebody get over there with some guns!  Now!
+cassie,How many of them are there?
+parsons,Too many.
+de vries,"Over there, on the right!"
+thomas,These bastards ain't so tough!
+thomas,Is that thing working?
+guttierez,Shit!  The casing's cracked!
+de vries,Use mine.  Channel twenty-six.
+de vries,"Hurry up and figure that thing out, man!"
+guttierez,What?
+thomas,We've got company!
+de vries,I'm jammed!
+thomas,You're what?!
+de vries,It's locked solid...
+thomas,"Quick, give me the clip!"
+hiroko,Holo on!
+kamen,Come on!
+hiroko,That's the wrong way!
+kamen,Detour.  Other way's blocked...
+de vries,You got any slugs left?
+guttierez,Yeah.  Uh...
+thomas,Yes!
+de vries,"Try again, man..."
+guttierez,"Matt!  Open these damn doors right now, I'll ream your ass so bad these things out here'll seem like the Easter Bunny in comparison!  Swear to God!"
+thomas,Open the doors!  Open the goddamned fucking doors!
+de vries,That's it!  We're dead!
+guttierez,Move!
+matt,"Close it up, close it up!"
+hiroko,Hurry it up.
+kamen,Don't wait for me!
+kamen,Run!
+york,Jesus Christ!
+hiroko,Cassie...!
+cassie,"It you don't... uh!... move your ass, you're gonna need a helluva diet to get through here!"
+york,"Hurry up, we're losing it!"
+cassie,Behind you!
+hiroko,Kamen!
+cassie,It's too late!
+hiroko,Nooooo!
+york,It's going!
+parsons,Miss Noguchi?
+hiroko,What's the story?
+parsons,"Everything on this module is locked and sealed.  We've lost 'B', 'C', and 'E' wings, but 'E' was the only one we didn't manage to totally evacuate."
+hiroko,How many... how many people are missing?
+cassie,"Unconfirmed reports of eighteen or so far, but the numbers are all over the place."
+hiroko,What's our weapons situation?
+driscoll,"Shit!  Our armory's a big blue box from the back shelf of stores.  We got about two clips left for an autoloader, and that's it."
+hiroko,Auto-shop?
+cassie,"Auto-shop's sealed, but those boys are cut-off."
+hiroko,Has anybody talked to them?
+cassie,Not yet.
+hiroko,Do it.
+driscoll,What the hell...?
+parsons,"Don't panic, people.  We've just switched over to internals."
+hiroko,They knocked out the external feeds.
+parsons,Looks like it.
+cassie,Thirty six hours?
+parsons,Give or take.
+cassie,"We're not gonna make it, are we?"
+hiroko,Get the auto-shop on-line.
+parsons,Communications to auto-shop go through an F.O. link off the main trunk. That's down with the other feeds.
+hiroko,Well... try the headset.
+matt,"I'm tellin' you, it's impossible.  Nothing can grow and reproduce this fast."
+thomas,Yeah.  Right.  You wanna go outside and tell them that?
+de vries,"What's keeping those fucking Marines, man? They should'a been here by now!"
+thomas,Maybe they ain't coming.  Maybe they don't even know we've got problems...
+guttierez,"I don't wanna hear that kind of crap, Thomas.  They're coming.  Just a matter of time, that's all..."
+grease monkey,Yo!  Guttierez!
+parsons,Through now.
+hiroko,"Jan, it's Hiroko.  What sort of shape are you in down there?"
+hiroko,"Kamen didn't make it, Jan."
+hiroko,Can you make it back?
+hiroko,What's that?
+cassie,"Oh, man..."
+hiroko,"Alright, let's keep calm.  We've got to have an option of some sort... there's got to be a way out of this."
+york,Oh yeah?  Like what?
+cassie,"Well, what about those other things outside; those warriors?  Maybe we can cut some kind of deal..."
+matt,"Well, it occurred to me that we could use the overhead crane to load the admin module onto the back of Big Bertha.  That way we could put a bit of distance..."
+hiroko,That sounds promising.  Can we operate the crane from here?
+driscoll,"Nah.  It's got programmable facilities, but it was never rigged for remote operation.  Someone'd have to go up to the cab to get it up and running."
+hiroko,Which mean physically going outside.
+driscoll,Yeah.
+hiroko,Is this the suit?
+driscoll,Uh-huh.
+york,This is fuckin' lunacy!  You're not gonna make it across the platform on foot!
+cassie,"Shut up, York."
+hiroko,"No, he's right.  Has anyone got a bike near here?"
+redheaded girl,I have.
+hiroko,Let me have the keys.
+redheaded girl,Uh... the Hyundai racer.  Yellow and black stripes.
+york,"Oh, yeah.  Real inconspicuous..."
+hiroko,"Listen, I don't care if it's pink and purple polka-dots as long as it gets me there in one piece.  Somebody loan me a headset."
+driscoll,"No, go back.  Second clasp from the bottom."
+hiroko,How much air-time have I got?
+cassie,"About thirty minutes.  Those are slimmed-down tanks, so no stopping to admire the scenery."
+hiroko,Deal.
+cassie,We've dumped the whole data-base from one of the cleaning remotes into the helmet. It'll project the route through the sewer system onto the inside of the glass as you go.
+driscoll,"Yeah, I stripped down a motion tracker and hardwired it through to the helmet pick-ups, too.  That's also on the display."
+hiroko,Sounds great.
+parsons,It's not all good news.  We had to take off the helmet lights.  You'll be going in blind.
+hiroko,What?  Why?
+driscoll,"We had to.  They were just too cumbersome for some of the conduits you're gonna have to negotiate.  Besides, all the crap floating around reduces visibility to the extent where I doubt having helmet lights would have make that much difference, anyway.  Maintenance lights down there oughta be enough to do the trick."
+hiroko,How tight are these shafts?
+cassie,Tight.  We chose a route we felt would reduce the chance of you running into any Aliens.
+parsons,There's still time to back-out.
+hiroko,Forget it.  I wouldn't ask somebody to do something I wouldn't do myself.  Where's the disk?
+parsons,Don't lose it.
+hiroko,Don't worry.  I won't.
+driscoll,"Here.  If you got to use 'em, make 'em count."
+hiroko,Thanks.
+parsons,Let's just run through it one more time so I know you've got it straight.
+hiroko,"Okay, I pull the access panel off of the console.  Insert the disk, and press the green enabling button..."
+hiroko,Sorry.  Two green enabling buttons...
+parsons,"Right.  When you've done that, don't waste any time getting out of there.  Once that crane starts moving...well, it's bound to provoke some kind of response."
+york,"You'll need this for the gratings. Trigger finger to operate, thumb button to switch over to the rivet gun.  The sensors'll choose blade or socket heads automatically."
+hiroko,"Right.      Okay, I'm set."
+parsons,"Alright, let's open her up.  Carefully, now..."
+cassie,All clear...
+hiroko,Okay.  Okay.
+cassie,Are you alright?
+parsons,What?  What's wrong?  What is it?
+hiroko,It's alright.  I'm okay.
+parsons,Seal it.
+york,"Suicide run, man.  Fuckin' suicide run."
+hiroko,"Thanks, Cassie."
+grease monkey,Okay.  Back.  Back.  Little bit more...
+guttierez,She just set off!
+matt,"Okay, people.  Let's hustle..."
+thomas,They're comin' up through the pit!
+de vries,Over there!
+thomas,Mother-fucker!
+hiroko,You betcha.
+parsons,What is it?
+girl,Auto-shop.
+guttierez,Rob?  We got problems.
+parsons,Where is she?
+cassie,Comin' up the Central Reservoir.
+parsons,Quick!  Run a trace on the culvert leading off the auto-shop maintenance pit.
+cassie,I found it...
+parsons,And?
+cassie,Drains right into the Central Reservoir.
+parsons,Get her on-line.  Now!
+hiroko,What was that?  I don't copy.
+cassie,I can't reach her.  Too much signal break-up.
+parsons,Keep trying!
+hiroko,Come on...
+hiroko,"Okay, I make it to the crane.  You..."
+parsons,"We copy, boss.  Nice going."
+hiroko,"Yeah, well don't get too carried away; we're only halfway home. Talk..."
+parsons,Driscoll; you're up.
+driscoll,I hear you...
+hiroko,Access panel... access panel...
+parsons,"Right.  Auto-shop, you all set?"
+hiroko,Alright.  Here we go...
+hiroko,"Okay, I'm out of here!"
+parsons,"Blow those suckers, Driscoll!"
+driscoll,Bolts blown!
+hiroko,No!
+guttierez,Shit!
+matt,"Yee-haa!  Demolition derby, baby!"
+de vries,Hotter 'n hell out there!
+parsons,"Okay, people.  Hold on tight..."
+guttierez,"Take the wheel, Roy!"
+de vries,"C'mon, man!  Let's shag it!"
+hiroko,"Rob, it's Hiroko.  Come in."
+cassie,"Hiroko, it's Cassie.  What's..."
+cassie,But...
+hiroko,No 'buts'.  Just do it.  Noguchi out.
+de vries,Nice buns...
+guttierez,Can you handle it?
+de vries,Piece of cake.
+guttierez,"Move it baby, or they're gonna be chewin' on my cojones!"
+de vries,Couple more seconds!
+de vries,That's it!  We've got it!  Get us out of here.
+guttierez,C'mon sweetheart.  Do your stuff...
+guttierez,Get down!
+hiroko,"Look.  Don't take this the wrong way, but when I imagined the cavalry coming to my rescue... they never looked like you."
+kamen,Hiroko...
+hiroko,What can I do?
+kamen,I can... feel it moving around inside me. You've got to kill me.
+hiroko,I... I can't!
+kamen,You have to...
+hiroko,No!
+hiroko,Come on!  Come on!
+hiroko,"If you don't move your ugly butt, we're gonna end up barbecued!  Come on!"
+hiroko,"Okay, Butch.  I can play cavalry, too..."
+hiroko,C'mon!  Jump!
+hiroko,Shit!
+hiroko,Watch your shots!  If you hit the engine you'll blow us both to hell!
+broken tusk,Chew...on...this...!
+matt,Holy shit!
+hiroko,We've lost the starboard engine!  We're going down!  Hold on!
+hiroko,We've gotta get you out of here.
+broken tusk,Not...a pretty...sight...
+hiroko,Yeah.  Why not.

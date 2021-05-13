@@ -1,0 +1,238 @@
+Speaker,Dialogue
+azul, Moco... What the hell do you want after all these years?
+moco," We've got a lot to talk about. I'm just a few town away with a whole new gang. I heard you were nearby so I thought I'd give you a call, amigo."
+moco," Yes, I figured you'd want your money, my friend. That is why I have called you. I heard you were getting out soon, and figured I should deal with our situation. But do you really need me to help you get out? From what I hear, you're running quite a business out of your cell with a phone and some loyal men. It keeps you well protected I hear. Not a bad idea. I may try that myself sometime."
+3.,CONTINUED:
+moco," Soon my friend, soon. I'm sending you some people in a few days to get you."
+moco, Just hang in there my friend. I won't forget that you have been a big part of our success. What's wrong.
+azul," There's something going on outside. Is this a double surprise? Are you getting me out today, Moco?"
+azul, There are two men here with guns. Did you send them?
+azul," I'm still here, Moco. And so are your little friends. But not for long. They have something they want to scream to you. Listen close, because you're going to repeat it to me when I come to visit you."
+6.,CONTINUED:
+bartender,What do you want to drink?
+mariachi,Refresco.
+bartender, Why?
+mariachi,"I'm a mariachi. A good one. I play beautiful ballads, old classic ballads, on an old-fashioned guitar."
+bartender,So what?
+mariachi,"I could add a little class to this place. I work for fairly cheap, I live mostly off tips. But I need steady work, and I can guarantee bringing in more customers."
+bartender," Tell me, why would I need one little guitar player when I've already got a full band?"
+mariachi," Thank you, sir."
+bartender,You want to earn a living? Get a real musical instrument.
+bartender," What the hell is this, mariachi day? There is no work for you here!"
+azul,Bartender... one beer.
+bartender,Ready.
+azul,I'm looking for an old friend of mine. His name is... Moco. Do you know where I can find him.
+azul,So you know him?
+azul,That's too bad.
+10.,CONTINUED:
+bartender, Get me Moco!!!
+viejo clerk, Take it.
+viejo clerk,"Yeah, pit bull."
+viejo clerk,"Callate, hombre!!!"
+14.,CONTINUED:
+viejo clerk," And if I don't call, you'll kill me..."
+mean dude, No. I won't kill you... he will...
+mariachi,Pit bull.
+15.,CONTINUED:
+viejo clerk,"Yeah, pit bull."
+mariachi,"I need a cheap room for a week, and I'd prefer to pay you in a few days, after I've found some work."
+viejo clerk,"S, later..."
+mariachi,Thank you...
+viejo clerk," Uh, excuse me seor? I forgot, I need a small deposit..."
+mariachi, You can trust me.
+viejo clerk,"I am very sorry, seor. But... how much can you spare?"
+mariachi, I've only got a few pesos... I plan on finding work in town.
+viejo clerk," Oh, that's enough for now, sir, thank you and... enjoy your stay."
+16.,CONTINUED: 
+17.,CONTINUED:
+viejo clerk,"127!!! Cuarto 127, pendejos!!!"
+mariachi's pov,"As camera nears the door, doorknob starts to move. Remembering that he never locked the door, he jumps to the side of the door as..."
+mariachi," Cuidado, viejo!"
+viejo clerk, Pendejos!!!
+domino,"What happened to you, Mariachi? Too much refresco?"
+mariachi,I just killed four guys.
+domino,Is it true?
+mariachi, Wait a minute... what's your name?
+domino,Domino.
+mariachi,"Wait a minute, Domino! It was self- defense."
+domino, Thieves?
+mariachi," No way. They were well-dressed men. I checked into the cheapest hotel in town, no money, nothing of value, except this guitar and maybe this coat, which they could have taken when I left my room, but they didn't. They were only interested in killing me."
+domino, So why do you come here? You want to get me killed?
+mariachi,I need a place to stay until I figure this out. They've got me mixed up with someone else.
+domino,And you've never seen them before? Not even in another town?
+mariachi," Are you saying they followed me, a mariachi, here? What for?"
+domino,Maybe they hate your music.
+mariachi,Are you serious?
+domino, Yes.
+mariachi,"Are you going to help me, or am I gonna have to die on your porch?"
+domino,I have a room upstairs. My room. Don't touch anything. I'll be up after awhile and we can call a friend of mine.
+mariachi,Thank you. I'll never forget this.
+domino,This way.
+24.,CONTINUED:
+domino,What happened?
+domino,This is a border town. I get strangers all the time.
+domino,No.
+domino,Aren't you gonna call your boss?
+domino,Que paso
+domino,Maybe he loves his guitar. It's probably an antique.
+26.,CONTINUED:
+domino, I thought I told you not to touch anything.
+mariachi,Sorry. I needed to relax. I can...
+domino," No, it's alright, Finish up. Do you want shampoo?"
+mariachi," Yes, please."
+domino,Who are you?!
+mariachi, I'm a musician!
+domino,What do you have in here? GUNS? KNIVES?
+mariachi,No! My guitar!
+domino,We'll see...
+mariachi, I'm a mariachi...
+mariachi,... not a murderer...
+domino,Aren't you going to watch?
+28.,CONTINUED:
+mariachi,I told you... I am a musician.
+domino,Play it.
+mariachi, W...w...what?
+domino,"Play it, damnit, play something sweet!!!"
+mariachi," What is this place? That treats me like a murderer? They've all got their heads up their butts... Even this beautiful girl, With a knife to my balls, Should I kiss her or hit her... Or both?"
+domino,"You're a mariachi, all right. And a good one."
+mariachi,I think this is the best I've ever played. You... inspired me.
+domino,I couldn't pay you. I have no money.
+mariachi,This fancy place and you have no money?
+domino,It's the truth.
+mariachi,"I'll work for room and board, then. Please, I'm desperate."
+domino, Will I have to keep a knife at your balls to get you to play like that?
+mariachi, Not if you're paying me room and board. Please... until I find a permanent job.
+domino, You won't find a permanent job in this town... but OK.
+azul, Yeah.
+moco, Amigo! I'm glad I've reached you! You've not answered all day. Killing ten of my men must have been very time consuming!
+azul, Six.
+moco, What?
+azul," I've only killed six! You were always bad at math, Moco. I guess that's why you never paid me half of the money. You thought it all belonged to you."
+moco," I knew half was yours... I got greedy, my friend. It's my nature. But you!!! You are modest! You've killed ten of my men!! I know, because I'm having them buried in my yard right now. With my dogs and cats."
+azul, I killed six. But don't bother counting so soon. The number will triple by tomorrow.
+moco, I'm sorry things turned out this way. My friend. I got greedy. I should never have tried to kill you. It would have been cheaper for me to pay you. Now I've got to find ten new men.
+azul, Six.
+moco, Ten.
+azul," I tell you what. You give me my money, and I won't kill any more of your men... And I won't kill you."
+moco," No, it's too late for that. We're going to have to see this through."
+azul, Just like the Moco I used to know. Still wearing white?
+moco, What do you think?
+azul, I think you should change clothes. I'd hate to ruin a white suit with your stupid blood.
+mariachi,I need to get my money back from that hotel. I'll be right back.
+domino,Are you crazy? If you go anywhere with that jacket and that case you could be killed. Leave that stuff here.
+33.,CONTINUED:
+mariachi,I never go anywhere without it. Take care of it.
+domino, Hi. It's Domino.
+moco, I know who it is...
+34.,CONTINUED:
+assistant,Can I get something to drink or eat?
+azul,One beer.
+assistant, Sorry.
+azul, Isn't there a girl that works here?
+assistant,"Yeah, she owns the place."
+35.,"CONTINUED: AZUL  She owns it, now? Then she is Moco's girl?"
+assistant, So-so. She's onto this new musician.
+azul,Thank you.
+mariachi,I just saw a guy with a guitar case like mine. It's him they want.
+domino, Did he say anything?
+assistant," No, he just ordered a drink."
+mariachi,I don't look anything like him...
+azul,My guitar.
+azul, Yes.
+37.,CONTINUED:
+domino,"Look, as long as you don't carry the case around, they'll leave you alone. It's that guy they're after."
+mariachi, I better put this upstairs...
+domino,What's wrong?
+azul,You thought I could defend myself...
+azul,... against three armed men...
+azul,... using this?
+40.,CONTINUED:
+azul,"He's dead by now... So, I want you to go look for my case."
+azul, Are you loyal?
+azul,Then shoot him.
+azul,Why not?
+azul,Very good. Now go find my case.
+mariachi,Where were you when he came into the bar?
+domino,"I was on the phone, talking to a friend that knows what's going on."
+mariachi,Did you mention me?
+domino,No... He told me the man in black is Azul.
+mariachi,"If his name is Azul, why doesn't he wear blue?"
+domino,"I don't know... Anyway, he's killing the men of the town drug dealer. The dealer's name is Mauricio. But he's known as Moco."
+mariachi,"And Moco is sending these men to find Azul. So, why do they chase me?"
+domino,"They have never seen Azul... only Moco knows him. My friend says the description Moco gave his men was that he wears black, and carries a guitar case. Sounds like you, no?"
+mariachi,"Couldn't you tell your friend that there are two people like that in his town? One is a killer, and one is a mariachi."
+domino,"Only special people can talk to Moco. Besides, you've killed a few of his men, now. Your best option is to keep out of sight, stop wearing black, and to hide that stupid case until this is all over."
+mariachi,"Are you always closed Monday nights, or did you close since I can't play my guitar tonight?"
+domino,Mondays are my day off. Want to play a game?
+mariachi,Sure.
+domino, Hello?
+moco, Come see me.
+domino, I can't.
+moco, Please.
+domino, I don't feel well. I've got to go.
+moco, Have you ridden the bike?
+domino, No... I've got to go...
+mariachi,Boyfriend.
+domino, No...
+mariachi,I can't figure out something. You tell me you're poor. Poor family. Yet you've got this place.
+domino, This place is a gift.
+mariachi,From who?
+domino,From Mauricio.
+mariachi,From Mauricio? The man trying to kill me?
+domino,"He's not trying to kill you, his man had you confused with Azul."
+mariachi,Same thing.
+domino,"Look, you now how if you want to impress a girl, you send her flowers, candy, jewelry until you win her love?"
+mariachi,Yes.
+domino,"If one present doesn't work, you keep sending bigger and better things until you win her or you're broke?"
+mariachi,Correct...
+domino,"Well, Mauricio sent me flowers, then jewelry, then he gave me a job at his saloon, then he gave me the whole saloon... etc."
+mariachi,He's still giving you things?
+domino,He'll never run out of money.
+mariachi,And you accept it all? What's the last thing he sent you?
+domino,A motorcycle.
+mariachi,Is he?
+domino, He was.
+mariachi,"So, you really are from a poor family."
+domino," I remember when I was growing up, we were so poor, that my brothers and sisters and I all slept on the same blanket stretched out across the floor. We had to sleep in a circle, with our fingers in each other's ears, to keep the bugs from crawling into them."
+mariachi," Ay, wey..."
+domino,Here's a little bit I've saved. I want you to go get a new guitar.
+loco, He got in my truck.
+moco,That's not him.
+azul,Where's my case?
+azul,They caught the mariachi.
+domino,What can I get you?
+azul,One beer.
+domino,Anything else?
+azul, My guitar case.
+domino,Where's Mariachi?
+azul,Where's my case?
+domino,Upstairs.
+50.,CONTINUED:
+azul,Get it.
+domino,Why will you help me?
+azul,Because you know where Moco's ranch is... I don't.
+domino,Let's go.
+domino, Mauricio!!
+azul,Play along...
+moco," I'm sorry he used you to get to me, Domino."
+azul,"Moco, give me my money or I ruin your clothes with her blood."
+domino,What have you done with Mariachi?
+moco,Who?
+domino,The musician your men confused with Azul.
+moco, So that's why you were busy that night...
+azul,Give me my money or I kill her NOW!!!
+moco,"After all I've done for you, this is how you treat me?"
+domino,I never asked you for anything until now. Let Mariachi go.
+52.,CONTINUED: 
+azul,I swear I'll kill her!
+moco,No you won't. I will.
+azul,All I wanted was my rightful share. But you've got to kill everybody.
+moco,"You feel sorry for her, don't you? See, that's why you can't ever be as big as me."
+mariachi,Stop here.
+mariachi,Domino!!! We're leaving!!! Right now!!!
+assistant,She's gone.
+mariachi,Where is she?
+assistant,Looking for you.
+moco,Bring that musician out here so he can be reunited with my Domino.
+men,"He's gone, sir."
+moco,Find him!!
