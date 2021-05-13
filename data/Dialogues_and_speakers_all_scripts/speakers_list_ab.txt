@@ -1,0 +1,3741 @@
+****Speakers from script :Artist.txt****
+
+****Speakers from script :As_Good_As_It_Gets.txt****
+
+melvin
+simon
+frank
+party goer
+handyman
+carol
+mother
+woman
+lisa
+man
+young man
+beverly
+spencer
+evan
+doug
+carl
+vincent
+ray
+jackie
+female passersby
+doctor
+cheryl
+manager
+busboy
+school kids
+female executive
+zoe
+nurse
+nora
+sean
+veterinarian
+valet
+head waiter
+salesman
+startled waiter
+parents' voice
+****Speakers from script :Assassins.txt****
+
+ketcham
+rath
+escort
+leevio
+bain
+cop
+electra
+cabby
+akira
+bellboy
+jennifer
+teller
+official
+telescopic sight
+inside closet
+****Speakers from script :Assignment.txt****
+
+written by
+carlos
+colette
+du foltiere
+jack
+receptionist
+koj
+mickena
+amos
+ramirez
+yoni
+scott
+monroe
+joey
+maura
+yolanda
+naval aide
+crawford
+scowcroft
+father
+ramirez's father
+carla
+kgb aide
+agnieska
+official
+voice
+vladimir
+nikolai
+aide
+phone voice
+frank
+tyler
+captain
+ivan
+andrei
+technician
+blonde
+postman
+mendoza
+doctor
+****Speakers from script :At_First_Sight.txt****
+
+amy
+caroline
+woman's voice
+virgil's voice
+susan
+virgil
+tommy
+carl
+jennie
+nancy
+duncan
+betsy
+aaron
+webster
+kevin
+****Speakers from script :August__Osage_County.txt****
+
+beverly
+johnna
+violet
+jean
+barbara
+ivy
+mattie fae
+charlie
+bill
+viloet
+sheriff
+karen
+steve
+little charles
+*
+****Speakers from script :Austin_Powers_-_International_Man_of_Mystery.txt****
+
+austin
+supermodel 1
+supermodel 2
+supermodel 3
+basil exposition
+mick jagger
+andy warhol
+queen
+everyone
+radar operator
+commander gilmour
+radar screen
+command gilmour
+borschevsky
+female announcer
+vanessa
+clerk
+flight attendant
+flght attendant
+computer voice
+pilot
+mustafa
+frau farbissina
+number two
+scott evil
+ausitn
+dealer
+italian woman
+texan
+alotta
+evil associates
+basil expositon
+basil exposiion
+son 1
+dad 1
+therapist
+group
+austtin
+tour guide
+guard
+scientist
+announcer
+billy
+guy 1
+guy 2
+guy 3
+waitress
+guys
+fembot
+roger moore
+indian ausitn
+indian austin
+****Speakers from script :Austin_Powers_-_The_Spy_Who_Shagged_Me.txt****
+
+narrator
+vanessa
+austin
+fembot vanessa
+bobby
+klansman
+jerry springer
+scott
+number two
+frau
+oedipus
+british colonel
+fat soldier
+basil exposition
+reg
+supermodels
+cindy
+rebecca
+model
+ivana
+nurse
+everyone
+felicity
+assassin
+guru pitka
+disciples
+fat bastard
+pregnant woman
+ricardo
+chick
+london cop
+eskimo
+viking
+zeus guy
+artie johnson
+girl
+robin swallows
+president
+operator
+colonel
+pilot
+man
+woman
+sergeant
+umpire
+radar operator
+guard
+astronaut
+mission commander
+david soul
+james cameron
+doctor
+chinese teacher
+chinese student
+rachel hunter
+rod stewart
+captain peters
+****Speakers from script :Authors_Anonymous.txt****
+
+july 14 2012
+alan
+colette
+hannah
+john
+william
+henry
+maureen
+sigrid
+david
+eudora
+all
+clerk
+richard
+lois
+woman's voice
+children
+****Speakers from script :Autumn_in_New_York.txt****
+
+wills
+woman
+charlotte
+raspy voice
+all
+tanya
+jesus
+melissa
+celia
+john
+simon
+shannon
+woman's voice
+dolly
+olivia
+sarah
+kids' voices
+driver
+doorman
+michael
+lisa
+sibley
+john's voice
+charlotte's voice
+molly
+carla
+wendy
+patty
+new hostess
+boy's voice
+eric
+hari
+little man
+choirmaster
+henry
+grandy
+male voice
+nurse's voice
+****Speakers from script :Avatar.txt****
+
+perky newscaster
+jake
+agent 1
+agent 2
+med tech
+crew chief
+wainfleet
+fike
+quaritch
+norm
+max
+grace
+selfridge
+tech
+troopers
+trudy
+mechanic
+neytiri
+eytukan
+operator
+supervisor
+tsutey
+gunner
+guard
+trooper
+crowd
+pilot
+gunship pilot
+****Speakers from script :Avengers.txt****
+
+nick fury
+selvig
+clint barton
+loki
+luchkov
+natasha
+weaselly thug
+attending woman
+little girl
+banner
+shield scientist
+steve
+tony
+pepper potts
+pepper
+jarvis
+pilot
+the other
+captain america
+iron man
+thor
+intercuts
+steve tony
+natasha banner
+tony steve
+barton
+galaga player
+helmsman
+security guard
+montage
+hawkeye
+black widow
+young cop
+police sergeant
+senator boynton
+waitress
+****Speakers from script :Avventura.txt****
+
+anna
+old man
+raimondo
+sandro
+giulia
+patrizia
+claudia
+corrado
+marshal
+carabiniere
+frogman
+elderly gentleman
+voices
+gentleman
+attendant
+lieutenant
+sergeant
+princess
+ettore
+other voices
+newspaperman
+manager
+girl
+zuria
+lady amalia
+wife
+husband
+driver
+assistant
+man
+coachman
+custodian
+hotel manager
+****Speakers from script :Awakenings.txt****
+
+4.
+5.
+kaufman
+director
+v
+16
+miss costello
+rev. 10/13/89   p. 17
+28
+rev. 10/13/89   p.19
+41
+rev. 10/13/83   p.26
+rev. 10/13/89 p.28
+mann
+rev. 10.13/89 p.33
+rev. 10/13/89   p.34
+52
+54
+margaret
+rev. 10/13/89   p.40
+rev. 10/13/89 p."
+rev. 10/13/89 p.41a
+rev. 10/13/89   p.47
+79
+rsv. 10/13/89   p.48
+9
+93.
+95
+rev. 10/13/89 p.53
+97.
+re v. 10 /1 3/ 89   p .54
+rev. 10/13/89 p.55a
+109
+r!v. 10/13/89   p.58
+rev. 10/13/89   p.59
+113.
+rev. 10/13/89 p.60
+rev.10/13/89    p.61
+sayer
+118.
+ry
+122.
+mag da
+nur se
+f rancis
+xu/ os > vau.bl>nkud           pg.6
+f123b.cont.                              ,                      123b
+124-12
+132
+leonard
+134.
+138a.
+142
+143
+160.
+,. 164
+166.
+172.
+192. *
+lucy
+paula
+oq
+3
+o
+sa yer
+219.
+****Speakers from script :Babel.txt****
+
+hassan
+abdullah
+ahmed
+yasira
+yussef
+amelia
+mike
+debbie
+lucia
+santiago
+anwar
+richard
+susan
+waiter
+boys
+chieko
+referee
+teammate
+teammate 1
+teammate 2
+yasujiro
+hostess
+mitsu
+young man
+zora
+comadre 1
+luis
+lucio
+daughter 1
+daughter 2
+old man
+barth
+anwar's grandmother
+douglas
+tom
+lilly
+james
+elyse
+rachel
+mohammed
+sheik
+receptionist
+dentist
+hamano
+doorman
+kenji
+alarid
+policeman voice
+wife
+police officer
+mother
+patricia
+madre
+doctor
+friend 1
+friend 2
+friend 3
+jane
+driver
+walter
+kumiko
+haruki
+takeshi
+cop
+jacinto
+guitar player
+officer
+policeman
+john
+eliseo
+tendero
+ken
+reporter
+moroccan doctor
+bartender
+****Speakers from script :Bachelor_Party.txt****
+
+helen
+charlie
+helen's voice
+charlie's voice
+kenneth
+young fellow
+girl
+walter
+eddie
+evelyn
+eddie's voice
+arnold
+the existentialist
+the hostess
+julie
+young man
+the woman
+man's voice
+hostess
+young chap
+bartender
+arnold's voice
+bar hag
+****Speakers from script :Back-up_Plan.txt****
+
+zoe
+bobby
+mona
+pregnant women
+woman
+stan
+jalisa
+carol
+everyone
+lori
+sara
+dakota
+olivia
+fred
+pregnant woman
+annie
+arthur
+nana
+shirley
+edward
+joan
+tabitha
+twin toddlers
+chef
+cashier
+midwife
+jessie
+customer
+old man
+cabbie
+****Speakers from script :Backdraft.txt****
+
+older kid
+younger kid
+stephen
+brian
+dennis
+axe
+engineer
+chief fitzgerald
+tim
+candidate
+willy
+jennifer
+driver
+shadow
+coroner driver
+kid
+helen
+sean
+schmidt
+grindle
+schmidt's voice
+santos
+nightengale
+pengelly
+paramedic
+swayzak
+reporter
+company
+sally
+date
+jackson
+woman
+washington
+mother
+battalion chief
+secretary's voice
+ronald
+man
+woman psychiatrist
+engine lt
+ricco
+rimgale's voice
+security guard
+voice
+repairman
+captain
+****Speakers from script :Bad_Boys.txt****
+
+bad boys
+rear
+3.
+4.
+burnett
+5.
+6.
+fouchet
+7.
+theresa
+13.
+16.
+lowrey
+lois
+max
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+36.
+julie
+42.
+chet
+43.
+44.
+45.
+47.
+48.
+on fouchet
+55.
+56.
+63.
+woman
+noah
+kids
+lowrey's gun
+car
+86.
+casper
+howard's office
+sanchez
+jojo
+95.
+104.
+howard
+105.
+106.
+107.
+108.
+109.
+francine
+110.
+111.
+buyer
+on julie
+112.
+113.
+114.
+115.
+116.
+117.
+burnett kids
+****Speakers from script :Bad_Country.txt****
+
+grace
+bud
+newscaster
+ray
+shepard
+cobb
+marandino
+sherry
+dissolve to:
+lynn
+jesse
+braddock
+charlie
+murphy
+catfish
+czapp
+roach
+duty guard
+judge ponder
+kiersey
+district attorney
+man's voice
+fitch
+waitress
+dea
+secret service
+nokes
+buzz
+male voice
+morris
+lucian
+naseem
+a voice
+doctor
+tom
+bartender
+police officer
+tattoo artist
+jacket
+security guard
+mills
+bingham
+****Speakers from script :Bad_Day_at_Black_Rock.txt****
+
+hastings
+conductor
+macreedy
+coley
+hector
+pete
+doc
+sam
+smith
+tim
+liz
+krool
+murtry
+bentham
+lenard
+smith's voice
+****Speakers from script :Bad_Dreams.txt****
+
+****Speakers from script :Bad_Lieutenant.txt****
+
+lt
+twins
+twin
+bet cop
+cop one
+cop two
+lite
+businessman
+jc
+ariane
+cop
+korean owner
+ancient aunt
+veronica
+sergeant
+first cop
+second cop
+third cop
+nurse
+doctor
+jersey girl
+girl
+cop 1
+elderly nun
+cop 2
+monsignor
+nun
+priest
+mob voice
+large
+jesus
+fence
+street dealer
+julio
+paolo
+****Speakers from script :Bad_Santa.txt****
+
+trainer
+mother
+older child
+photo elf
+mom
+santa
+bratty kid
+security guard
+willie
+marcus
+lois
+stripper
+chipeska
+harrison
+kid
+little girl
+boy
+troublemaker
+sue
+grandma
+gin
+opal
+saleswoman
+salesman
+woman
+jesse
+guard
+prisoner
+voices
+voice
+child
+megaphone voice
+chief
+police voice
+cop
+****Speakers from script :Bad_Teacher.txt****
+
+principal snur
+sandy
+amy
+elizabeth
+angle on
+janitor
+mark
+mark sheila
+amy's classroom
+lynn
+chase
+tristan
+sasha
+garrett
+scott
+close on
+danni
+kirk
+school secretary
+mother
+dad
+sasha's mother
+chris' dad
+chase's mom
+melody
+homeless guy
+sandy scott
+shawn
+spencer
+elizabeth's pov
+frat guy
+tucker
+carl
+kids
+maintenance guy
+tour guide
+john
+reporter
+detective
+sheila
+sergeant
+superintendent
+****Speakers from script :Badlands.txt****
+
+kit
+cato
+bum
+holly
+father
+clerk
+boy
+girl
+rich man
+visitor
+roughneck
+attendant
+sheriff
+deputy
+mechanic
+guardsman
+chief
+trooper
+****Speakers from script :Bamboozled.txt****
+
+cheeba
+delacroix
+manray
+marie
+dunwitty
+joan
+fish
+sloan
+police chief
+big black
+mantan
+double black
+mo black
+jo black
+smooth black
+hard black
+orchid
+jessica
+mona
+beth
+seth
+david
+anna
+kirk
+aaron
+peter
+jeff
+lulu
+ruth
+black black
+jukka
+verna
+both
+junebug
+man
+dot
+honeycutt
+audience
+massa charlie
+timmy hillnigger
+reporter
+president clinton
+myrna
+gary byrd
+pikcaninninies
+alec baldwin
+woody harrelson
+tavis smiley
+bobby
+louise
+tre
+stacy
+bunning
+fbi agent
+barnett
+****Speakers from script :Barry_Lyndon.txt****
+
+roderick
+dorothy
+orderly
+captain best
+michael
+captain grogan
+maid
+uncle
+aunt
+harry
+mother
+the seconds
+armed gentleman
+footman
+councillor mulligan
+captain
+lakenham
+private
+lischen
+captain galgenstein
+colonel bulow
+prussian sergeant
+minister galgenstein
+chevalier
+prince
+prussian officer
+landlord
+chambermaid
+valdez
+langeac
+count
+dascher
+another officer
+stranger
+sir william
+countess
+voice
+brookside
+lord west
+george iii
+johnson
+boswell
+goldsmith
+henri
+patrick
+broker
+hunt
+valet
+newcombe
+tapewell
+narrator
+****Speakers from script :Barton_Fink.txt****
+
+barton fink
+actor
+actress
+maury
+older man
+lily
+fink
+man
+barton
+poppy
+richard
+derek
+garland
+clerk
+elevator man
+voice
+lipnik
+lou
+charlie
+executive
+secretary
+geisler
+mayhew
+woman
+audrey
+mayhew's voice
+clapper
+wrestler
+referee
+pete
+policeman
+mastrionotti
+deutsch
+girl
+sailor
+voices
+operator
+beauty
+****Speakers from script :Basic.txt****
+
+first draft
+2.
+pilot
+styles
+bigger man
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+hardy
+dunbar
+west
+the cadets
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+kendall
+pike
+mueller
+nunez
+30.
+31.
+32.
+33.
+childs
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+osborne
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+nurse
+doctor
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+jag lawyer
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+****Speakers from script :Basic_Instinct.txt****
+
+gus
+nick
+harrigan
+the maid
+the woman
+roxy
+catherine
+beth
+andrews
+talcott
+corrigan
+the examiner
+the bartender
+nilsen
+receptionist
+hazel
+campus cop
+one woman
+detective
+captain talcott
+a voice
+****Speakers from script :Basquiat.txt****
+
+waitress
+basquiat
+benny
+rene
+gina
+customer
+leshko
+matilde
+bum
+voice
+chris
+landlady
+greg
+mary boone
+albert milo
+close on
+bruno
+andy warhol
+rockets
+henry
+annina nosei
+cynthia kruger
+tom kruger
+counterman
+big pink
+man
+woman
+nora
+father
+photographer
+esther milo
+jack milo
+driver
+interviewer
+george
+young executive
+angle on
+frank
+insert
+brunette
+blonde
+christine
+toxic
+rammellzee
+kid
+the sea
+shenge
+maria
+ellen
+stella
+male voice
+angle up
+guard
+street sounds
+clerk
+****Speakers from script :Batman.txt****
+
+first draft
+mom
+dad
+jimmy
+voice
+derelict
+street punk
+nick
+eddie
+batman
+dent
+jack napier
+alicia
+jack
+medic
+eckhardt
+patrolman
+knox
+colleague
+vicki
+grissom
+lieutenant
+alfred
+gordon
+bruce wayne
+bruce
+safecracker
+hood ii
+cop
+jack's voice
+miranda
+doctor
+kid
+joker
+copy boy
+doorman
+gang boss
+racketeer
+rotelli
+crimelord
+anchorwoman
+claire
+tony
+patsy
+dave
+director
+technician
+anchorman
+waiter
+computer
+goon
+goon ii
+goon iii
+goon iv
+wailing colleague
+financier
+adviser
+politico
+news anchor
+reporter ii
+mayor
+delivery boy
+driver
+emcee
+pilot
+dick
+reporter
+dispatcher
+governor gilroy
+****Speakers from script :Batman_2.txt****
+
+****Speakers from script :Battle__Los_Angeles.txt****
+
+five marines
+anna
+cherise
+psychiatrist
+captain
+the marines
+televisions
+adukwu
+marine
+michele
+crewman
+crew chief
+amy
+rincon
+hector
+kirsten
+nantz
+sgt nantz
+marines
+****Speakers from script :Battle_of_Algiers.txt****
+
+marc
+paras
+other paras
+voices paras
+speaker
+woman
+condemned man
+political prisoners
+women
+ali
+madam
+assistant commissioner
+employee
+officer
+varied voices
+algerian
+children
+servant
+bernadette
+arnaud
+friend
+hassiba
+zohra
+soldier
+second soldier
+man
+child
+waiter
+cashier
+commissioner
+policeman
+youth
+mathieu
+general
+voices
+loudspeaker
+para's voices
+a journalist
+first journalist
+sergeant
+algerian voice
+para
+mourad
+kader
+sadek
+mahmoud
+journalist
+****Speakers from script :Battle_of_Shaker_Heights.txt****
+
+written by
+kelly
+german officer
+infantryman
+gi
+bart
+crowd
+abe
+mao
+eve
+sarah
+woman
+lance
+bridget
+holmstead
+tabby
+skinny guy
+skinny
+addict
+girl
+neighbor
+lance's mom
+secretary
+student 1
+student 2
+minnie
+miner
+harrison
+mathilda
+principal
+charlie
+director
+makeup artist
+audience kid
+****Speakers from script :Beach.txt****
+
+****Speakers from script :Bean.txt****
+
+gareth
+cut to:
+lord walton
+hubert
+guard
+george
+vincent
+suit man
+sir rupert
+miss hutchinson
+programmer
+bean
+grierson
+bernie
+9
+mix through to:
+david
+charles
+alison
+kevin
+old lady
+jennifer
+cop 1
+brutus
+stingo
+cab driver
+33
+annie
+thomas grierson
+robber
+elmer
+elevator voice
+thin woman
+63
+reynolds
+89
+doctor 1
+nurse
+doctor jacobson
+nurse 2
+assistant
+doctor 2
+doctor
+103
+hospital porter
+105
+cleaner
+****Speakers from script :Beasts_of_No_Nation.txt****
+
+may 8th, 2014
+agu
+dike
+village constable
+villager constable
+2nd lieutenant
+big brother
+old woman
+father
+mother
+pastor
+man #4
+paramount chief
+linguist
+driver
+man
+man #2
+man #3
+sergeant
+voice
+commandant
+two-i-c
+ndf sbu
+rambo
+hope
+chicken legs
+ndf cook
+preacher
+griot
+ndf soldiers
+chief priest
+army corporal
+aide
+cso
+voices whisper
+woman
+deputy
+goodblood
+tripod
+madame
+young girl
+girl
+men
+father friday
+amy
+****Speakers from script :Beasts_of_the_Southern_Wild.txt****
+
+wink
+hushpuppy
+woman's voice
+miss bathsheba
+marietta's voice
+boy
+little jo
+walrus
+everybody
+jean battiste
+everyone
+pilot
+evacuator 2
+babysitter
+orderly
+sergeant major
+miss frankie
+cook
+****Speakers from script :Beauty_and_the_Beast.txt****
+
+august 10, 2016
+diva
+belle
+villagers
+vagrant
+jean
+nasty headmaster
+little girls
+clothilde
+pere robert
+gaston
+lefou
+village lasses
+all
+village men
+maurice
+washer girl
+chip
+lumire
+cogsworth
+the beast
+plumette
+garderobe
+tavern keeper
+cuisinir
+cadenza
+chandelier candlesticks
+agathe
+tom
+dick
+mob
+castle staff
+****Speakers from script :Beavis_and_Butt-head_Do_America.txt****
+
+****Speakers from script :Beginners.txt****
+
+andy
+oliver
+hal
+arthur subtitle
+nurse
+georgia
+liz
+elliott
+shauna
+female partier
+partier
+int kitchen
+anna
+doctor long
+strict nurse
+everyone
+young oliver
+security guard
+old man
+party guest
+manager
+anne
+fancy woman
+older woman
+juan
+various locations
+****Speakers from script :Being_Human.txt****
+
+january, 1992
+being human
+hector
+deirdre
+girl
+leader
+priest
+stallholder
+julian
+lucinnius
+hermas
+figure
+thalia
+man
+gallus
+solus
+slave
+visitor
+captain
+crewman
+nun
+driver
+beatrice
+soldier
+andre
+sailor
+dom paulo
+francisco
+salgado
+young deserter
+deserter
+alvarez
+nuno
+officer
+da cunha
+dias
+father diogo
+ursula
+bobby
+cameraman
+detective
+santiago
+son
+policeman
+boris
+anna
+janet
+betsy
+thomas
+****Speakers from script :Being_John_Malkovich.txt****
+
+lotte
+craig
+tv announcer
+floris
+lester
+wendy
+don
+mertin
+tiny woman
+maxine
+parrot
+peter
+gloria
+white
+cabbie
+malkovich
+guy
+erroll
+neighbor
+kevin bacon
+fat man
+girl malkovich
+waiter malkovich
+singing malkovich
+motorist
+safari man
+agent
+director
+flemmer
+usher
+mantini
+audience member
+actual truman
+crowd
+****Speakers from script :Being_There.txt****
+
+louise
+chance
+hayes
+franklin
+abbaz
+policeman
+david
+jeffrey
+eve
+wilson
+rand
+allenby
+billings
+smythe
+woltz
+president
+kaufman
+jennifer
+kinney
+courtney
+hull
+colson
+dupont
+johanna
+perkins
+tv reporter
+watson
+sophie
+skrapinov
+stiegler
+monroe
+townsend
+dennis
+first lady
+dennis' voice
+****Speakers from script :Believer.txt****
+
+2000
+rav zingesser
+avi
+woman's voice
+danny
+billings
+carleton
+voice
+curtis
+guy danielsen
+old coot
+carla
+voices
+lina
+linda
+father
+guy
+whit
+kyle
+various voices
+carla's voice
+first waiter
+steve
+judge
+rumanian woman
+hate counselor
+polish man
+ancient jew
+ancient
+lina moebius
+linda's voice
+large woman
+newscaster voice
+drake
+young man
+stuart
+miriam
+brand
+woman
+another voice
+anchor's voice
+photographer
+nazi soldier
+reporter
+murmuring voices
+enraged man
+enraged wife
+people
+zingesser
+****Speakers from script :Belle.txt****
+
+lady mary
+lord mansfield
+lady mansfield
+dido
+reverend davinier
+elizabeth
+lady ashford
+wimbridge
+john
+oliver
+james
+maid
+zoffany
+mabel
+cut to:
+lord ashford
+harry
+gentleman 1
+baroness vernon
+mr vaughan
+lord mayor
+clerk
+****Speakers from script :Beloved.txt****
+
+howard
+denver
+baby suggs
+sethe
+paul
+halle
+sixo
+neighboring farmer
+garner
+carnival barker
+beloved
+engraver
+nan
+white man
+second boy
+amy
+stamp paid
+boy
+ellla
+ella
+white guard
+schoolteacher
+woman
+bulgar
+nephew
+sheriff
+white boy
+sawyer
+lady jones
+grace
+janey
+young man
+****Speakers from script :Best_Exotic_Marigold_Hotel.txt****
+
+automated voice
+female voice
+evelyn
+giles
+graham
+judge
+muriel
+karen
+evan
+jean
+douglas
+judith
+norman
+craig
+madge
+jessica
+liam
+katie
+taxi driver
+christopher
+harold
+dr ghujarapartidar
+indian voice
+abi
+simon
+mrs megson
+mrs jellinek
+jackson
+security guard
+airport announcer
+sonny
+ajit
+pravesh
+sanjay
+the ball
+suresh
+telemarketers
+jay
+sunaina
+mr maruthi
+mrs kapoor
+day
+mr draruna
+mr dharuna
+mr chidambram
+barman
+sunanina
+carol
+akram
+jamshed
+anokhi
+waiter
+otherwise
+dr rama
+gaurika
+evening
+rooms
+yes
+ifti
+****Speakers from script :Big.txt****
+
+josh
+mom
+billy
+cynthia
+dad
+darin
+man
+coach
+police
+woman
+susan
+scott
+paul
+boy
+realtor
+driver
+****Speakers from script :Big_Blue.txt****
+
+underwater
+the boys
+boys
+jacques
+first boy
+second boy
+enzo
+roberto
+boy
+priest
+father
+uncle louis
+supervisor
+johana
+old man
+frank
+lawrence
+driver
+sally
+duffy
+receptionist
+waiter
+mamma molinari
+novelli
+tahitian
+paramedic
+doctor
+trainer
+technician
+superintendent
+noireuter
+bonita
+medic
+a doctor
+****Speakers from script :Big_Eyes.txt****
+
+jane
+boss
+margaret
+tourist guy
+man's voice
+her pov
+walter
+wide
+on margaret
+on walter
+later
+voice
+friendly guy
+ruben
+fancy lady
+outside
+onstage
+banducci
+tipsy lady
+tipsy man
+dick
+groupie
+european blonde
+walter's voice
+minutes later
+priest's voice
+hipster lady
+hipster man
+at walter
+nosy guy
+blonde clerk
+lily
+rich man
+watching this
+redhead clerk
+storage room
+canaday
+civic leader
+society man
+the keanes
+hippie chick
+jehovah's witnesses
+gannett lawyer
+judge
+bailiff
+down front
+the jurors
+the judge
+portly lady
+****Speakers from script :Big_Fish.txt****
+
+edward
+little brave
+will
+will's date
+sandra
+josephine
+zacky
+don price
+wilbur freely
+ruthie
+young will
+young edward
+girl
+sharecropper
+little girl
+mayor
+some farmer
+shephard
+karl
+various townfolk
+man's voice
+beamen
+mildred
+norther winslow
+jenny
+cashier
+amos
+jump leader
+ping
+jing
+the man
+teller woman
+student
+nurse
+son
+kid
+****Speakers from script :Big_Lebowski.txt****
+
+george bush
+dude
+voice
+chinese man
+blond man
+woo
+man
+walter
+donny
+young man
+lebowski
+hallway
+brandt
+young woman
+bunny
+smokey
+another voice
+allan
+quintana
+younger cop
+older cop
+maude
+dieter
+driver
+tony
+second chauffeur
+waitress
+message
+first man
+second man
+third man
+policeman
+gary
+bartender
+the stranger
+woman
+pilar
+viva voce
+treehorn
+chief
+phone voice
+maude's voice
+da fino
+kieffer
+franz
+donnelly
+****Speakers from script :Big_Sick.txt****
+
+chris
+kumail
+mary
+cj
+dodd
+emily
+jessie
+siri
+azmat
+naveed
+sharmeen
+fatima
+all
+zubeida
+sharmen
+audience
+yazmin
+sam
+khadija
+denise
+bob dalavan
+dalavan
+nurse bette
+nurse judy
+beth
+terry
+sumera
+heckler
+emily's voice
+stu
+dr cunningham
+****Speakers from script :Big_White.txt****
+
+written by
+corporal
+detective boyle
+hair stylist
+man's voice
+teenager
+ted
+howard
+cam
+paul
+branch
+tiffany
+avis
+paperboy
+margaret
+gary
+jimbo
+raymond
+nephew
+dave
+bully
+female cop
+tv reporter
+pizza guy
+minister
+spellman
+arnith
+bill
+girl
+dave's wife
+****Speakers from script :Birdman.txt****
+
+riggan
+sam
+korean
+stage hand
+jake
+lesley
+ralph
+laura
+annie
+crew member
+blond woman
+gabriel
+clara
+han
+leslie
+mike
+larry
+sylvia
+husband
+lady
+kid
+tabitha
+a voice
+birdman
+dresser
+tourist
+crowd
+old usher
+bartender
+waiter
+guy
+good neighbor
+usher
+man
+woman
+technician
+host
+smash to black         *
+****Speakers from script :Birds.txt****
+
+melanie
+mitch
+man's voice
+man
+clerk
+harry's voice
+annie's voice
+annie
+fisherman
+deke
+lydia
+cathy
+malone
+lydia's voice
+mitch's voice
+farmhand
+children
+helen
+drunk
+sholes
+sam's voice
+woman
+little girl
+little boy
+salesman
+boy
+sam
+melanie's voice
+announcer
+****Speakers from script :Birthday_Girl.txt****
+
+john
+nadia
+answer machine
+voice over
+clare
+branch manager
+trainer
+yuri
+alexei
+moseley
+passing colleague
+colleague
+waitress
+sergeant
+policeman
+subtitle
+official
+police 1
+police 2
+sophia
+woman's voice
+****Speakers from script :BlacKkKlansman.txt****
+
+ron stallworth
+chief bridges
+officer mulaney
+landers
+flip
+jimmy
+patrice
+kwame ture
+black mass
+officer cincer
+pre-recorded message
+sgt. trapp
+ron stallworth, flip and jimmy
+felix
+walter
+ivanhoe
+all
+connie
+pleasant man
+devin davis
+ron
+klansmen
+odetta
+hakeem
+agent y
+butch
+walker
+jesse
+jerome turner
+josh
+omitted
+american terrorists
+****Speakers from script :Black_Dahlia.txt****
+
+voice
+voice over
+lee blanchard
+lee
+bucky
+rookie
+tom
+secretary
+chief green
+ellis loew
+loew
+fay
+kay
+dolph
+pete
+tierney
+russ millard
+harry
+bruno
+boy
+koenig
+vogel
+white hophead
+detective
+officer
+coroner
+captain jack
+cleo short
+sheryl
+marjorie
+elizabeth short
+bartender
+announcer
+millard
+red manley
+harry sears
+madeleine
+emmett sprague
+ramona
+martha
+linda martin
+chief horrall
+buck
+radio dispatcher
+dewitt
+agent
+hooker
+betty short
+bidwell
+durkin
+issler
+fritzie
+sally
+johnny vogel
+johnny
+desk sergeant
+intercom
+jastrow
+captain vasquez
+vasquez
+old man
+old woman
+ernie
+man
+dolphine
+woman
+jane chambers
+vic
+baxter fitch
+thad green
+old drunk
+girl
+****Speakers from script :Black_Panther.txt****
+
+son
+father
+james
+doramilaje 1
+n' jobu
+bbc anchor
+okoye
+an
+militant leader
+dressed in
+cargotruckmilitant
+fromthe road
+on panther
+nakia
+nigerian woman
+mountain
+ramonda
+ayo
+t' challa
+later
+museum director
+killmonger
+killmon ger
+security guard
+linda
+klaue
+limbani
+and climb
+crowd
+zuri
+vessel
+tribe elder
+bordertribe elder
+pool
+w' kabi
+a dragonflyer
+shuri
+le
+ross
+thirsty gambler
+on nakia
+on okoye
+on klaue
+southafrican tough
+downstairs
+of
+wool
+driver
+ng
+afternoon
+noon
+aiming
+flashback
+shuri's projection
+started calling
+ger
+to
+shaman
+youngkillmonger
+wakandan
+m' baku
+t' chaka
+ar
+bordertribe commander
+bordertribe
+downhill
+airspace
+in
+as broken
+youngblack kid
+youngblackkid
+a frenchambassador
+frenchambassador
+child
+wakandanchildren
+bucky
+****Speakers from script :Black_Rain.txt****
+
+nick
+dealer
+player one
+debutante
+boyfriend
+charlie
+zachara
+connie
+number one
+businessman
+abolofia
+oliver
+techie
+attorney
+nagashima
+inspector
+kobo
+ohashi
+ich
+joyce
+police lieutenant
+radio
+clerk
+hostess
+sugai
+girl
+sergeant
+****Speakers from script :Black_Snake_Moan.txt****
+
+gill
+ronnie
+rae
+lazarus
+rose
+waitress
+tehronne
+man
+sandy
+lincoln
+mayella
+bojo
+deke
+jesse
+kell
+conner
+batson
+bryan
+guardsman
+operator
+melvin
+angela
+charlie
+gene
+archie
+ella mae
+girl
+red
+herman
+mark
+hershel
+arty
+****Speakers from script :Black_Swan.txt****
+
+nina
+erica
+erica nina
+veronica
+galina
+soloist 1
+new girl
+ballet mistress
+leroy
+beth
+lily
+david
+susie
+older nurse
+waiter
+andrew
+tom
+double
+costumer
+piano player
+stage manager
+rothbart
+****Speakers from script :Blade.txt****
+
+blade
+senior resident
+resident
+dennis
+raquel
+quinn
+assistant
+curtis
+karen
+julie
+whistler
+frost
+dragonetti
+pallintine
+frost's voice
+gideon
+tanaka
+automated voice
+tanaka's voice
+voice
+doorman
+kid
+pearl's voice
+pearl
+kam
+man
+mercury
+woman
+miracia
+vampire
+vanessa
+revenant
+curtis revenant
+****Speakers from script :Blade_II.txt****
+
+employee
+nurse
+nomak
+doctor
+blade
+vampire
+whistler
+scud
+second intruder
+asad
+nyssa
+damaskinos
+stevens
+reinhardt
+chupa
+verlaine
+priest
+corpulent vampire
+lighthammer
+dealer
+er nurse
+policeman
+rush
+****Speakers from script :Blade_Runner.txt****
+
+leon
+holden
+deckard
+voice
+gaff
+bryant
+announcer's voice
+batty
+chew
+sebastian
+pris
+esper
+mouse
+rachael
+tyrell
+deckard's voice
+rachel
+wheeler
+epser
+taffey
+salome
+zhora
+cop
+sergeant
+bartender
+russian
+rachael's voice
+mary
+pig
+styles
+ian
+decakrd
+batty's voice
+****Speakers from script :Blade__Trinity.txt****
+
+male figure
+danica
+grimwood
+asher
+wolfe
+hendrix
+voice
+asker
+larry
+vance
+vreede
+blade
+whistler's voice
+old woman
+gedge
+whistler
+woman's voice
+reporter
+cumberland
+fbi agent
+dingo
+proof
+flick
+abigail
+agent
+agent's voice
+hale
+king
+dex
+hedges
+sommerfield
+man
+drake
+goth guy
+goth vixen
+hoop
+narrator
+security guard
+executive assistant
+woman
+sodderfield
+zoe
+computer
+grinwood
+arigail
+caulder
+as her
+blade's pov
+lucius
+****Speakers from script :Blast_from_the_Past.txt****
+
+helen
+calvin
+pilot
+betty
+dave
+ruth
+bob
+guest
+harold
+ron
+jfk
+tower
+levy
+atkinson
+boss
+realtor
+woman buyer
+man buyer
+adam
+mom
+soda jerk
+other bum
+street walker
+woman
+mother
+child
+postal worker
+pakistani
+psycho
+clerk
+butcher
+jerry
+eve
+bellboy
+desk clerk
+manager
+cliff
+troy
+sophie
+jason
+miss sweet
+heather
+aron
+brown
+webbers
+broker
+store owner
+****Speakers from script :Blind_Side.txt****
+
+granger
+michael
+big tony
+cotton
+steven
+sandstrom
+leigh anne
+sean
+sj
+si
+collins
+bob
+glenda
+april
+alton
+salesman
+beth
+elaine
+sherry
+nearby
+girl student
+photographer
+message machine
+patrick ramsey
+cousin bobby
+friend
+next play
+dmv employee
+to
+employee
+ronald
+denise oher
+fireman
+jay collis
+milford dad
+referee
+tony
+secretary
+tom lemming
+assistant
+phil fulmer
+fulmer
+clemson coach
+miss sue
+nick saban
+saban
+nutt
+tommy tuberville
+lou holtz
+ed orgeron
+david
+michael's voice
+****Speakers from script :Bling_Ring.txt****
+
+shooting script
+rebecca
+nicki
+cut to black
+sam
+laurie
+debbie
+marc
+school girl
+beach girl
+chloe
+sarah
+kid
+wasted boy
+rob
+ricky
+audrina
+emily
+starlet
+journalist
+henry
+grandma
+drunk girl
+party girl
+man's voice
+cop
+police officer
+rebecca's mom
+detective
+kate
+shannon
+adam
+reporter
+tv reporter
+interviewer
+****Speakers from script :Blood_Simple.txt****
+
+woman
+man
+ray
+voice
+abby
+marty
+visser
+meurice
+debra
+abby's voice
+teenager
+landlady
+exhorter
+evangelist
+woman's voice
+marty's voice
+rhodes
+kyle
+****Speakers from script :Blood_and_Wine.txt****
+
+****Speakers from script :Blow.txt****
+
+registration woman
+george
+fred
+girls
+tuna
+barbara
+derek
+kevin
+rada
+maria
+santiago
+amigos
+mexican boy
+ermine
+judge
+both
+trout
+guard
+diego delgado
+diego
+cesar
+customs agent
+stevens
+inez
+alessandro
+escobar
+bank president
+mirtha
+augusto
+ramon ochoa
+rafael ojeda
+emilio ochoa
+tony
+benny
+blanca
+nurse
+everyone
+party guest
+bartender
+waiter
+bank employee
+kristina
+leon
+ben
+zigmond
+garcia
+clerk
+prosecutor
+calibanos
+admissions officer
+gus
+****Speakers from script :Blue_Valentine.txt****
+
+frankie
+dean
+cindy
+feinberg
+jerry
+jo
+saned
+curtis
+bobby
+glenda
+gramma
+gramma francis
+omitted
+doctor
+message
+concierge
+amanda
+maria
+mimi
+justice
+****Speakers from script :Blue_Velvet.txt****
+
+gregg's mother
+college boy
+louise
+jeffrey
+aunt barbara
+nurse cindy
+detective williams
+coroner's officer
+sandy
+mike
+ed
+old lady
+dorothy
+waiter
+jimmy
+frank
+yellow man
+paul
+raymond
+willard
+ben
+donny
+detectives
+****Speakers from script :Body_Heat.txt****
+
+third draft
+racine
+angela
+judge costanza
+lowenstein
+stella
+a voice
+matty
+mary ann
+sam
+grace
+glenda
+beverly
+walker
+teddy
+heather
+roz
+stocky trucker
+ragged bum
+secretary
+hardin
+oscar
+glenn
+****Speakers from script :Body_of_Evidence.txt****
+
+cardenas
+reese
+mccurdy
+troxell
+joanne
+sattler
+sharon
+dulaney
+michael
+rebecca
+biggs
+33
+man
+rebecca's voice
+judge burnham
+his pov
+61
+ester
+roston
+miss sellers
+jury foreman
+court clerk
+koehler
+man's voice
+****Speakers from script :Bodyguard.txt****
+
+for educational
+klingman
+devaney
+frank
+tony
+dress designer
+rachel
+fletcher
+spector
+henry
+nicki
+court
+woman
+thuringer
+portman
+herb
+dock
+clive
+frank's face
+aisle
+****Speakers from script :Bones.txt****
+
+shotgun
+palmer
+jason
+stank
+older cop
+younger cop
+lupovich
+bones
+maurice
+patrick
+tia
+bill
+hollow echoes
+pearl
+cinnabar
+mack
+weaze
+guard
+jeremiah
+nancy
+tv anchor
+cla
+old woman
+wheelchair man
+wino
+old man
+clubber
+investigator
+cop
+coke whore
+sal
+****Speakers from script :Bonfire_of_the_Vanities.txt****
+
+april 2, 1990
+female aide
+various waiters
+elevator doors
+sherman
+judy
+pollard
+doorman
+campbell
+another man
+fourth man
+seventh man
+rawlie
+maria
+roland
+kramer
+ray
+clerk
+judge white
+martin
+goldberg
+cut to:
+bacon
+peter
+caroline
+evelyn
+moore
+albert
+fox
+assistant
+rifkin
+workman
+weiss
+hayden
+killian
+sally
+arthur
+boris
+voices
+spectators
+crowd
+nunnally voyd
+man
+another woman
+andriutti
+leach
+director
+demonstrators
+judge
+****Speakers from script :Bonnie_and_Clyde.txt****
+
+bonnie
+clyde
+farmer
+teller
+man
+buck
+blanche
+voice
+young man
+buck's voice
+clyde's voice
+bank guard
+woman teller
+photographer
+first policeman
+second policeman
+woman
+eugene
+velma
+sister
+bonnie's uncle
+uncle's voice
+mother
+bonnie's voice
+deputy
+boy
+malcolm
+billy
+pete
+hamer
+****Speakers from script :Boogie_Nights.txt****
+
+****Speakers from script :Book_of_Eli.txt****
+
+eli
+young woman
+bandit leader
+engineer
+carnegie
+redridge
+discontented villager
+hog
+claudia
+bartender
+burly patron
+solara
+carnegie gunman
+slumped female
+brigand leader
+rifle bandit
+elderly man
+elderly woman
+martha
+george
+driver
+alcatraz guard
+soldier
+thin man
+lombardi
+****Speakers from script :Boondock_Saints.txt****
+
+monsignor
+connor
+murphy
+mcgerkin
+roz
+both boys
+mom
+both
+greenly
+greely
+smecker
+chief
+greeny
+mitchell
+chaffey
+dolly
+duffy
+reporter
+doc
+rocco
+checkov
+vincenzo
+yakavetta
+reuben
+donna
+dancer
+rayvie
+vinnie
+oly
+augustus
+the man
+il duce
+bartender
+priest
+geno
+hojo
+chappy
+father
+judge
+woman
+****Speakers from script :Boondock_Saints_2__All_Saints_Day.txt****
+
+murphy
+connor
+sibeal
+duffy
+dolly
+greenly
+eunice
+11.
+deck hand
+mexican seaman
+both
+romeo
+19.
+concezio
+cab driver
+pedestrian
+chief
+dock worker
+brothers
+38.
+doc
+the brothers
+george
+45.
+cesar
+jo jo
+roy
+crew cut
+old man
+66.
+gun dealer
+jimmy
+kuntsler
+78.
+lloyd
+86.
+94.
+jacob
+louie
+patronazzi
+rocco
+roman
+106.
+sally mcbride
+ballplayer
+comedian
+politician
+****Speakers from script :Bottle_Rocket.txt****
+
+bottle rocket
+dignan
+anthony
+woman
+bob
+little richard
+temple
+future man
+girlfriend
+employee
+rob
+manager
+voice
+phil
+phil's girlfriend
+neighbor
+officer
+cop
+bob's voice
+girl
+maid
+inez
+husband
+man
+applejack
+kumar
+jackson
+clay
+rowboat
+girl 2
+****Speakers from script :Bound.txt****
+
+written by
+woman
+corky
+violet
+bartender
+sue
+woman cop
+caesar
+shelly
+angry voice
+johnnie
+mickey
+gino
+****Speakers from script :Bounty_Hunter.txt****
+
+****Speakers from script :Bourne_Identity.txt****
+
+giancarlo
+the captain
+captain
+the man
+ticket agent
+marshall
+conklin
+zorn
+abbott
+receptionist
+apfel
+bourne
+deposit guard
+marie
+clerk
+woman clerk
+security chief
+gun marine
+someone screaming
+deputy dcm
+lead marine
+security
+wombosi
+concierge
+phone machine
+the concierge
+deauvage
+telephone voice
+new voice
+rawlins
+morgue boss
+professor
+****Speakers from script :Bourne_Supremacy.txt****
+
+3
+marie
+bourne
+4
+5
+back to
+kirill
+b34
+scope pov
+cronin
+72
+76
+marshall
+pamela
+77   *
+ivan
+vic
+85
+91-92a
+a93
+teddy
+treadstone
+abbott
+naples
+109-114
+117
+immigration officer
+nevins
+127
+nicky
+kim
+kurt
+zorn
+142
+munich
+jarda
+165
+conklin
+his pov
+bourne's voice
+nicky's voice
+t187
+e193
+clerk
+205
+206
+swat captain
+b216
+gretkov
+248   *
+260
+261-262    *
+267   *
+275
+taxi driver
+285
+294
+irena
+359
+****Speakers from script :Bourne_Ultimatum.txt****
+
+final shooting script
+bourne
+black screen
+cronin
+kramer
+landy
+ross
+daniels
+martin
+ellatrache
+supervisor
+wills
+vosen
+editor
+reporter
+jimmy
+survey one
+mobile 2
+survey two
+agent one
+agent two
+voice
+another voice
+techy 2
+tech
+scope pov
+waiter
+hammond
+nicky
+delta dude
+spanish police
+bryan
+agent 3
+agent 4
+cri agent
+hirsch
+paz
+****Speakers from script :Box.txt****
+
+norma
+arthur
+walter
+dana
+bud
+normal
+charles
+poates
+cahill
+wendell
+arlington
+susan
+jim
+bev
+nathan
+deborah
+powell
+female voice
+secretary
+librarian
+bevilacqua
+receptionist
+steward twin
+reston
+reston steward
+elizabeth
+sniper
+preacher
+stupe
+ems technician
+teague
+suzanne
+****Speakers from script :Boxtrolls.txt****
+
+snatcher
+lord portley-rind
+fish
+shoe
+knickers
+fragile
+oil can
+eggs
+winnie
+langsdale
+broderick
+all
+boulanger
+townsperson 1
+photographer
+townsfolk boy
+gristle
+crowd
+townsperson 2
+boxtroll prisoners
+prisoner
+pickles
+eggs/winnie
+clocks
+herbert
+boxtrolls
+lady cynthia
+lady broderick
+sir broderick
+sir langsdale
+crowd men
+crowd ladies
+female townsfolk 1
+boy
+male townsfolk
+workman a
+shopkeeper lady
+shopkeeper b
+sweets
+****Speakers from script :Boyhood.txt****
+
+mom
+mason
+tommy
+samantha
+ted
+boys
+teacher
+grandma
+dad
+samamtha
+bill
+kids
+mindy
+randy
+waiter
+neighborhood boy
+neighborhood girl
+paul
+emcee
+man
+jimmy
+students
+clerk
+carol
+abby
+kenny
+resident
+blonde housewife
+tammy
+song
+tony
+jill
+gaby
+chase
+senior guy
+charlie
+professor douglas
+college girl
+jim
+blonde girl
+annie
+worker
+grandpa cliff
+nana
+all
+preacher
+turlington
+nick
+sheena
+april
+baby
+boyfriend
+musicians
+waitress
+roommate
+uncle steve
+guests
+ernesto
+dalton
+barb
+nicole
+****Speakers from script :Braveheart.txt****
+
+voice over
+father
+william
+john
+ghoul
+campbell
+macclannough
+malcolm wallace
+malcolm
+hamish
+priest
+argyle
+leader
+longshanks
+princess
+old advisor
+edward
+craig
+robert
+mornay
+soldier
+farm woman
+farmer stewart
+girl
+nobleman
+stewart
+mother
+marion
+market women
+fallen soldier
+village folks
+magistrate
+corporal
+crowd
+macgregor
+wallace
+lord bottoms
+scots
+nicolette
+woman
+the leper
+faudron
+sentry
+voice
+stephen
+scout
+dolecroft
+pickering
+assistant
+hamish's voice
+handler
+lord pickering
+villager
+farmer
+drinker
+runner
+people
+lochlan
+young soldier
+scottish veteran
+veteran
+cheltham
+talmadge
+general
+scottish soldiers
+elder
+steward
+balliol
+captain
+governor
+rider
+phillip
+crony
+advisor
+leper
+chief assassin
+royal magistrate
+jailer
+english commander
+wallace's voice
+****Speakers from script :Brazil.txt****
+
+interviewer
+helpmann
+jill
+mrs buttle
+girl buttle
+boy buttle
+official
+charlie
+bill
+mr kurtzman
+sam
+jack
+porter
+kurtzman
+doctor
+mother
+spiro
+mrs terrain
+shirley
+phone voice
+gent
+tuttle
+spoor
+dowser
+neighbour
+kid
+girl
+woman
+dr jaffe
+beefcake
+dr chapman
+alison
+expediter 1
+expediter 2
+expediter 3
+warren
+expediter 4
+expediter 5
+expediter 6
+lime
+charlady
+typist
+on typewriter
+earphone
+voice
+guard
+old lady
+other guard
+guard 3
+matthews
+choir master
+guards
+female voice
+guard's voice
+young gallant
+mr helpmann
